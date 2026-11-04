@@ -1,0 +1,26 @@
+/* Language navigation and room for longer translated copy. */
+header .language-switcher>button{white-space:nowrap;gap:7px}
+.language-switcher svg{fill:none;stroke:currentColor;stroke-width:1.6;flex:none}
+header .language-options{width:180px;left:auto;right:0}
+.language-options a{white-space:nowrap}
+.language-options a[aria-current="true"]{font-weight:700;color:var(--teal);background:var(--pale)}
+:lang(es) h1,:lang(fr) h1,:lang(de) h1,:lang(pt) h1,:lang(ru) h1{overflow-wrap:break-word;hyphens:auto}
+html:not([lang="en"]) h2,html:not([lang="en"]) h3{overflow-wrap:break-word;hyphens:auto}
+html:not([lang="en"]) .button,html:not([lang="en"]) .outline{white-space:normal;max-width:100%;text-align:center;overflow-wrap:break-word}
+html:not([lang="en"]) .services>*,html:not([lang="en"]) .reason-grid>*,html:not([lang="en"]) .steps>*,html:not([lang="en"]) .hero-inner{min-width:0}
+html:not([lang="en"]) .home .hero.hero-service .hero-inner>h1{hyphens:auto}
+html:not([lang="en"]) .contact-value{overflow-wrap:anywhere}
+@media(min-width:701px) and (max-width:1480px){header .nav-cta{display:none}}
+@media(min-width:701px) and (max-width:900px){
+ header{position:relative;min-height:90px}.nav-cta{display:none}
+ header .menu{display:block;background:none;border:1px solid var(--line);padding:5px 11px;color:var(--blue);font-size:23px}
+ header nav{display:none;position:absolute;top:100%;left:0;right:0;background:#fff;padding:20px 6%;z-index:20;box-shadow:0 15px 20px #173b5b18}
+ header nav.open{display:flex;align-items:stretch;flex-direction:column;gap:12px}
+ header nav>a{padding:8px 0}header .dropdown>button{padding:8px 0;width:100%;justify-content:space-between}
+ header .submenu{position:static;box-shadow:none;width:auto;border-left:2px solid var(--teal);border-top:0;margin:5px 0}
+}
+@media(max-width:900px){header .language-options{width:100%;max-height:300px;overflow-y:auto}}
+@media(max-width:700px){html:not([lang="en"]) .contactbar{gap:12px}html:not([lang="en"]) .contactbar>a{font-size:9px}html:not([lang="en"]) .hero-service .actions>*{min-height:52px;height:auto}html:not([lang="en"]) footer{overflow-wrap:anywhere}}
+/* Explicit state lets Escape close the language panel even while focused. */
+header nav .language-switcher:not(.open)>.submenu{display:none}
+header nav .language-switcher.open>.submenu{display:block}

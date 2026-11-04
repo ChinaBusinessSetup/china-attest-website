@@ -1,0 +1,15 @@
+/* A compact single line of payment brands on the existing navy footer. */
+footer .payment-methods{grid-column:1/-1;min-width:0;padding:22px 0 0;border-top:1px solid #ffffff22;background:transparent}
+footer .payment-methods-title{display:flex;align-items:center;gap:9px;margin:0 0 17px;color:#bdcbd5;font:9px/1.6 Arial,sans-serif;letter-spacing:1.5px}
+footer .payment-methods-title::before{content:"";width:4px;height:4px;flex:0 0 4px;background:#60c5c6;border-radius:50%}
+footer .payment-methods-list{list-style:none;display:flex;flex-wrap:nowrap;align-items:center;justify-content:space-between;gap:clamp(12px,1.8vw,27px);overflow-x:auto;scrollbar-width:thin;scrollbar-color:#688394 transparent;padding:3px 0 9px;margin:0}
+footer .payment-methods-list li{flex:0 0 auto;display:flex;align-items:center;justify-content:center;gap:5px;min-height:25px;margin:0;padding:0;border:0;border-radius:0;background:transparent}
+footer .payment-methods-list img{display:block;object-fit:contain;flex-shrink:0;max-width:100%;height:21px}
+footer .payment-brand-wordmark{width:76px}
+footer .payment-brand-icon{width:19px}
+footer .payment-brand-label{color:#f1f5f7;font:500 10px/1.4 Arial,sans-serif;white-space:nowrap;letter-spacing:0}
+footer img[src$="wise.png"],footer img[src$="lemfi.svg"],footer img[src$="paysend.svg"]{filter:brightness(0) invert(1)}
+footer img[src$="taptap-send.png"]{border-radius:50%;height:20px;width:20px}
+footer .payment-brand-remitly{filter:none}
+@media(max-width:1100px) and (min-width:701px){footer .payment-methods-list{gap:12px}footer .payment-brand-wordmark{width:68px}footer .payment-methods-list img{height:19px}footer .payment-brand-label{font-size:9px}footer .payment-brand-icon{width:17px}}
+@media(max-width:700px){footer .payment-methods{padding-top:20px}footer .payment-methods-title{font-size:9px;margin-bottom:14px}footer .payment-methods-list{justify-content:flex-start;gap:24px;padding-bottom:12px}footer .payment-brand-wordmark{width:70px}footer .payment-methods-list img{height:20px}footer .payment-brand-label{font-size:10px}footer .legal{padding-bottom:14px}}
