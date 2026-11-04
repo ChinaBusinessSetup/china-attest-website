@@ -1,0 +1,5 @@
+/* Show each supplied photo in full, including group portraits. */
+.reference-reviews .review-avatar.review-avatar-photo,.review-detail .review-avatar.review-avatar-photo{width:180px!important;max-width:100%!important;min-width:0!important;height:auto!important;margin:0 25px 18px 0!important;background:transparent;overflow:visible}
+.reference-reviews .review-avatar.review-avatar-photo img,.review-detail .review-avatar.review-avatar-photo img{width:180px!important;max-width:100%!important;height:auto!important;max-height:240px;object-fit:contain;border-radius:4px}
+.review-photo-note{clear:both;font:11px/1.6 Arial,sans-serif!important;color:#657782;margin:8px 0 14px!important}
+@media(max-width:480px){.reference-reviews .review-avatar.review-avatar-photo,.review-detail .review-avatar.review-avatar-photo{float:none;display:block;margin:0 auto 20px!important;width:180px!important}.review-photo-note{font-size:10px!important}}
