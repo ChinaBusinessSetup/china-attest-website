@@ -1,0 +1,66 @@
+/* Homepage refinements. Scoped styles keep the existing inner pages intact. */
+.home{--teal:#007e85;--muted:#566c79}
+.home .skip-link{position:absolute;left:16px;top:-100px;z-index:100;background:white;padding:12px 20px}
+.home .skip-link:focus{top:12px}
+.home .hero:has(.office-hero){padding:50px 6% 55px;gap:5%;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);background:#edf3f4;min-height:570px}
+.home .hero:has(.office-hero) h1{font-size:clamp(42px,4.8vw,70px);line-height:1.08;letter-spacing:-2px;margin:24px 0}
+.home h1>span{color:var(--teal)}
+.home .hero small{font-size:10px;letter-spacing:1.6px}
+.home .hero p{font-size:17px;line-height:1.85;max-width:540px}
+.home .actions{flex-wrap:wrap;gap:14px;margin:30px 0}
+.home .actions .button,.home .actions .outline{font-size:13px;min-height:50px;align-content:center}
+.home .hero-bottom{font-size:9px;letter-spacing:.65px;gap:12px;line-height:1.8}
+.home .hero-art.office-hero{border-radius:3px;box-shadow:0 16px 40px #173b5b12}
+.home .intro{padding-top:76px;padding-bottom:76px}
+.home .intro>h2{max-width:750px;margin:auto}
+.home .intro>p{font-size:16px;max-width:670px;margin:22px auto 38px}
+.home .services{gap:24px}
+.home .service{padding:32px;box-shadow:0 4px 16px #173b5b03}
+.home .service small{color:#596f7c}
+.home .service p{font-size:15px;line-height:1.8}
+.home .service h3{font-size:24px;font-family:Georgia,serif}
+.home .service a{gap:12px;min-height:48px;font-size:13px}
+.home .reason-grid p,.home .steps p{font-size:14px;line-height:1.85}
+.home .reasons h3{font-size:14px}
+.home .steps h3{font-size:19px}
+.home .process h2{max-width:760px;margin:auto}
+.home .process{padding-top:76px;padding-bottom:76px}
+.home .steps{gap:30px;counter-reset:step}
+.home .steps article{text-align:left;border-top:1px solid var(--line);padding-top:24px}
+.home .steps b{border-radius:0;background:transparent;color:var(--teal);font:36px Georgia;justify-content:flex-start;margin-bottom:20px}
+.home .faq summary{font-size:16px;min-height:30px}
+.home .faq details p,.home .faq>div>p{font-size:14px;line-height:1.85}
+.home footer p{font-size:12px}
+.home .floating{padding:13px 22px}
+@media(min-width:1101px){.home header nav{justify-content:flex-end;gap:clamp(22px,2.7vw,40px)}.home header{padding-left:6%;padding-right:6%}}
+@media(max-width:1000px) and (min-width:701px){.home .hero:has(.office-hero){padding:40px 5%;gap:4%}.home .hero:has(.office-hero) h1{font-size:44px}.home .hero p{font-size:15px}.home .service{padding:25px}.home .service h3{font-size:21px}.home .service p{font-size:14px}}
+@media(max-width:700px){.home .hero:has(.office-hero){grid-template-columns:minmax(0,1fr);padding:30px 6% 35px;gap:20px;min-height:0}.home .hero:has(.office-hero) h1{font-size:clamp(38px,10.8vw,60px);letter-spacing:-1.5px}.home .hero small{font-size:9px;line-height:1.8;letter-spacing:1px}.home .hero p{font-size:16px}.home .actions{display:grid;grid-template-columns:1fr;margin-bottom:24px}.home .actions a{text-align:center}.home .hero-bottom{font-size:8px;gap:8px}.home .hero-art.office-hero{max-width:500px}.home .intro,.home .process{padding-top:48px;padding-bottom:48px}.home .intro>h2,.home .process h2{font-size:32px}.home .intro>p{font-size:15px}.home .service{padding:28px}.home .service p{font-size:15px}.home .reason-grid,.home .steps{gap:30px 22px}.home .reason-grid p,.home .steps p{font-size:14px}.home .steps h3{font-size:18px}.home .faq summary{font-size:16px}.home .floating{font-size:12px;padding:12px 17px}.home .cta{padding-bottom:42px}}
+@media(max-width:380px){.home .reason-grid,.home .steps{grid-template-columns:1fr}.home .hero-bottom i{display:none}.home .hero-bottom{gap:5px 12px}}
+
+/* Homepage service hero: scoped layout and responsive typography. */
+.home .hero.hero-service:has(.office-hero){grid-template-columns:minmax(0,1.22fr) minmax(0,1fr);gap:clamp(48px,4vw,64px);padding:48px 6%;min-height:0;align-items:center}
+.home .hero.hero-service .hero-inner{width:auto;max-width:none;min-width:0;padding:0}
+.home .hero.hero-service h1{font-size:clamp(56px,4.2vw,68px);line-height:1.1;letter-spacing:-1.5px;margin:0 0 24px;overflow-wrap:normal;word-break:normal;hyphens:none}
+.home .hero.hero-service h1>span{display:block}
+.home .hero.hero-service .hero-title-primary{color:var(--blue)}
+.home .hero.hero-service .hero-title-accent{color:var(--teal)}
+.home .hero.hero-service .hero-description{font-size:clamp(18px,1.35vw,20px);line-height:1.75;max-width:580px;margin:0}
+.home .hero.hero-service .actions{display:flex;flex-wrap:wrap;gap:14px;margin:28px 0 0}
+.home .hero.hero-service .actions a{display:inline-flex;align-items:center;justify-content:center;min-height:52px;padding:12px 23px;line-height:1.4;font-size:14px;text-align:center;white-space:normal;max-width:100%;box-sizing:border-box;transition:background-color .18s,color .18s,border-color .18s}
+.home .hero.hero-service .actions .button{border:1px solid var(--teal);background:var(--teal);color:white}
+.home .hero.hero-service .actions .button:hover{background:#00686f;border-color:#00686f}
+.home .hero.hero-service .actions .outline{background:transparent;border:1px solid #8aa4b3;color:var(--blue)}
+.home .hero.hero-service .actions .outline:hover{background:#e0ecee;border-color:var(--teal)}
+.home .hero.hero-service .actions a:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
+.home .hero.hero-service .hero-help{font-size:13px;line-height:1.7;margin:14px 0 0;max-width:540px}
+.home .hero.hero-service .hero-art.office-hero{aspect-ratio:4/3;width:100%;height:auto;max-width:none;min-width:0;border-radius:6px;box-shadow:none}
+.home .hero.hero-service .office-hero img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 42%}
+@media(min-width:701px) and (max-width:1100px){.home .hero.hero-service:has(.office-hero){gap:32px;padding:38px 5%;grid-template-columns:minmax(0,1.22fr) minmax(0,1fr)}.home .hero.hero-service h1{font-size:clamp(42px,4.7vw,54px);letter-spacing:-1px}.home .hero.hero-service .hero-description{font-size:18px}.home .hero.hero-service .actions{gap:12px}.home .hero.hero-service .actions a{padding:12px 18px}}
+@media(max-width:700px){.home .hero.hero-service:has(.office-hero){grid-template-columns:minmax(0,1fr);gap:28px;padding:32px 6% 36px}.home .hero.hero-service h1{font-size:clamp(34px,8.8vw,42px);line-height:1.12;letter-spacing:-.7px;margin-bottom:20px}.home .hero.hero-service .hero-description{font-size:18px;line-height:1.75}.home .hero.hero-service .actions{display:grid;grid-template-columns:minmax(0,1fr);gap:12px;margin-top:24px}.home .hero.hero-service .actions a{width:100%;min-height:52px;font-size:15px}.home .hero.hero-service .hero-help{font-size:13px;margin-top:13px}.home .hero.hero-service .hero-art.office-hero{max-width:600px;margin:0 auto}}
+
+/* Keep the two headline sentences on two complete lines in every language. */
+.home .hero.hero-service .hero-inner{container-type:inline-size}
+.home .hero.hero-service h1{--hero-title-base:clamp(56px,4.2vw,68px);font-size:min(var(--hero-title-base),var(--hero-title-fit,7cqi))}
+.home .hero.hero-service h1>span{display:block;white-space:nowrap;overflow-wrap:normal;word-break:normal;hyphens:none}
+@media(min-width:701px) and (max-width:1100px){.home .hero.hero-service h1{--hero-title-base:clamp(42px,4.7vw,54px)}}
+@media(max-width:700px){.home .hero.hero-service h1{--hero-title-base:clamp(34px,8.8vw,42px)}}
