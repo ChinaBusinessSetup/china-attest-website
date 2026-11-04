@@ -1,0 +1,15 @@
+{
+  "PayPal": "https://newsroom.paypal-corp.com/media-resources",
+  "Wise": "https://wise.com/public-resources/assets/logos/wise-personal/logo.png",
+  "Remitly": "https://media.remitly.io/remitly_logo_horizontal_white_tu.zrhAxFCrR5s4IlKb.svg",
+  "MoneyGram": "https://www.moneygram.com/",
+  "Taptap Send": "https://www.taptapsend.com/",
+  "Paysend": "https://paysend.com/favicon.svg",
+  "LemFi": {
+    "official": "https://lemfi.com/",
+    "asset_mirror": "https://www.characterquilt.com/branding/lemfi",
+    "note": "Vector recorded from the official homepage; official server currently returns 403."
+  },
+  "WeChat Pay": "https://wx.gtimg.com/outwxgtimg/imgs/logo/wxpaylogo_xxxhdpi.png",
+  "Alipay": "https://global.alipay.com/"
+}

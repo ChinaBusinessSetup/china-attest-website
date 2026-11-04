@@ -1,0 +1,5462 @@
+[
+  {
+    "id": "0",
+    "text": "About China Attest | China Document Services",
+    "context": "about.html:title"
+  },
+  {
+    "id": "1",
+    "text": "China Attest helps foreign nationals with China police clearance, document authentication and degree verification. Contact +86 15118019493.",
+    "context": "about.html:meta"
+  },
+  {
+    "id": "2",
+    "text": "CHINA DOCUMENT SERVICES FOR FOREIGN NATIONALS",
+    "context": "about.html:span"
+  },
+  {
+    "id": "3",
+    "text": "Call: +86 151 1801 9493",
+    "context": "about.html:a"
+  },
+  {
+    "id": "4",
+    "text": "WhatsApp ↗",
+    "context": "about.html:a"
+  },
+  {
+    "id": "5",
+    "text": "WeChat: 15118019493",
+    "context": "about.html:button"
+  },
+  {
+    "id": "6",
+    "text": "China Attest",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "7",
+    "text": "Open navigation",
+    "context": "about.html:aria-label"
+  },
+  {
+    "id": "8",
+    "text": "Main navigation",
+    "context": "about.html:aria-label"
+  },
+  {
+    "id": "9",
+    "text": "Home",
+    "context": "about.html:a"
+  },
+  {
+    "id": "10",
+    "text": "Service",
+    "context": "about.html:button"
+  },
+  {
+    "id": "11",
+    "text": "China Police Clearance Certificate",
+    "context": "about.html:a"
+  },
+  {
+    "id": "12",
+    "text": "Apostille & Authentication",
+    "context": "about.html:a"
+  },
+  {
+    "id": "13",
+    "text": "Degree Verification",
+    "context": "about.html:a"
+  },
+  {
+    "id": "14",
+    "text": "How To",
+    "context": "about.html:button"
+  },
+  {
+    "id": "15",
+    "text": "How to Apply for a China Police Clearance Certificate",
+    "context": "about.html:a"
+  },
+  {
+    "id": "16",
+    "text": "How to Apply for an Apostille in China",
+    "context": "about.html:a"
+  },
+  {
+    "id": "17",
+    "text": "How to Get Your Degree Verified/Authenticated",
+    "context": "about.html:a"
+  },
+  {
+    "id": "18",
+    "text": "How to Get Documents Authenticated by an Embassy",
+    "context": "about.html:a"
+  },
+  {
+    "id": "19",
+    "text": "Contact",
+    "context": "about.html:a"
+  },
+  {
+    "id": "20",
+    "text": "About",
+    "context": "about.html:a"
+  },
+  {
+    "id": "21",
+    "text": "Guides",
+    "context": "about.html:a"
+  },
+  {
+    "id": "22",
+    "text": "Request a Consultation ↗",
+    "context": "about.html:a"
+  },
+  {
+    "id": "23",
+    "text": "About China Attest",
+    "context": "about.html:h1"
+  },
+  {
+    "id": "24",
+    "text": "Alina Xiao, Founder of China Attest",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "25",
+    "text": "China Attest is a service brand operated by Shenzhen Huanqiu Xuelv Technology Co., Ltd., a company established in Shenzhen, China. We help international clients navigate Chinese document procedures with clear guidance and dependable local support.",
+    "context": "about.html:p"
+  },
+  {
+    "id": "26",
+    "text": "Our core services include assistance with Chinese police clearance certificates, notarisation, apostilles, and document authentication and legalisation. We assist with academic certificates and other personal and commercial documents, supporting clients both in China and overseas.",
+    "context": "about.html:p"
+  },
+  {
+    "id": "27",
+    "text": "We understand that these documents often play an important role in employment, further study, immigration and other significant life decisions. Our role is to help you understand the requirements, prepare the necessary materials and coordinate the application process, keeping you informed along the way.",
+    "context": "about.html:p"
+  },
+  {
+    "id": "28",
+    "text": "Every client’s circumstances are different. We take time to understand your needs and explain the available options, service scope, fees and expected timeframe before work begins. We value careful document handling, respect for your privacy and straightforward communication throughout the process.",
+    "context": "about.html:p"
+  },
+  {
+    "id": "29",
+    "text": "Whether you are in China or managing your document requirements from overseas, China Attest provides a local point of contact to help you move forward.",
+    "context": "about.html:p"
+  },
+  {
+    "id": "30",
+    "text": "Tell us what you need, and we will help you understand the next steps.",
+    "context": "about.html:p"
+  },
+  {
+    "id": "31",
+    "text": "Discuss Your Requirements ↗",
+    "context": "about.html:a"
+  },
+  {
+    "id": "32",
+    "text": "YOUR NEXT STEP STARTS WITH A CONVERSATION",
+    "context": "about.html:small"
+  },
+  {
+    "id": "33",
+    "text": "Let’s make your China documents simpler.",
+    "context": "about.html:h2"
+  },
+  {
+    "id": "34",
+    "text": "Chat on WhatsApp ↗",
+    "context": "about.html:a"
+  },
+  {
+    "id": "35",
+    "text": "Practical document support for foreign nationals.",
+    "context": "about.html:p"
+  },
+  {
+    "id": "36",
+    "text": "Based in Shenzhen, China. Connected to your next chapter.",
+    "context": "about.html:tail"
+  },
+  {
+    "id": "37",
+    "text": "OUR COMPANY",
+    "context": "about.html:h4"
+  },
+  {
+    "id": "38",
+    "text": "Contact Us",
+    "context": "about.html:a"
+  },
+  {
+    "id": "39",
+    "text": "Client Experiences",
+    "context": "about.html:a"
+  },
+  {
+    "id": "40",
+    "text": "OUR SERVICES",
+    "context": "about.html:h4"
+  },
+  {
+    "id": "41",
+    "text": "HOW TO APPLY FOR",
+    "context": "about.html:h4"
+  },
+  {
+    "id": "42",
+    "text": "China Apostille",
+    "context": "about.html:a"
+  },
+  {
+    "id": "43",
+    "text": "Consular Authentication",
+    "context": "about.html:a"
+  },
+  {
+    "id": "44",
+    "text": "Payment methods",
+    "context": "about.html:aria-label"
+  },
+  {
+    "id": "45",
+    "text": "PAYMENT METHODS",
+    "context": "about.html:p"
+  },
+  {
+    "id": "46",
+    "text": "PayPal",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "47",
+    "text": "Wise",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "48",
+    "text": "Remitly",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "49",
+    "text": "MoneyGram",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "50",
+    "text": "Taptap Send",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "51",
+    "text": "Paysend",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "52",
+    "text": "LemFi",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "53",
+    "text": "WeChat Pay",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "54",
+    "text": "Alipay",
+    "context": "about.html:alt"
+  },
+  {
+    "id": "55",
+    "text": "© 2026 China Attest. All rights reserved.",
+    "context": "about.html:span"
+  },
+  {
+    "id": "56",
+    "text": "Chat with China Attest on WhatsApp",
+    "context": "about.html:aria-label"
+  },
+  {
+    "id": "57",
+    "text": "WhatsApp",
+    "context": "about.html:span"
+  },
+  {
+    "id": "58",
+    "text": "How to Get an Apostille in China | China Attest",
+    "context": "apostille-in-china/index.html:title"
+  },
+  {
+    "id": "59",
+    "text": "Learn how to get an apostille in China, including eligible documents, required materials, notarization, processing times, and the application process.",
+    "context": "apostille-in-china/index.html:meta"
+  },
+  {
+    "id": "60",
+    "text": "Breadcrumb",
+    "context": "apostille-in-china/index.html:aria-label"
+  },
+  {
+    "id": "61",
+    "text": "Apostille in China",
+    "context": "apostille-in-china/index.html:span"
+  },
+  {
+    "id": "62",
+    "text": "APOSTILLE / PRACTICAL GUIDE",
+    "context": "apostille-in-china/index.html:div"
+  },
+  {
+    "id": "63",
+    "text": "How to Get an Apostille in China: Documents, Requirements and Process",
+    "context": "apostille-in-china/index.html:h1"
+  },
+  {
+    "id": "64",
+    "text": "By China Attest",
+    "context": "apostille-in-china/index.html:span"
+  },
+  {
+    "id": "65",
+    "text": "3 November 2026",
+    "context": "apostille-in-china/index.html:time"
+  },
+  {
+    "id": "66",
+    "text": "10 min read",
+    "context": "apostille-in-china/index.html:span"
+  },
+  {
+    "id": "67",
+    "text": "Article contents",
+    "context": "apostille-in-china/index.html:aria-label"
+  },
+  {
+    "id": "68",
+    "text": "In this guide",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "69",
+    "text": "What is an apostille?",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "70",
+    "text": "When do you need one?",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "71",
+    "text": "Eligible documents",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "72",
+    "text": "Required materials",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "73",
+    "text": "Step-by-step process",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "74",
+    "text": "Processing times and fees",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "75",
+    "text": "Arranging it from overseas",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "76",
+    "text": "Foreign-issued documents",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "77",
+    "text": "Common mistakes",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "78",
+    "text": "Frequently asked questions",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "79",
+    "text": "How China Attest can help",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "80",
+    "text": "YOUR NEXT STEP",
+    "context": "apostille-in-china/index.html:small"
+  },
+  {
+    "id": "81",
+    "text": "Let’s review your documents.",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "82",
+    "text": "Tell us where your document was issued and where it will be used.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "83",
+    "text": "Discuss Your Case ↗",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "84",
+    "text": "If you need to use a Chinese document overseas, you may be asked to obtain an",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "85",
+    "text": "apostille",
+    "context": "apostille-in-china/index.html:strong"
+  },
+  {
+    "id": "86",
+    "text": ". This can apply to documents needed for immigration, education, employment, marriage, or business activities abroad.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "87",
+    "text": "The Apostille Convention took effect in mainland China on",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "88",
+    "text": "November 7, 2023",
+    "context": "apostille-in-china/index.html:strong"
+  },
+  {
+    "id": "89",
+    "text": ". For eligible public documents moving between countries where the Convention applies, an apostille replaces the traditional consular legalization process.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "90",
+    "text": "To get an apostille in China, you generally need to prepare a qualifying Chinese public document, complete any required notarization or certification, and submit it to China’s Ministry of Foreign Affairs or an authorized local foreign affairs office.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "91",
+    "text": "This guide explains which documents may qualify, what materials you need, and how the application process works. It focuses on",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "92",
+    "text": "documents issued in mainland China for use abroad",
+    "context": "apostille-in-china/index.html:strong"
+  },
+  {
+    "id": "93",
+    "text": ". Hong Kong and Macao have separate issuing arrangements.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "94",
+    "text": "What Is an Apostille?",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "95",
+    "text": "An apostille is an official certificate that authenticates the origin of a public document for use in another country where the Apostille Convention applies.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "96",
+    "text": "It verifies the authenticity of the signature, the capacity in which the signatory acted, and, where applicable, the seal or stamp on the document.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "97",
+    "text": "An apostille does not verify the truth of the document’s contents or guarantee acceptance by the receiving organization.",
+    "context": "apostille-in-china/index.html:strong"
+  },
+  {
+    "id": "98",
+    "text": "The receiving authority can still impose requirements concerning the document’s wording, format, translation, and date of issue.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "99",
+    "text": "For example, an apostille on a Chinese notarial certificate authenticates the relevant official signature or seal. You must still ensure that the notarial certificate is the type required for your overseas application.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "100",
+    "text": "When Do You Need an Apostille in China?",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "101",
+    "text": "You may need an apostille when:",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "102",
+    "text": "Your document was issued in mainland China.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "103",
+    "text": "It qualifies for the apostille procedure, either directly or after appropriate notarization or certification.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "104",
+    "text": "The Apostille Convention applies between China and the destination country.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "105",
+    "text": "The receiving authority requires this form of authentication.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "106",
+    "text": "Before proceeding, confirm the requirements with the immigration authority, university, employer, registry, bank, or other organization receiving your document.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "107",
+    "text": "If the Convention does not apply to your destination, a consular legalization procedure may be necessary instead. Some documents or uses may benefit from exemptions, so authentication should not be arranged automatically.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "108",
+    "text": "Which Documents Can Be Apostilled in China?",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "109",
+    "text": "Many personal, educational, and corporate documents can be prepared for overseas use through the appropriate notarization or certification route.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "110",
+    "text": "However,",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "111",
+    "text": "not every original document can be submitted directly for an apostille",
+    "context": "apostille-in-china/index.html:strong"
+  },
+  {
+    "id": "112",
+    "text": ". Eligibility depends on the document’s legal status, its issuer, and the signature or seal to be authenticated.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "113",
+    "text": "Personal and Civil Documents",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "114",
+    "text": "Documents commonly involved in overseas applications include:",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "115",
+    "text": "Birth-related documents.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "116",
+    "text": "Marriage and marital status documents.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "117",
+    "text": "Certificates of No Criminal Record.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "118",
+    "text": "Powers of attorney.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "119",
+    "text": "Declarations and statements.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "120",
+    "text": "China’s Ministry of Foreign Affairs identifies these among the document types that may require an apostille for use abroad. The required form should be confirmed before submission.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "121",
+    "text": "For example, if you need to use a",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "122",
+    "text": "China police clearance certificate",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "123",
+    "text": "overseas, check whether the receiving authority requires a Chinese notarial certificate with a translation before arranging the apostille.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "124",
+    "text": "Educational Documents",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "125",
+    "text": "Academic documents may include diplomas, degree certificates, and related educational records.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "126",
+    "text": "The appropriate preparation depends on the issuing institution, the document type, and the receiving organization’s instructions. A university may also require separate academic verification, which an apostille does not replace.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "127",
+    "text": "The Apostille Convention covers qualifying public documents, including certain academic diplomas and notarial acts. Whether a particular document qualifies is determined under the law of the place where it originates.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "128",
+    "text": "Corporate and Commercial Documents",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "129",
+    "text": "Business documents that may be prepared for apostille include:",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "130",
+    "text": "Company registration and legal status documents.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "131",
+    "text": "Articles of association.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "132",
+    "text": "Corporate powers of attorney.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "133",
+    "text": "Board resolutions.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "134",
+    "text": "Contracts and agreements.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "135",
+    "text": "Director or shareholder information.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "136",
+    "text": "The appropriate route may involve a notary public office or another competent certification body. Official Beijing guidance lists a range of corporate documents eligible for the relevant procedures.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "137",
+    "text": "Commercial and customs documents require particular care because the Convention contains specific exclusions. Confirm the treatment of the exact document with the issuing authority rather than assuming that every business document follows the same process.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "138",
+    "text": "Documents Required for an Apostille Application",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "139",
+    "text": "The final checklist depends on the receiving office and the type of document. Prepare the following materials as a starting point.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "140",
+    "text": "1. Valid Identification",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "141",
+    "text": "Foreign nationals generally need to provide their original passport or other international travel document and a copy of its identity page.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "142",
+    "text": "Chinese applicants must provide the identification appropriate to their status.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "143",
+    "text": "2. The Original Document Eligible for Apostille",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "144",
+    "text": "Submit the original valid document accepted for the apostille procedure. Depending on the case, this may be a notarial certificate or another qualifying official certificate.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "145",
+    "text": "A scan or ordinary photocopy is not automatically an acceptable substitute.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "146",
+    "text": "3. Company Introduction Letter",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "147",
+    "text": "For corporate applications involving commercial documents, the Ministry of Foreign Affairs’ published checklist includes an original company introduction letter.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "148",
+    "text": "4. Additional Materials Requested by the Office",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "149",
+    "text": "The Ministry of Foreign Affairs or authorized local foreign affairs office may request further supporting materials. Confirm the checklist directly with the receiving office before submission.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "150",
+    "text": "If another person or a service provider submits the application, also confirm the office’s requirements for authorization and the representative’s identification.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "151",
+    "text": "5. Translation Where Required",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "152",
+    "text": "Ask the receiving organization which language it accepts and whether it requires a particular form of translation.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "153",
+    "text": "China’s Ministry of Foreign Affairs advises that documents for overseas use should generally include a translation in the language required by the destination and recommends confirming this in advance.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "154",
+    "text": "How to Get an Apostille in China: Step by Step",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "155",
+    "text": "Step 1: Confirm the Destination and Intended Use",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "156",
+    "text": "Start by identifying the country where the document will be used and the organization requesting it.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "157",
+    "text": "Ask that organization:",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "158",
+    "text": "Is an apostille required?",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "159",
+    "text": "What exact document or notarial certificate is acceptable?",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "160",
+    "text": "Must the document have been issued recently?",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "161",
+    "text": "Which translation language and format are required?",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "162",
+    "text": "How many originals or certified copies are needed?",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "163",
+    "text": "Also confirm that the Apostille Convention is in force between China and the destination country. The official HCCH Apostille Section provides information on participating countries and competent authorities.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "164",
+    "text": "Step 2: Check Whether Notarization or Certification Is Needed",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "165",
+    "text": "Many documents must first be prepared as a foreign-related notarial certificate or certified by a competent body.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "166",
+    "text": "China’s published application procedure is to obtain a compliant notarial certificate or other qualifying certification document, except where the document is eligible for direct apostille, and then apply for the apostille.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "167",
+    "text": "Tell the notary or certification body where the document will be used and provide the receiving authority’s instructions. This helps ensure that the correct form is prepared.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "168",
+    "text": "Step 3: Prepare the Application Materials",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "169",
+    "text": "Gather your identification, the eligible original document, and any additional materials required by the handling office.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "170",
+    "text": "Before submission, check:",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "171",
+    "text": "Names and identification numbers.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "172",
+    "text": "Dates and factual details.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "173",
+    "text": "Translation accuracy.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "174",
+    "text": "Signatures, stamps, and seals.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "175",
+    "text": "Completeness of the document and its attachments.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "176",
+    "text": "Resolve discrepancies before applying. An apostille will not correct an error in the underlying document.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "177",
+    "text": "Step 4: Submit to the Appropriate Authority",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "178",
+    "text": "Apostilles for mainland Chinese documents are issued by",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "179",
+    "text": "China’s Ministry of Foreign Affairs or authorized local foreign affairs offices",
+    "context": "apostille-in-china/index.html:strong"
+  },
+  {
+    "id": "180",
+    "text": "Authorized local offices generally issue apostilles for qualifying documents originating within their administrative area. Confirm jurisdiction and the available submission method before visiting an office or sending documents.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "181",
+    "text": "China Attest can help you review the document requirements",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "182",
+    "text": "and identify the appropriate submission route.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "183",
+    "text": "Step 5: Pay the Applicable Fees and Allow Processing Time",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "184",
+    "text": "Check the official fee, service availability, and expected completion date with the receiving office.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "185",
+    "text": "Allow additional time for notarization, translation, document corrections, and delivery. The apostille stage is only one part of the overall process.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "186",
+    "text": "Step 6: Check and Verify the Completed Apostille",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "187",
+    "text": "Once issued, review the apostille and confirm that it is attached to the correct document.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "188",
+    "text": "China provides an",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "189",
+    "text": "official online verification service",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "190",
+    "text": "for apostilles issued by the Ministry of Foreign Affairs and authorized local offices.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "191",
+    "text": "Keep the document and apostille intact. Avoid removing bindings, detaching pages, or making alterations before submission abroad.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "192",
+    "text": "How Long Does an Apostille Take in China?",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "193",
+    "text": "The Ministry of Foreign Affairs publishes the following processing times for its apostille service:",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "194",
+    "text": "Published processing time",
+    "context": "apostille-in-china/index.html:th"
+  },
+  {
+    "id": "195",
+    "text": "Regular",
+    "context": "apostille-in-china/index.html:th"
+  },
+  {
+    "id": "196",
+    "text": "Four working days",
+    "context": "apostille-in-china/index.html:td"
+  },
+  {
+    "id": "197",
+    "text": "Express",
+    "context": "apostille-in-china/index.html:th"
+  },
+  {
+    "id": "198",
+    "text": "Two working days",
+    "context": "apostille-in-china/index.html:td"
+  },
+  {
+    "id": "199",
+    "text": "These times apply to the apostille stage after acceptance. They do not include preparation, notarization, translation, or courier delivery.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "200",
+    "text": "The Ministry’s published apostille fees are RMB 50 per civil document and RMB 100 per commercial document, with an additional RMB 50 for express service. Confirm current charges and arrangements with the actual receiving office, especially when applying through a local office or service provider.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "201",
+    "text": "For an accurate overall quotation, ask for separate costs for document preparation, notarization, translation, apostille, service assistance, and delivery.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "202",
+    "text": "Can You Arrange a China Apostille While Overseas?",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "203",
+    "text": "If you are outside China, it may be possible to arrange the process through an authorized representative or document service provider.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "204",
+    "text": "The practical requirements depend on whether your document is already ready for apostille or still needs to be obtained, notarized, or certified.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "205",
+    "text": "Before sending documents, confirm:",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "206",
+    "text": "Whether the underlying procedure requires your personal attendance.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "207",
+    "text": "Which original documents are needed.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "208",
+    "text": "Whether a power of attorney is required.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "209",
+    "text": "Whether overseas authorization documents need authentication.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "210",
+    "text": "How the completed documents will be returned.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "211",
+    "text": "China Attest can help you review the available documents and clarify the next steps before you arrange international delivery.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "212",
+    "text": "Can China Apostille a Foreign-Issued Document?",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "213",
+    "text": "A foreign-issued document generally needs an apostille from the competent authority in the jurisdiction where it originates.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "214",
+    "text": "For example, a foreign birth certificate or degree intended for use in mainland China normally follows the issuing country’s authentication procedure. Being physically present in China does not transfer responsibility for issuing the apostille to a Chinese authority.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "215",
+    "text": "The HCCH explains that an apostille is issued by a competent authority in the place where the public document originates.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "216",
+    "text": "If your document was issued outside mainland China, confirm its origin before choosing an application route.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "217",
+    "text": "Common Mistakes to Avoid",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "218",
+    "text": "Applying Before Checking the Required Document Format",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "219",
+    "text": "A receiving authority may require a particular notarial certificate, certified copy, or translation. Confirm the format before paying for processing.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "220",
+    "text": "Assuming Every Original Document Can Be Apostilled Directly",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "221",
+    "text": "Some documents first require notarization or certification. Check the appropriate route for your document.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "222",
+    "text": "Treating an Apostille as Guaranteed Acceptance",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "223",
+    "text": "The apostille authenticates the document’s origin. The receiving organization still decides whether its contents and format meet the application requirements.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "224",
+    "text": "Ignoring Document Age Requirements",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "225",
+    "text": "An apostille does not update the information in an older document. Check whether the receiving authority requires a recently issued certificate.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "226",
+    "text": "Submitting Incomplete or Altered Documents",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "227",
+    "text": "Problems with signatures, seals, binding, or document validity can prevent issuance. China’s official guidance identifies noncompliant signatures, seals, binding, and timing among grounds for refusing an application.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "228",
+    "text": "Frequently Asked Questions",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "229",
+    "text": "Is an apostille the same as notarization?",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "230",
+    "text": "No. Notarization and apostille are separate procedures. A document may need notarization first, followed by an apostille authenticating the relevant official signature or seal.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "231",
+    "text": "Do I still need embassy legalization after an apostille?",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "232",
+    "text": "For a qualifying document used between countries where the Apostille Convention applies, further consular legalization is generally unnecessary. You must still meet the receiving authority’s document and translation requirements.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "233",
+    "text": "Can foreigners obtain an apostille for Chinese documents?",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "234",
+    "text": "Yes. Foreign nationals can apply for apostilles on eligible mainland Chinese documents, subject to identification and application requirements.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "235",
+    "text": "Can a China police clearance certificate be apostilled?",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "236",
+    "text": "A China police clearance certificate can generally be prepared for apostille through the appropriate procedure. Confirm whether a notarial certificate and translation are required before applying.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "237",
+    "text": "Does an apostille replace translation?",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "238",
+    "text": "No. An apostille and a translation serve different purposes. Follow the receiving authority’s language requirements.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "239",
+    "text": "Does every Chinese document used abroad need an apostille?",
+    "context": "apostille-in-china/index.html:h3"
+  },
+  {
+    "id": "240",
+    "text": "No. The requirement depends on the destination, the document, its intended use, and any applicable exemptions. Confirm the receiving organization’s instructions first.",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "241",
+    "text": "Need Help Getting an Apostille in China?",
+    "context": "apostille-in-china/index.html:h2"
+  },
+  {
+    "id": "242",
+    "text": "At",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "243",
+    "text": ", we help international clients navigate Chinese document procedures, including notarization, translation, apostille, and consular legalization where required.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "244",
+    "text": "To discuss your documents, tell us:",
+    "context": "apostille-in-china/index.html:p"
+  },
+  {
+    "id": "245",
+    "text": "What type of document you have.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "246",
+    "text": "Where it was issued.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "247",
+    "text": "Which country it will be used in.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "248",
+    "text": "Which organization is requesting it.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "249",
+    "text": "Whether you have a deadline.",
+    "context": "apostille-in-china/index.html:li"
+  },
+  {
+    "id": "250",
+    "text": "Contact China Attest",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "251",
+    "text": "to review the requirements and prepare the next steps for your documents.",
+    "context": "apostille-in-china/index.html:tail"
+  },
+  {
+    "id": "252",
+    "text": "Contact China Attest →",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "253",
+    "text": "CONTINUE READING",
+    "context": "apostille-in-china/index.html:small"
+  },
+  {
+    "id": "254",
+    "text": "How to Get a China Police Clearance Certificate: A Guide for Foreigners →",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "255",
+    "text": "Apostille & Authentication services →",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "256",
+    "text": "All guides →",
+    "context": "apostille-in-china/index.html:a"
+  },
+  {
+    "id": "257",
+    "text": "Apostille & Authentication | China Attest",
+    "context": "authentication.html:title"
+  },
+  {
+    "id": "258",
+    "text": "SERVICE / APOSTILLE & AUTHENTICATION",
+    "context": "authentication.html:small"
+  },
+  {
+    "id": "259",
+    "text": "Prepare your documents for use abroad.",
+    "context": "authentication.html:h1"
+  },
+  {
+    "id": "260",
+    "text": "Discuss authentication support for China-issued documents, based on their destination and receiving institution.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "261",
+    "text": "Request a Quote ↗",
+    "context": "authentication.html:a"
+  },
+  {
+    "id": "262",
+    "text": "DOCUMENT AUTHENTICATION FOR OVERSEAS USE",
+    "context": "authentication.html:small"
+  },
+  {
+    "id": "263",
+    "text": "Apostille or Consular Authentication: Which Do You Need?",
+    "context": "authentication.html:h2"
+  },
+  {
+    "id": "264",
+    "text": "The process depends on where your document was issued and where it will be used.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "265",
+    "text": "Apostille",
+    "context": "authentication.html:h3"
+  },
+  {
+    "id": "266",
+    "text": "If the Apostille Convention applies between the country where your document was issued and the country where it will be used, an apostille replaces consular authentication for eligible public documents. Confirm the receiving organization’s document and translation requirements before applying.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "267",
+    "text": "If the Apostille Convention does not apply, consular authentication may be required. For documents issued in mainland China, this generally involves authentication by China’s Ministry of Foreign Affairs or an authorized Foreign Affairs Office, followed by the destination country’s embassy or consulate in China. Requirements and exemptions vary.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "268",
+    "text": "An apostille or consular authentication verifies the relevant signatures and seals, not the accuracy of the document’s content. The receiving organization determines whether the document meets its requirements.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "269",
+    "text": "FEES & PROCESSING TIMES",
+    "context": "authentication.html:small"
+  },
+  {
+    "id": "270",
+    "text": "Get a Quote for Your Documents",
+    "context": "authentication.html:h2"
+  },
+  {
+    "id": "271",
+    "text": "Fees and processing times depend on your document type, country of issue, destination and any notarization or translation required. Share these details with China Attest to receive a quote and an estimated processing timeline.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "272",
+    "text": "Request a Quote",
+    "context": "authentication.html:a"
+  },
+  {
+    "id": "273",
+    "text": "BEFORE YOU ENQUIRE",
+    "context": "authentication.html:small"
+  },
+  {
+    "id": "274",
+    "text": "What We Need to Assess Your Request",
+    "context": "authentication.html:h2"
+  },
+  {
+    "id": "275",
+    "text": "Your Documents",
+    "context": "authentication.html:h3"
+  },
+  {
+    "id": "276",
+    "text": "Tell us the document type, country of issue and whether you have the originals.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "277",
+    "text": "Where They Will Be Used",
+    "context": "authentication.html:h3"
+  },
+  {
+    "id": "278",
+    "text": "Specify the destination country and the organization requesting the documents.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "279",
+    "text": "Specific Requirements",
+    "context": "authentication.html:h3"
+  },
+  {
+    "id": "280",
+    "text": "Share any instructions from the receiving organization, including translation requirements, if available.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "281",
+    "text": "Your Deadline",
+    "context": "authentication.html:h3"
+  },
+  {
+    "id": "282",
+    "text": "Let us know when you need the completed documents and where they should be delivered.",
+    "context": "authentication.html:p"
+  },
+  {
+    "id": "283",
+    "text": "Guides | China Attest",
+    "context": "blog.html:title"
+  },
+  {
+    "id": "284",
+    "text": "CHINA ATTEST / INSIGHTS & GUIDES",
+    "context": "blog.html:small"
+  },
+  {
+    "id": "285",
+    "text": "China Document Journal",
+    "context": "blog.html:h1"
+  },
+  {
+    "id": "286",
+    "text": "Practical preparation notes for police clearance, authentication and academic documents.",
+    "context": "blog.html:p"
+  },
+  {
+    "id": "287",
+    "text": "2 articles",
+    "context": "blog.html:p"
+  },
+  {
+    "id": "288",
+    "text": "China Attest · 3 November 2026 · 10 min read",
+    "context": "blog.html:div"
+  },
+  {
+    "id": "289",
+    "text": "Eligible documents, required materials, notarization, processing times and arranging an apostille from overseas.",
+    "context": "blog.html:p"
+  },
+  {
+    "id": "290",
+    "text": "Read more →",
+    "context": "blog.html:a"
+  },
+  {
+    "id": "291",
+    "text": "Police Clearance",
+    "context": "blog.html:a"
+  },
+  {
+    "id": "292",
+    "text": "How to Get a China Police Clearance Certificate: A Guide for Foreigners",
+    "context": "blog.html:a"
+  },
+  {
+    "id": "293",
+    "text": "Eligibility, required documents, application steps and how to apply after leaving China.",
+    "context": "blog.html:p"
+  },
+  {
+    "id": "294",
+    "text": "No matching articles. Try another keyword or category.",
+    "context": "blog.html:p"
+  },
+  {
+    "id": "295",
+    "text": "← Previous",
+    "context": "blog.html:button"
+  },
+  {
+    "id": "296",
+    "text": "Page 1 of 1",
+    "context": "blog.html:span"
+  },
+  {
+    "id": "297",
+    "text": "Next →",
+    "context": "blog.html:button"
+  },
+  {
+    "id": "298",
+    "text": "Find a guide",
+    "context": "blog.html:h3"
+  },
+  {
+    "id": "299",
+    "text": "Search articles",
+    "context": "blog.html:label"
+  },
+  {
+    "id": "300",
+    "text": "Search documents, cities…",
+    "context": "blog.html:placeholder"
+  },
+  {
+    "id": "301",
+    "text": "Categories",
+    "context": "blog.html:h4"
+  },
+  {
+    "id": "302",
+    "text": "All Articles",
+    "context": "blog.html:button"
+  },
+  {
+    "id": "303",
+    "text": "Popular starting points",
+    "context": "blog.html:h4"
+  },
+  {
+    "id": "304",
+    "text": "Police certificate city guides →",
+    "context": "blog.html:a"
+  },
+  {
+    "id": "305",
+    "text": "Apostille preparation →",
+    "context": "blog.html:a"
+  },
+  {
+    "id": "306",
+    "text": "Academic verification routes →",
+    "context": "blog.html:a"
+  },
+  {
+    "id": "307",
+    "text": "Embassy authentication →",
+    "context": "blog.html:a"
+  },
+  {
+    "id": "308",
+    "text": "Need personal guidance?",
+    "context": "blog.html:h3"
+  },
+  {
+    "id": "309",
+    "text": "Share your document type, China city and destination for a case review.",
+    "context": "blog.html:p"
+  },
+  {
+    "id": "310",
+    "text": "How to Get a China Police Clearance Certificate | China Attest",
+    "context": "china-police-certificate-for-foreigners/index.html:title"
+  },
+  {
+    "id": "311",
+    "text": "Learn how foreigners can get a China police clearance certificate, including eligibility, required documents, application steps, and how to apply from overseas.",
+    "context": "china-police-certificate-for-foreigners/index.html:meta"
+  },
+  {
+    "id": "312",
+    "text": "← Back to Guides",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "313",
+    "text": "POLICE CLEARANCE / PRACTICAL GUIDE",
+    "context": "china-police-certificate-for-foreigners/index.html:div"
+  },
+  {
+    "id": "314",
+    "text": "What is a police certificate?",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "315",
+    "text": "Who can apply?",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "316",
+    "text": "Documents to prepare",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "317",
+    "text": "Applying after leaving China",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "318",
+    "text": "Common issues",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "319",
+    "text": "Official sources",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "320",
+    "text": "Let’s review your situation.",
+    "context": "china-police-certificate-for-foreigners/index.html:h2"
+  },
+  {
+    "id": "321",
+    "text": "Share your residence history and document requirements.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "322",
+    "text": "If you have lived, worked, or studied in China, you may need a",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "323",
+    "text": "for immigration, employment, further study, or a residence application abroad.",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "324",
+    "text": "Also known as a",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "325",
+    "text": "Certificate of No Criminal Record",
+    "context": "china-police-certificate-for-foreigners/index.html:strong"
+  },
+  {
+    "id": "326",
+    "text": "or",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "327",
+    "text": "China Police Clearance Certificate (PCC)",
+    "context": "china-police-certificate-for-foreigners/index.html:strong"
+  },
+  {
+    "id": "328",
+    "text": ", this document is issued following a criminal record check by the relevant Chinese public security authority.",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "329",
+    "text": "Foreign nationals who have resided in China for at least 180 days can generally apply, subject to local requirements. If you have already left China, you may be able to apply through an authorized representative without returning.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "330",
+    "text": "This guide explains the eligibility requirements, documents to prepare, application process, and options for applying from overseas. It covers",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "331",
+    "text": "mainland China",
+    "context": "china-police-certificate-for-foreigners/index.html:strong"
+  },
+  {
+    "id": "332",
+    "text": "; Hong Kong and Macao have separate procedures.",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "333",
+    "text": "What Is a China Police Clearance Certificate?",
+    "context": "china-police-certificate-for-foreigners/index.html:h2"
+  },
+  {
+    "id": "334",
+    "text": "A China police clearance certificate records the result of an official criminal record check. Where no criminal record is found, subject to the applicable legal provisions, the relevant public security authority issues a Certificate of No Criminal Record.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "335",
+    "text": "You may encounter several English names for this document:",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "336",
+    "text": "China Police Certificate.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "338",
+    "text": "Certificate of No Criminal Record.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "339",
+    "text": "Chinese Criminal Record Check.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "340",
+    "text": "China PCC.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "341",
+    "text": "For overseas use, the police-issued certificate may need additional processing. Depending on the receiving authority’s instructions, you may also need a notarial certificate, a translation, an apostille, or consular legalization.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "342",
+    "text": "Before applying, confirm the required document format, coverage dates, language, and authentication requirements with the organization requesting your certificate.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "343",
+    "text": "Who Can Apply for a China Police Clearance Certificate?",
+    "context": "china-police-certificate-for-foreigners/index.html:h2"
+  },
+  {
+    "id": "344",
+    "text": "Under China’s national rules, foreign nationals who have resided in China for",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "345",
+    "text": "180 days or more",
+    "context": "china-police-certificate-for-foreigners/index.html:strong"
+  },
+  {
+    "id": "346",
+    "text": "can apply for a criminal record check.",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "347",
+    "text": "Applications are generally handled by the exit-entry administration department of the public security authority at or above county level in the applicant’s place of residence.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "348",
+    "text": "However, local implementation and document requirements vary. The handling office may need to review your residence permits, accommodation registration, and the period you want the certificate to cover.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "349",
+    "text": "Before applying, prepare a summary of:",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "350",
+    "text": "The cities where you lived in China.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "351",
+    "text": "Your arrival and departure dates.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "352",
+    "text": "The visas and residence permits you held.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "353",
+    "text": "The passports you used during your stay.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "354",
+    "text": "The period requested by the receiving authority.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "355",
+    "text": "If you stayed for fewer than 180 days or visited China under tourist or business visas, check your eligibility with the relevant office before preparing an application.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "356",
+    "text": "The receiving country’s requirement to provide a police certificate is separate from China’s eligibility rules for issuing one.",
+    "context": "china-police-certificate-for-foreigners/index.html:strong"
+  },
+  {
+    "id": "357",
+    "text": "Being asked for a certificate does not automatically mean that the local office can issue it for your circumstances.",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "358",
+    "text": "Documents Required for a China Police Clearance Certificate",
+    "context": "china-police-certificate-for-foreigners/index.html:h2"
+  },
+  {
+    "id": "359",
+    "text": "The exact checklist depends on the city, your residence history, and whether you apply personally or through a representative.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "360",
+    "text": "1. Current and Previous Passports",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "361",
+    "text": "Prepare your current passport and any previous passports covering the period you want checked.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "362",
+    "text": "Relevant pages may include:",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "363",
+    "text": "Passport identity pages.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "364",
+    "text": "Chinese visa pages.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "365",
+    "text": "Chinese residence permits.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "366",
+    "text": "Entry and exit stamps.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "367",
+    "text": "If you renewed your passport during or after your stay, keep records connecting your previous passport to your current identity.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "368",
+    "text": "If an old passport is missing, ask the handling office which alternative documents it can accept. Available scans or copies may help establish your history, but acceptance must be confirmed.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "369",
+    "text": "2. Chinese Residence Permits",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "370",
+    "text": "Prepare the residence permits covering the relevant period.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "371",
+    "text": "These help the handling office verify your residence history and assess your application. Check whether originals, copies, or additional supporting records are required.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "372",
+    "text": "3. Accommodation Registration Records",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "373",
+    "text": "Depending on the city, you may need your temporary residence or accommodation registration records.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "374",
+    "text": "These documents help establish where you lived in China. If you no longer have them, ask the relevant authority about acceptable alternatives or whether the records can be verified.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "375",
+    "text": "4. Application Form",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "376",
+    "text": "Complete the criminal record inquiry application form required by the handling office.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "377",
+    "text": "Check that your name, passport numbers, and requested start and end dates are accurate and consistent with your supporting documents.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "378",
+    "text": "5. Additional Supporting Documents",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "379",
+    "text": "The handling office may request further evidence if your identity, residence history, or application purpose needs clarification.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "380",
+    "text": "Provide the local checklist to anyone helping you prepare the application. Confirm which documents require originals, translations, notarization, or authentication.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "381",
+    "text": "6. Authorization Documents for a Representative",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "382",
+    "text": "If another person applies on your behalf, additional documents generally include:",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "383",
+    "text": "A signed power of attorney or authorization letter.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "384",
+    "text": "The representative’s valid identification.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "385",
+    "text": "Your identification and supporting application documents.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "386",
+    "text": "Further formalities may apply. For example, Shenzhen’s published guidance requires a notarized power of attorney and sets out authentication and translation requirements for documents executed overseas.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "387",
+    "text": "How to Get a China Police Clearance Certificate: Step by Step",
+    "context": "china-police-certificate-for-foreigners/index.html:h2"
+  },
+  {
+    "id": "388",
+    "text": "Step 1: Confirm What the Receiving Authority Requires",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "389",
+    "text": "Before starting, ask the organization requesting your certificate:",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "390",
+    "text": "What period must the certificate cover?",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "391",
+    "text": "Is a police-issued certificate sufficient, or is a notarial certificate required?",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "392",
+    "text": "Does the document need an English or other language translation?",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "393",
+    "text": "Is an apostille or consular legalization required?",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "394",
+    "text": "How recently must the certificate have been issued?",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "395",
+    "text": "Are electronic copies accepted, or must you provide originals?",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "396",
+    "text": "Checking these details first helps avoid obtaining a document in an unsuitable format.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "397",
+    "text": "Step 2: Identify the Correct Application Office",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "398",
+    "text": "Contact the relevant exit-entry administration department for the city where you lived.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "399",
+    "text": "If you lived in several cities, provide a complete residence timeline. Ask which office can accept your application and what period the resulting certificate can cover.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "400",
+    "text": "Do not assume that one application will automatically satisfy every requirement relating to a multi-city residence history.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "401",
+    "text": "Step 3: Prepare and Submit Your Documents",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "402",
+    "text": "Confirm the local checklist and submit your application through an accepted channel.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "403",
+    "text": "Online availability varies. Beijing offers an online application route for eligible foreign nationals, although its published guidance states that representatives cannot use that online service. Shanghai’s published guidance directs foreign applicants to apply offline.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "404",
+    "text": "Check the local procedure before making travel arrangements or sending original documents.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "405",
+    "text": "Step 4: Allow Time for the Criminal Record Check",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "406",
+    "text": "The handling office reviews your materials and conducts the check. You may be asked to provide additional documents or clarify parts of your residence history.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "407",
+    "text": "Under the national rules, applications that cannot be completed immediately should ordinarily be completed within",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "408",
+    "text": "three working days after acceptance",
+    "context": "china-police-certificate-for-foreigners/index.html:strong"
+  },
+  {
+    "id": "409",
+    "text": ". However, time spent on additional investigation and verification is excluded from that period.",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "410",
+    "text": "This timeframe applies to the police inquiry stage. Document preparation, overseas authorization, notarization, authentication, and delivery require additional time.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "411",
+    "text": "Step 5: Review Your Certificate",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "412",
+    "text": "Once the certificate is issued, check:",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "413",
+    "text": "Your name and passport details.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "414",
+    "text": "The period covered.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "415",
+    "text": "The issuing authority’s details.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "416",
+    "text": "Consistency with your application and supporting documents.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "417",
+    "text": "If you find an error, contact the issuing office before arranging translation, notarization, or authentication.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "418",
+    "text": "Step 6: Complete Any Required Processing for Overseas Use",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "419",
+    "text": "Follow the receiving authority’s instructions for notarization, translation, and authentication.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "420",
+    "text": "Where authentication is required, the document generally needs notarization or verification by a competent authority before an apostille or consular legalization can be obtained.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "421",
+    "text": "If the Apostille Convention applies between mainland China and the destination country, an apostille generally replaces consular legalization.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "422",
+    "text": "For other destinations, the process may involve legalization by China’s Ministry of Foreign Affairs or an authorized foreign affairs office, followed by the destination country’s embassy or consulate in China.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "423",
+    "text": "An apostille is not automatically required for every application.",
+    "context": "china-police-certificate-for-foreigners/index.html:strong"
+  },
+  {
+    "id": "424",
+    "text": "Confirm the requirements for your intended use before arranging additional processing.",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "425",
+    "text": "How to Apply for a China Police Clearance Certificate After Leaving China",
+    "context": "china-police-certificate-for-foreigners/index.html:h2"
+  },
+  {
+    "id": "426",
+    "text": "If you are already overseas, you may be able to obtain your China police clearance certificate through an authorized representative.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "427",
+    "text": "The correct procedure depends on the city handling your application and the documents available to establish your previous residence.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "428",
+    "text": "Confirm the Local Requirements First",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "429",
+    "text": "Before signing or notarizing an authorization document, confirm:",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "430",
+    "text": "Whether the office accepts applications through a representative.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "431",
+    "text": "The required wording and scope of the authorization.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "432",
+    "text": "Whether passport copies need certification.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "433",
+    "text": "Whether the authorization requires an apostille or consular legalization.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "434",
+    "text": "Whether a Chinese translation is required.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "435",
+    "text": "Which documents must be submitted as originals.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "436",
+    "text": "This helps prevent delays caused by an authorization document that does not meet local requirements.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "437",
+    "text": "Prepare Your Power of Attorney",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "438",
+    "text": "Your representative may need a power of attorney signed and notarized in the country where you are located.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "439",
+    "text": "Depending on the applicable rules, the document may then require an apostille or consular legalization before it can be used in China.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "440",
+    "text": "For example, Shanghai’s published overseas application guidance requires copies of the relevant passports and residence permits, together with an original signed authorization document bearing an apostille or authentication by a Chinese embassy or consulate.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "441",
+    "text": "Provide Your China Residence Documents",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "442",
+    "text": "Prepare the records requested by the handling office. These may include passport copies, previous Chinese residence permits, accommodation registration records, and the completed application form.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "443",
+    "text": "If you used several passports or lived in different cities, include a clear timeline connecting the documents to the relevant periods.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "444",
+    "text": "Confirm whether originals are necessary before arranging international delivery.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "445",
+    "text": "Have Your Representative Submit the Application",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "446",
+    "text": "Your representative submits the documents to the relevant office in China and assists with requests for additional information.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "447",
+    "text": "After issuance, arrange any required notarization, translation, apostille, or legalization, followed by delivery in the format accepted by the receiving authority.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "448",
+    "text": "China Attest can help you review local requirements and prepare the documents needed for an application through an authorized representative.",
+    "context": "china-police-certificate-for-foreigners/index.html:strong"
+  },
+  {
+    "id": "449",
+    "text": "Sharing your residence history and available documents allows us to assess the appropriate next steps.",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "450",
+    "text": "Common Issues to Check Before Applying",
+    "context": "china-police-certificate-for-foreigners/index.html:h2"
+  },
+  {
+    "id": "451",
+    "text": "Missing Old Passports",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "452",
+    "text": "If the passport used during your stay is unavailable, gather any copies of its identity page, visas, residence permits, and entry or exit stamps.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "453",
+    "text": "Ask the handling office what alternative evidence it accepts. Missing records may require additional verification.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "454",
+    "text": "Different Names or Passport Numbers",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "455",
+    "text": "If you changed your name or renewed your passport, explain the changes and prepare documents connecting your previous and current details.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "456",
+    "text": "This helps the handling office understand how your records relate to the same person.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "457",
+    "text": "Residence in Several Cities",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "458",
+    "text": "List each city and the dates you lived there. Confirm how the handling authority will address your residence history and whether the certificate’s coverage meets the receiving authority’s requirements.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "459",
+    "text": "Incomplete Coverage Dates",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "460",
+    "text": "Check the requested period before submitting your application and review it again when the certificate is issued.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "461",
+    "text": "A certificate covering only part of the required period may lead to further questions from the receiving organization.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "462",
+    "text": "Can foreigners get a China police clearance certificate?",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "463",
+    "text": "Yes. Foreign nationals who have resided in China for at least 180 days can generally apply, subject to local requirements and verification of their identity and residence history.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "464",
+    "text": "Can I apply without returning to China?",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "465",
+    "text": "In many cases, yes. An authorized representative may be able to apply on your behalf. Confirm the local authorization and document requirements before preparing your application.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "466",
+    "text": "Can I apply online from overseas?",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "467",
+    "text": "Some cities offer online applications for eligible foreign nationals. Availability depends on the local system and whether you can complete its identity verification requirements.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "468",
+    "text": "How long does the process take?",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "469",
+    "text": "The police inquiry stage is ordinarily subject to a three-working-day processing period after acceptance when it cannot be completed immediately, excluding additional investigation and verification time.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "470",
+    "text": "The overall process takes longer when overseas authorization, notarization, translation, authentication, or delivery is needed.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "471",
+    "text": "Does my certificate need an apostille?",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "472",
+    "text": "It depends on the destination country and the receiving authority’s instructions. Check whether an apostille is required for your specific application.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "473",
+    "text": "How long is a China police clearance certificate valid?",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "474",
+    "text": "Acceptance requirements vary by immigration program, employer, and institution. Confirm both the acceptable issue date and the required coverage period rather than assuming a universal validity period.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "475",
+    "text": "Need Help With Your China Police Clearance Certificate?",
+    "context": "china-police-certificate-for-foreigners/index.html:h2"
+  },
+  {
+    "id": "476",
+    "text": ", we help international clients navigate China police clearance certificate applications and related document procedures, including notarization, translation, apostille, and legalization where required.",
+    "context": "china-police-certificate-for-foreigners/index.html:tail"
+  },
+  {
+    "id": "477",
+    "text": "Whether you are still in China or have already moved overseas, the first step is to review your residence history and the receiving authority’s requirements.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "478",
+    "text": "Contact China Attest with:",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "479",
+    "text": "Your approximate residence dates.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "480",
+    "text": "Whether you are currently in China or overseas.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "481",
+    "text": "The country or organization requesting your certificate.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "482",
+    "text": "Any deadline you need to meet.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "483",
+    "text": "We can help you understand the relevant requirements and prepare for the next steps.",
+    "context": "china-police-certificate-for-foreigners/index.html:p"
+  },
+  {
+    "id": "484",
+    "text": "Official Sources",
+    "context": "china-police-certificate-for-foreigners/index.html:h3"
+  },
+  {
+    "id": "485",
+    "text": "Ministry of Public Security regulations on criminal record inquiries",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "486",
+    "text": "Shanghai guidance on obtaining a Certificate of No Criminal Record",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "487",
+    "text": "Beijing guidance on online applications for foreign nationals",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "488",
+    "text": "Shenzhen guidance on applications through a representative",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "489",
+    "text": "Chinese Ministry of Foreign Affairs guidance on legalization and apostilles",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "490",
+    "text": "Explore police certificate city guides →",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "491",
+    "text": "How to Get an Apostille in China →",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "492",
+    "text": "All articles →",
+    "context": "china-police-certificate-for-foreigners/index.html:a"
+  },
+  {
+    "id": "493",
+    "text": "Contact | China Attest",
+    "context": "contact.html:title"
+  },
+  {
+    "id": "494",
+    "text": "CONTACT CHINA ATTEST",
+    "context": "contact.html:small"
+  },
+  {
+    "id": "495",
+    "text": "Your next step starts",
+    "context": "contact.html:h1"
+  },
+  {
+    "id": "496",
+    "text": "with a conversation.",
+    "context": "contact.html:tail"
+  },
+  {
+    "id": "497",
+    "text": "Tell us what you need. We’ll help you understand the next steps for your documents in China.",
+    "context": "contact.html:p"
+  },
+  {
+    "id": "498",
+    "text": "Chat on WhatsApp",
+    "context": "contact.html:a"
+  },
+  {
+    "id": "499",
+    "text": "Send an Email",
+    "context": "contact.html:a"
+  },
+  {
+    "id": "500",
+    "text": "中",
+    "context": "contact.html:div"
+  },
+  {
+    "id": "501",
+    "text": "CHINA ATTEST",
+    "context": "contact.html:span"
+  },
+  {
+    "id": "502",
+    "text": "Contact and enquiry",
+    "context": "contact.html:aria-label"
+  },
+  {
+    "id": "503",
+    "text": "WhatsApp Consultation",
+    "context": "contact.html:h2"
+  },
+  {
+    "id": "504",
+    "text": "For questions about documents, requirements and application procedures.",
+    "context": "contact.html:p"
+  },
+  {
+    "id": "505",
+    "text": "Start a WhatsApp chat →",
+    "context": "contact.html:a"
+  },
+  {
+    "id": "506",
+    "text": "WeChat",
+    "context": "contact.html:h2"
+  },
+  {
+    "id": "507",
+    "text": "Add us on WeChat to discuss your documents.",
+    "context": "contact.html:p"
+  },
+  {
+    "id": "508",
+    "text": "Copy",
+    "context": "contact.html:span"
+  },
+  {
+    "id": "509",
+    "text": "Choose Add Contacts in WeChat and search 15118019493.",
+    "context": "contact.html:p"
+  },
+  {
+    "id": "510",
+    "text": "Email Enquiries",
+    "context": "contact.html:h2"
+  },
+  {
+    "id": "511",
+    "text": "For detailed case information and document questions.",
+    "context": "contact.html:p"
+  },
+  {
+    "id": "512",
+    "text": "chinaattest.team@gmail.com",
+    "context": "contact.html:a"
+  },
+  {
+    "id": "513",
+    "text": "Copy email address",
+    "context": "contact.html:button"
+  },
+  {
+    "id": "514",
+    "text": "Telephone",
+    "context": "contact.html:h2"
+  },
+  {
+    "id": "515",
+    "text": "Prefer to speak with us? Give us a call.",
+    "context": "contact.html:p"
+  },
+  {
+    "id": "516",
+    "text": "Leave this field empty",
+    "context": "contact.html:label"
+  },
+  {
+    "id": "517",
+    "text": "TELL US WHAT YOU NEED",
+    "context": "contact.html:small"
+  },
+  {
+    "id": "518",
+    "text": "Let’s talk about your case.",
+    "context": "contact.html:h2"
+  },
+  {
+    "id": "519",
+    "text": "Share a few details so we can understand your requirements.",
+    "context": "contact.html:p"
+  },
+  {
+    "id": "520",
+    "text": "Fields marked",
+    "context": "contact.html:p"
+  },
+  {
+    "id": "521",
+    "text": "are required.",
+    "context": "contact.html:tail"
+  },
+  {
+    "id": "522",
+    "text": "Full Name",
+    "context": "contact.html:label"
+  },
+  {
+    "id": "523",
+    "text": "Your full name",
+    "context": "contact.html:placeholder"
+  },
+  {
+    "id": "524",
+    "text": "Email Address",
+    "context": "contact.html:label"
+  },
+  {
+    "id": "525",
+    "text": "you@example.com",
+    "context": "contact.html:placeholder"
+  },
+  {
+    "id": "526",
+    "text": "Service Required",
+    "context": "contact.html:label"
+  },
+  {
+    "id": "527",
+    "text": "Please select",
+    "context": "contact.html:option"
+  },
+  {
+    "id": "528",
+    "text": "Notarisation & Translation",
+    "context": "contact.html:option"
+  },
+  {
+    "id": "529",
+    "text": "Degree Authentication",
+    "context": "contact.html:option"
+  },
+  {
+    "id": "530",
+    "text": "CSCSE Verification",
+    "context": "contact.html:option"
+  },
+  {
+    "id": "531",
+    "text": "CSSD Reports / WES Evaluation",
+    "context": "contact.html:option"
+  },
+  {
+    "id": "532",
+    "text": "Other / Not sure yet",
+    "context": "contact.html:option"
+  },
+  {
+    "id": "533",
+    "text": "Tell Us About Your Case",
+    "context": "contact.html:label"
+  },
+  {
+    "id": "534",
+    "text": "Tell us about your documents, current situation and any questions.",
+    "context": "contact.html:placeholder"
+  },
+  {
+    "id": "535",
+    "text": "You may write in English or Chinese.",
+    "context": "contact.html:span"
+  },
+  {
+    "id": "536",
+    "text": "Send Enquiry",
+    "context": "contact.html:button"
+  },
+  {
+    "id": "538",
+    "text": "Degree Verification | China Attest",
+    "context": "degree-verification.html:title"
+  },
+  {
+    "id": "539",
+    "text": "SERVICE / DEGREE VERIFICATION",
+    "context": "degree-verification.html:small"
+  },
+  {
+    "id": "540",
+    "text": "Choose your academic verification route.",
+    "context": "degree-verification.html:h1"
+  },
+  {
+    "id": "541",
+    "text": "Start with where your qualification was issued and how it will be used.",
+    "context": "degree-verification.html:p"
+  },
+  {
+    "id": "542",
+    "text": "CSSD / CHSI Verification",
+    "context": "degree-verification.html:small"
+  },
+  {
+    "id": "543",
+    "text": "Chinese University Qualifications",
+    "context": "degree-verification.html:h2"
+  },
+  {
+    "id": "544",
+    "text": "Need to verify a qualification awarded by a Chinese university? China Attest can help you understand the CSSD/CHSI report requirements for your application, including applications to credential evaluation organizations such as WES. Before applying, confirm which reports your receiving organization requires for your qualification, degree or academic transcript.",
+    "context": "degree-verification.html:p"
+  },
+  {
+    "id": "545",
+    "text": "Enquire About CSSD Verification",
+    "context": "degree-verification.html:a"
+  },
+  {
+    "id": "546",
+    "text": "CSCSE Qualification Recognition",
+    "context": "degree-verification.html:small"
+  },
+  {
+    "id": "547",
+    "text": "Overseas Qualifications for Use in China",
+    "context": "degree-verification.html:h2"
+  },
+  {
+    "id": "548",
+    "text": "If you earned your qualification outside China and need to use it in China, your receiving organization may request recognition through the Chinese Service Center for Scholarly Exchange (CSCSE). Contact China Attest to discuss your qualification, its intended use and whether assistance is available for your case.",
+    "context": "degree-verification.html:p"
+  },
+  {
+    "id": "549",
+    "text": "Enquire About CSCSE Recognition",
+    "context": "degree-verification.html:a"
+  },
+  {
+    "id": "550",
+    "text": "Apostille & Consular Authentication",
+    "context": "degree-verification.html:small"
+  },
+  {
+    "id": "551",
+    "text": "Chinese Academic Documents for Use Abroad",
+    "context": "degree-verification.html:h2"
+  },
+  {
+    "id": "552",
+    "text": "Using a Chinese diploma, degree certificate or academic transcript overseas? Depending on the destination and the receiving organization’s requirements, you may need notarization followed by an apostille or consular authentication. These procedures serve a different purpose from academic verification, and some applications may require both. China Attest can help you clarify the required steps.",
+    "context": "degree-verification.html:p"
+  },
+  {
+    "id": "553",
+    "text": "Enquire About Document Authentication",
+    "context": "degree-verification.html:a"
+  },
+  {
+    "id": "554",
+    "text": "Foreign-Issued Documents",
+    "context": "degree-verification.html:small"
+  },
+  {
+    "id": "555",
+    "text": "Overseas Academic Documents for Use in China",
+    "context": "degree-verification.html:h2"
+  },
+  {
+    "id": "556",
+    "text": "Academic documents issued outside China may need an apostille or consular authentication before they can be used in China. The required procedure depends on the issuing country and the receiving organization’s requirements. Some steps must be completed in the country of issue. Before sending any originals, contact China Attest to confirm the requirements and the assistance available.",
+    "context": "degree-verification.html:p"
+  },
+  {
+    "id": "557",
+    "text": "Check Available Assistance",
+    "context": "degree-verification.html:a"
+  },
+  {
+    "id": "558",
+    "text": "China Attest is an independent support agency, not CSSD, CSCSE or a credential evaluator. The institution requesting your records determines its acceptance requirements.",
+    "context": "degree-verification.html:p"
+  },
+  {
+    "id": "559",
+    "text": "Chengdu: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-chengdu.html:title"
+  },
+  {
+    "id": "560",
+    "text": "CHINA ATTEST / HOW TO",
+    "context": "guide-police-chengdu.html:small"
+  },
+  {
+    "id": "561",
+    "text": "Chengdu: Police Certificate Inquiry Planning",
+    "context": "guide-police-chengdu.html:h1"
+  },
+  {
+    "id": "562",
+    "text": "A city-focused preparation page, not a confirmed local eligibility checklist.",
+    "context": "guide-police-chengdu.html:p"
+  },
+  {
+    "id": "563",
+    "text": "CHINA ATTEST / PREPARATION NOTES",
+    "context": "guide-police-chengdu.html:small"
+  },
+  {
+    "id": "564",
+    "text": "Your connection to Chengdu",
+    "context": "guide-police-chengdu.html:h2"
+  },
+  {
+    "id": "565",
+    "text": "List your dates of residence, study or employment, the address records available and any passport changes. Include other China cities if your request covers a longer history.",
+    "context": "guide-police-chengdu.html:p"
+  },
+  {
+    "id": "566",
+    "text": "Questions to resolve before applying",
+    "context": "guide-police-chengdu.html:h2"
+  },
+  {
+    "id": "567",
+    "text": "Which office handles your circumstances? Are you eligible for the requested period? Can a representative act, and what authorization is needed? Ask for confirmation before relying on remote processing.",
+    "context": "guide-police-chengdu.html:p"
+  },
+  {
+    "id": "568",
+    "text": "Discuss your available records",
+    "context": "guide-police-chengdu.html:h2"
+  },
+  {
+    "id": "569",
+    "text": "Tell China Attest what you have and what is missing. The first step is a case review; this page does not promise local coverage, eligibility or a fixed turnaround.",
+    "context": "guide-police-chengdu.html:p"
+  },
+  {
+    "id": "570",
+    "text": "Plan your next step.",
+    "context": "guide-police-chengdu.html:h3"
+  },
+  {
+    "id": "571",
+    "text": "Share your document, China city, destination and deadline.",
+    "context": "guide-police-chengdu.html:p"
+  },
+  {
+    "id": "572",
+    "text": "Browse How To",
+    "context": "guide-police-chengdu.html:h4"
+  },
+  {
+    "id": "573",
+    "text": "How to Apply for a China Police Clearance Certificate →",
+    "context": "guide-police-chengdu.html:a"
+  },
+  {
+    "id": "574",
+    "text": "How to Apply for an Apostille in China →",
+    "context": "guide-police-chengdu.html:a"
+  },
+  {
+    "id": "575",
+    "text": "How to Get Your Degree Verified/Authenticated →",
+    "context": "guide-police-chengdu.html:a"
+  },
+  {
+    "id": "576",
+    "text": "How to Get Documents Authenticated by an Embassy →",
+    "context": "guide-police-chengdu.html:a"
+  },
+  {
+    "id": "577",
+    "text": "Chongqing: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-chongqing.html:title"
+  },
+  {
+    "id": "578",
+    "text": "Chongqing: Police Certificate Inquiry Planning",
+    "context": "guide-police-chongqing.html:h1"
+  },
+  {
+    "id": "579",
+    "text": "Your connection to Chongqing",
+    "context": "guide-police-chongqing.html:h2"
+  },
+  {
+    "id": "580",
+    "text": "Dalian: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-dalian.html:title"
+  },
+  {
+    "id": "581",
+    "text": "Dalian: Police Certificate Inquiry Planning",
+    "context": "guide-police-dalian.html:h1"
+  },
+  {
+    "id": "582",
+    "text": "Your connection to Dalian",
+    "context": "guide-police-dalian.html:h2"
+  },
+  {
+    "id": "583",
+    "text": "Hangzhou: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-hangzhou.html:title"
+  },
+  {
+    "id": "584",
+    "text": "Hangzhou: Police Certificate Inquiry Planning",
+    "context": "guide-police-hangzhou.html:h1"
+  },
+  {
+    "id": "585",
+    "text": "Your connection to Hangzhou",
+    "context": "guide-police-hangzhou.html:h2"
+  },
+  {
+    "id": "586",
+    "text": "Other Cities: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-other-cities.html:title"
+  },
+  {
+    "id": "587",
+    "text": "Other Cities: Police Certificate Inquiry Planning",
+    "context": "guide-police-other-cities.html:h1"
+  },
+  {
+    "id": "588",
+    "text": "Your connection to Other Cities",
+    "context": "guide-police-other-cities.html:h2"
+  },
+  {
+    "id": "589",
+    "text": "Sanya: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-sanya.html:title"
+  },
+  {
+    "id": "590",
+    "text": "Sanya: Police Certificate Inquiry Planning",
+    "context": "guide-police-sanya.html:h1"
+  },
+  {
+    "id": "591",
+    "text": "Your connection to Sanya",
+    "context": "guide-police-sanya.html:h2"
+  },
+  {
+    "id": "592",
+    "text": "Shenyang: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-shenyang.html:title"
+  },
+  {
+    "id": "593",
+    "text": "Shenyang: Police Certificate Inquiry Planning",
+    "context": "guide-police-shenyang.html:h1"
+  },
+  {
+    "id": "594",
+    "text": "Your connection to Shenyang",
+    "context": "guide-police-shenyang.html:h2"
+  },
+  {
+    "id": "595",
+    "text": "Suzhou: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-suzhou.html:title"
+  },
+  {
+    "id": "596",
+    "text": "Suzhou: Police Certificate Inquiry Planning",
+    "context": "guide-police-suzhou.html:h1"
+  },
+  {
+    "id": "597",
+    "text": "Your connection to Suzhou",
+    "context": "guide-police-suzhou.html:h2"
+  },
+  {
+    "id": "598",
+    "text": "Tianjin: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-tianjin.html:title"
+  },
+  {
+    "id": "599",
+    "text": "Tianjin: Police Certificate Inquiry Planning",
+    "context": "guide-police-tianjin.html:h1"
+  },
+  {
+    "id": "600",
+    "text": "Your connection to Tianjin",
+    "context": "guide-police-tianjin.html:h2"
+  },
+  {
+    "id": "601",
+    "text": "Wuhan: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-wuhan.html:title"
+  },
+  {
+    "id": "602",
+    "text": "Wuhan: Police Certificate Inquiry Planning",
+    "context": "guide-police-wuhan.html:h1"
+  },
+  {
+    "id": "603",
+    "text": "Your connection to Wuhan",
+    "context": "guide-police-wuhan.html:h2"
+  },
+  {
+    "id": "604",
+    "text": "Xiamen: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-xiamen.html:title"
+  },
+  {
+    "id": "605",
+    "text": "Xiamen: Police Certificate Inquiry Planning",
+    "context": "guide-police-xiamen.html:h1"
+  },
+  {
+    "id": "606",
+    "text": "Your connection to Xiamen",
+    "context": "guide-police-xiamen.html:h2"
+  },
+  {
+    "id": "607",
+    "text": "How to Apply for an Apostille in China | China Attest",
+    "context": "how-to-apostille.html:title"
+  },
+  {
+    "id": "608",
+    "text": "Prepare your documents and understand the questions to resolve before an apostille request.",
+    "context": "how-to-apostille.html:p"
+  },
+  {
+    "id": "609",
+    "text": "For a detailed explanation of the documents, requirements and application process, read our guide:",
+    "context": "how-to-apostille.html:p"
+  },
+  {
+    "id": "610",
+    "text": "CHINA ATTEST SERVICES",
+    "context": "how-to-apostille.html:small"
+  },
+  {
+    "id": "611",
+    "text": "Explore our service information or contact us to discuss your documents.",
+    "context": "how-to-apostille.html:p"
+  },
+  {
+    "id": "612",
+    "text": "View service →",
+    "context": "how-to-apostille.html:span"
+  },
+  {
+    "id": "613",
+    "text": "How to Get Your Degree Verified/Authenticated | China Attest",
+    "context": "how-to-degree-verification.html:title"
+  },
+  {
+    "id": "614",
+    "text": "Choose preparation guidance for academic verification, records and authentication.",
+    "context": "how-to-degree-verification.html:p"
+  },
+  {
+    "id": "615",
+    "text": "How to Get Documents Authenticated by an Embassy | China Attest",
+    "context": "how-to-embassy-authentication.html:title"
+  },
+  {
+    "id": "616",
+    "text": "Plan embassy-related preparation around the document’s origin and destination.",
+    "context": "how-to-embassy-authentication.html:p"
+  },
+  {
+    "id": "617",
+    "text": "Document Authentication",
+    "context": "how-to-embassy-authentication.html:h2"
+  },
+  {
+    "id": "618",
+    "text": "This article has moved.",
+    "context": "how-to-get-a-china-police-certificate-guide-for-foreigners.html:p"
+  },
+  {
+    "id": "619",
+    "text": "Read the China police clearance certificate guide →",
+    "context": "how-to-get-a-china-police-certificate-guide-for-foreigners.html:a"
+  },
+  {
+    "id": "620",
+    "text": "How to Apply for a China Police Clearance Certificate | China Attest",
+    "context": "how-to-police-certificate.html:title"
+  },
+  {
+    "id": "621",
+    "text": "Find a starting point for your China police clearance certificate inquiry.",
+    "context": "how-to-police-certificate.html:p"
+  },
+  {
+    "id": "622",
+    "text": "Start with your residence city.",
+    "context": "how-to-police-certificate.html:h2"
+  },
+  {
+    "id": "623",
+    "text": "Local procedures can differ. Choose a city to prepare the details for a location-specific case review.",
+    "context": "how-to-police-certificate.html:p"
+  },
+  {
+    "id": "624",
+    "text": "Shenyang",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "625",
+    "text": "Tianjin",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "626",
+    "text": "Chengdu",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "627",
+    "text": "Xiamen",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "628",
+    "text": "Sanya",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "629",
+    "text": "Suzhou",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "630",
+    "text": "Dalian",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "631",
+    "text": "Chongqing",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "632",
+    "text": "Wuhan",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "633",
+    "text": "Hangzhou",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "634",
+    "text": "Other Cities",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "635",
+    "text": "China Police Clearance Certificate, Apostille & Degree Verification | China Attest",
+    "context": "index.html:title"
+  },
+  {
+    "id": "636",
+    "text": "Need a China police clearance certificate, apostille, document authentication or degree verification? China Attest helps foreign nationals review requirements and prepare their documents.",
+    "context": "index.html:meta"
+  },
+  {
+    "id": "637",
+    "text": "China document services for your next chapter | China Attest",
+    "context": "index.html:meta"
+  },
+  {
+    "id": "638",
+    "text": "Skip to main content",
+    "context": "index.html:a"
+  },
+  {
+    "id": "639",
+    "text": "China documents.",
+    "context": "index.html:span"
+  },
+  {
+    "id": "640",
+    "text": "Your next chapter.",
+    "context": "index.html:span"
+  },
+  {
+    "id": "641",
+    "text": "China police clearance certificates, document authentication and degree verification for foreign nationals. Get clear requirements and personal support, wherever you are.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "642",
+    "text": "Discuss Your Case on WhatsApp ↗",
+    "context": "index.html:a"
+  },
+  {
+    "id": "643",
+    "text": "Find Your Service ↓",
+    "context": "index.html:a"
+  },
+  {
+    "id": "644",
+    "text": "Tell us your document type and where it will be used.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "645",
+    "text": "Conceptual office illustration with the China Attest logo, document folders, a laptop and a city skyline",
+    "context": "index.html:alt"
+  },
+  {
+    "id": "646",
+    "text": "OUR CORE SERVICES",
+    "context": "index.html:small"
+  },
+  {
+    "id": "647",
+    "text": "The documents you need. The support to get started.",
+    "context": "index.html:h2"
+  },
+  {
+    "id": "648",
+    "text": "Moving abroad, starting a new job or continuing your studies? Choose the service that matches your next step.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "649",
+    "text": "SERVICE / 01",
+    "context": "index.html:small"
+  },
+  {
+    "id": "650",
+    "text": "Police clearance support for foreign nationals who have lived, worked or studied in China.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "651",
+    "text": "Explore police certificate support",
+    "context": "index.html:a"
+  },
+  {
+    "id": "652",
+    "text": "SERVICE / 02",
+    "context": "index.html:small"
+  },
+  {
+    "id": "653",
+    "text": "Help preparing China documents for apostille or consular authentication for overseas use.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "654",
+    "text": "Explore authentication support",
+    "context": "index.html:a"
+  },
+  {
+    "id": "655",
+    "text": "SERVICE / 03",
+    "context": "index.html:small"
+  },
+  {
+    "id": "656",
+    "text": "Guidance with academic verification and document preparation for work or further study.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "657",
+    "text": "Explore degree verification",
+    "context": "index.html:a"
+  },
+  {
+    "id": "658",
+    "text": "WHY WORK WITH US",
+    "context": "index.html:small"
+  },
+  {
+    "id": "659",
+    "text": "Practical help. A considered approach.",
+    "context": "index.html:h2"
+  },
+  {
+    "id": "660",
+    "text": "PERSONAL",
+    "context": "index.html:h3"
+  },
+  {
+    "id": "661",
+    "text": "Your residence history, documents and destination shape the service route. We start with your situation.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "662",
+    "text": "CLEAR",
+    "context": "index.html:h3"
+  },
+  {
+    "id": "663",
+    "text": "Discuss what is needed, what the service covers and the expected costs before proceeding.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "664",
+    "text": "CONNECTED",
+    "context": "index.html:h3"
+  },
+  {
+    "id": "665",
+    "text": "Contact us directly through WhatsApp, WeChat or telephone for your China document inquiry.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "666",
+    "text": "FOCUSED",
+    "context": "index.html:h3"
+  },
+  {
+    "id": "667",
+    "text": "Get support centered on the documents you need for your next move, job or academic application.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "668",
+    "text": "HOW TO WORK WITH US",
+    "context": "index.html:small"
+  },
+  {
+    "id": "669",
+    "text": "From your first question to your final documents.",
+    "context": "index.html:h2"
+  },
+  {
+    "id": "670",
+    "text": "Share your requirements",
+    "context": "index.html:h3"
+  },
+  {
+    "id": "671",
+    "text": "Tell us your document type, relevant China city and where it will be used.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "672",
+    "text": "Review your options",
+    "context": "index.html:h3"
+  },
+  {
+    "id": "673",
+    "text": "Discuss your records, eligibility, service scope, estimated timing and quotation.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "674",
+    "text": "Prepare your application",
+    "context": "index.html:h3"
+  },
+  {
+    "id": "675",
+    "text": "Follow the agreed checklist and authorization requirements for your case.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "676",
+    "text": "Coordinate completion",
+    "context": "index.html:h3"
+  },
+  {
+    "id": "677",
+    "text": "Work through the agreed process and confirm final document delivery arrangements.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "678",
+    "text": "BEFORE YOU BEGIN",
+    "context": "index.html:small"
+  },
+  {
+    "id": "679",
+    "text": "Common questions.",
+    "context": "index.html:h2"
+  },
+  {
+    "id": "680",
+    "text": "Have another question?",
+    "context": "index.html:p"
+  },
+  {
+    "id": "681",
+    "text": "Can you help after I have left China?",
+    "context": "index.html:summary"
+  },
+  {
+    "id": "682",
+    "text": "We can review your case from overseas. Whether remote processing is possible depends on your city, residence records and the document required. Contact us before making arrangements.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "683",
+    "text": "How much does the service cost?",
+    "context": "index.html:summary"
+  },
+  {
+    "id": "684",
+    "text": "The quotation depends on the documents, location and work involved. Share your requirements so we can discuss the scope and price before you proceed.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "685",
+    "text": "How long will it take?",
+    "context": "index.html:summary"
+  },
+  {
+    "id": "686",
+    "text": "We discuss an estimated timeline after reviewing your case. Official processing and requests for additional records may affect completion; no universal deadline is promised.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "687",
+    "text": "What should I send in my first message?",
+    "context": "index.html:summary"
+  },
+  {
+    "id": "688",
+    "text": "Your document type, China city, relevant dates and destination country are a useful starting point. Please do not send passport numbers or other sensitive records in an initial inquiry.",
+    "context": "index.html:p"
+  },
+  {
+    "id": "689",
+    "text": "China Police Clearance Certificate | China Attest",
+    "context": "police-certificate-format.html:title"
+  },
+  {
+    "id": "690",
+    "text": "CHINA ATTEST / DOCUMENT FORMAT",
+    "context": "police-certificate-format.html:small"
+  },
+  {
+    "id": "691",
+    "text": "What a China Police Clearance Certificate Looks Like",
+    "context": "police-certificate-format.html:h1"
+  },
+  {
+    "id": "692",
+    "text": "Ask for the format required by the institution receiving your document.",
+    "context": "police-certificate-format.html:p"
+  },
+  {
+    "id": "693",
+    "text": "Check the document package.",
+    "context": "police-certificate-format.html:h2"
+  },
+  {
+    "id": "694",
+    "text": "The issuing city, document type and receiving institution affect the package you need. A police certificate, notarial document, translation and authentication are different elements; confirm which ones are requested.",
+    "context": "police-certificate-format.html:p"
+  },
+  {
+    "id": "695",
+    "text": "Request an appropriate sample.",
+    "context": "police-certificate-format.html:h2"
+  },
+  {
+    "id": "696",
+    "text": "We have not published an official certificate sample here. Contact China Attest to discuss a suitable redacted reference for your circumstances. Never use a sample as an issued certificate.",
+    "context": "police-certificate-format.html:p"
+  },
+  {
+    "id": "697",
+    "text": "Discuss Document Format ↗",
+    "context": "police-certificate-format.html:a"
+  },
+  {
+    "id": "698",
+    "text": "SERVICE / CHINA POLICE CLEARANCE CERTIFICATE",
+    "context": "police-clearance.html:small"
+  },
+  {
+    "id": "699",
+    "text": "Get Your Certificate of No Criminal Record in China",
+    "context": "police-clearance.html:h1"
+  },
+  {
+    "id": "700",
+    "text": "Are you interested in getting a Certificate of No Criminal Record yourself? See our",
+    "context": "police-clearance.html:em"
+  },
+  {
+    "id": "701",
+    "text": "6 Steps to Get Your Certificate of No Criminal Record in China",
+    "context": "police-clearance.html:h2"
+  },
+  {
+    "id": "702",
+    "text": "Quotation clipboard with glasses",
+    "context": "police-clearance.html:alt"
+  },
+  {
+    "id": "703",
+    "text": "Step 1",
+    "context": "police-clearance.html:aria-label"
+  },
+  {
+    "id": "704",
+    "text": "REQUEST A QUOTE",
+    "context": "police-clearance.html:a"
+  },
+  {
+    "id": "705",
+    "text": "If you are interested in hiring us, please click REQUEST A QUOTE to fill out a form and upload some basic documents.",
+    "context": "police-clearance.html:p"
+  },
+  {
+    "id": "706",
+    "text": "Start with our inquiry form. Document submission arrangements will be provided after contact.",
+    "context": "police-clearance.html:small"
+  },
+  {
+    "id": "707",
+    "text": "Wallet and bank card for payment",
+    "context": "police-clearance.html:alt"
+  },
+  {
+    "id": "708",
+    "text": "Step 2",
+    "context": "police-clearance.html:aria-label"
+  },
+  {
+    "id": "709",
+    "text": "MAKE A PAYMENT",
+    "context": "police-clearance.html:h3"
+  },
+  {
+    "id": "710",
+    "text": "Upon accepting our quote, you can make a payment with WesternUnion or wire transfer.",
+    "context": "police-clearance.html:p"
+  },
+  {
+    "id": "711",
+    "text": "Folders containing supporting documents",
+    "context": "police-clearance.html:alt"
+  },
+  {
+    "id": "712",
+    "text": "Step 3",
+    "context": "police-clearance.html:aria-label"
+  },
+  {
+    "id": "713",
+    "text": "GATHER ADDITIONAL DOCUMENTS",
+    "context": "police-clearance.html:h3"
+  },
+  {
+    "id": "714",
+    "text": "We will help you gather any additional documents required for your application, such as a power of attorney or an employer letter.",
+    "context": "police-clearance.html:p"
+  },
+  {
+    "id": "715",
+    "text": "Applicant handing paperwork across a service counter",
+    "context": "police-clearance.html:alt"
+  },
+  {
+    "id": "716",
+    "text": "Step 4",
+    "context": "police-clearance.html:aria-label"
+  },
+  {
+    "id": "717",
+    "text": "FILE YOUR APPLICATION",
+    "context": "police-clearance.html:h3"
+  },
+  {
+    "id": "718",
+    "text": "We will file the application on your behalf by appearing in person at government agencies.",
+    "context": "police-clearance.html:p"
+  },
+  {
+    "id": "719",
+    "text": "Document review with an approval stamp",
+    "context": "police-clearance.html:alt"
+  },
+  {
+    "id": "720",
+    "text": "Step 5",
+    "context": "police-clearance.html:aria-label"
+  },
+  {
+    "id": "721",
+    "text": "APPROVAL & REVIEW",
+    "context": "police-clearance.html:h3"
+  },
+  {
+    "id": "722",
+    "text": "Once your Certificate of No Criminal Record is issued, we will send you a scanned copy for reviewing.",
+    "context": "police-clearance.html:p"
+  },
+  {
+    "id": "723",
+    "text": "Envelope in a mailbox for document delivery",
+    "context": "police-clearance.html:alt"
+  },
+  {
+    "id": "724",
+    "text": "Step 6",
+    "context": "police-clearance.html:aria-label"
+  },
+  {
+    "id": "725",
+    "text": "RECEIVE BY MAIL",
+    "context": "police-clearance.html:h3"
+  },
+  {
+    "id": "726",
+    "text": "Original documents are sent to you by express DHL or UPS courier service.",
+    "context": "police-clearance.html:p"
+  },
+  {
+    "id": "727",
+    "text": "Fees & Processing Time",
+    "context": "police-clearance.html:h2"
+  },
+  {
+    "id": "728",
+    "text": "Our average service fee for obtaining a Certificate of No Criminal Record in China starts at 450 U.S. dollars. An exact quote is decided on a case-by-case basis, depending on the amount of work required. The total fee covers the expenses for applying for notarization and one international courier.",
+    "context": "police-clearance.html:p"
+  },
+  {
+    "id": "729",
+    "text": "The estimated processing time ranges from 2 to 4 weeks. We will give you a better estimate upon reviewing your basic information and documents.",
+    "context": "police-clearance.html:p"
+  },
+  {
+    "id": "730",
+    "text": "Click",
+    "context": "police-clearance.html:p"
+  },
+  {
+    "id": "731",
+    "text": "here",
+    "context": "police-clearance.html:a"
+  },
+  {
+    "id": "732",
+    "text": "to request a quote.",
+    "context": "police-clearance.html:tail"
+  },
+  {
+    "id": "733",
+    "text": "Continue to reviews",
+    "context": "testimonials-page-10.html:a"
+  },
+  {
+    "id": "734",
+    "text": "Close navigation",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "735",
+    "text": "WeChat number copied: 15118019493",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "736",
+    "text": "Add this number in WeChat: 15118019493",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "737",
+    "text": "Copied:",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "738",
+    "text": "Email us at",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "739",
+    "text": "Sending…",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "740",
+    "text": "Thank you! Your enquiry has been submitted to China Attest. We will reply to the email address you provided.",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "741",
+    "text": "Too many submissions. Please wait a few minutes before trying again, or email chinaattest.team@gmail.com.",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "742",
+    "text": "We could not confirm your submission. Your details are still here. Please try again, or email chinaattest.team@gmail.com.",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "743",
+    "text": "articles",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "744",
+    "text": "article",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "745",
+    "text": "Page",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "746",
+    "text": "of",
+    "context": "dynamic UI"
+  },
+  {
+    "id": "747",
+    "text": "CLIENT EXPERIENCES",
+    "context": "dist/authentication.html:small"
+  },
+  {
+    "id": "748",
+    "text": "Explore the review preview.",
+    "context": "dist/authentication.html:h2"
+  },
+  {
+    "id": "750",
+    "text": "View reviews →",
+    "context": "dist/authentication.html:a"
+  },
+  {
+    "id": "751",
+    "text": "What Our Clients Say",
+    "context": "dist/index.html:h2"
+  },
+  {
+    "id": "753",
+    "text": "Review photo",
+    "context": "dist/index.html:alt"
+  },
+  {
+    "id": "754",
+    "text": "I had a great experience with China Attest. I needed help obtaining my China Police Clearance Certificate and arranging document authentication, and my case was quite complicated. The team explained everything clearly, kept me updated, and handled the process efficiently. Their support made a stressful task much easier. I’d happily recommend them to anyone who needs help with documents in China.",
+    "context": "dist/index.html:blockquote"
+  },
+  {
+    "id": "755",
+    "text": "Chris & Julia",
+    "context": "dist/index.html:strong"
+  },
+  {
+    "id": "756",
+    "text": "View Details →",
+    "context": "dist/index.html:a"
+  },
+  {
+    "id": "757",
+    "text": "China Attest made getting my Chinese police certificate so much easier. The team was easy to work with, responded promptly, and clearly explained what I needed to provide.",
+    "context": "dist/index.html:blockquote"
+  },
+  {
+    "id": "758",
+    "text": "I needed the certificate for a visa application and was worried I might have to return to China to get it. I hadn’t been back in years and no longer had anyone there I could ask for help, so being able to arrange it remotely was a huge relief.",
+    "context": "dist/index.html:tail"
+  },
+  {
+    "id": "759",
+    "text": "The team kept me updated and saved me a lot of time, stress, and travel. I’m really glad I found them and would happily recommend China Attest to anyone who needs a police certificate from China.",
+    "context": "dist/index.html:tail"
+  },
+  {
+    "id": "760",
+    "text": "Daniel & Emma",
+    "context": "dist/index.html:strong"
+  },
+  {
+    "id": "761",
+    "text": "View all reviews →",
+    "context": "dist/index.html:a"
+  },
+  {
+    "id": "762",
+    "text": "Academic verification support — Review Preview | China Attest",
+    "context": "dist/review-academic.html:title"
+  },
+  {
+    "id": "763",
+    "text": "CLIENT EXPERIENCES / LAYOUT PREVIEW",
+    "context": "dist/review-academic.html:small"
+  },
+  {
+    "id": "764",
+    "text": "Academic verification support",
+    "context": "dist/review-academic.html:h1"
+  },
+  {
+    "id": "765",
+    "text": "This is a review detail template, not actual client reviews.",
+    "context": "dist/review-academic.html:p"
+  },
+  {
+    "id": "766",
+    "text": "← All reviews",
+    "context": "dist/review-academic.html:a"
+  },
+  {
+    "id": "767",
+    "text": "AV",
+    "context": "dist/review-academic.html:div"
+  },
+  {
+    "id": "768",
+    "text": "AWAITING APPROVED CLIENT FEEDBACK",
+    "context": "dist/review-academic.html:span"
+  },
+  {
+    "id": "769",
+    "text": "Client review to be added",
+    "context": "dist/review-academic.html:h2"
+  },
+  {
+    "id": "770",
+    "text": "A published review can describe the qualification involved, the receiving institution’s requirements, and the client’s experience working with China Attest.",
+    "context": "dist/review-academic.html:p"
+  },
+  {
+    "id": "771",
+    "text": "Client display name",
+    "context": "dist/review-academic.html:strong"
+  },
+  {
+    "id": "772",
+    "text": "To be provided with permission",
+    "context": "dist/review-academic.html:span"
+  },
+  {
+    "id": "773",
+    "text": "The final page will show the approved review in full, the client’s chosen display name, and an optional photo. This preview contains no claimed client outcome or rating.",
+    "context": "dist/review-academic.html:p"
+  },
+  {
+    "id": "774",
+    "text": "Document authentication support — Review Preview | China Attest",
+    "context": "dist/review-authentication.html:title"
+  },
+  {
+    "id": "775",
+    "text": "Document authentication support",
+    "context": "dist/review-authentication.html:h1"
+  },
+  {
+    "id": "776",
+    "text": "DA",
+    "context": "dist/review-authentication.html:div"
+  },
+  {
+    "id": "777",
+    "text": "A published review can explain the document and destination involved, the guidance received, and the client’s experience preparing their documents.",
+    "context": "dist/review-authentication.html:p"
+  },
+  {
+    "id": "778",
+    "text": "Police clearance support — Review Preview | China Attest",
+    "context": "dist/review-police-clearance.html:title"
+  },
+  {
+    "id": "779",
+    "text": "Police clearance support",
+    "context": "dist/review-police-clearance.html:h1"
+  },
+  {
+    "id": "780",
+    "text": "PC",
+    "context": "dist/review-police-clearance.html:div"
+  },
+  {
+    "id": "781",
+    "text": "A published review can describe the client’s initial requirements, communication with China Attest, document preparation and their experience of the process.",
+    "context": "dist/review-police-clearance.html:p"
+  },
+  {
+    "id": "782",
+    "text": "Review 15 | China Attest",
+    "context": "dist/review-sample-15.html:title"
+  },
+  {
+    "id": "783",
+    "text": "REVIEW 15",
+    "context": "dist/review-sample-15.html:small"
+  },
+  {
+    "id": "784",
+    "text": "Organizing residence history across different cities — a practical checklist",
+    "context": "dist/review-sample-15.html:h1"
+  },
+  {
+    "id": "786",
+    "text": "← All 46 reviews",
+    "context": "dist/review-sample-15.html:a"
+  },
+  {
+    "id": "787",
+    "text": "Photo accompanying review 15",
+    "context": "dist/review-sample-15.html:alt"
+  },
+  {
+    "id": "788",
+    "text": "← Previous page",
+    "context": "dist/review-sample-15.html:a"
+  },
+  {
+    "id": "789",
+    "text": "Next page →",
+    "context": "dist/review-sample-15.html:a"
+  },
+  {
+    "id": "790",
+    "text": "Review 16 | China Attest",
+    "context": "dist/review-sample-16.html:title"
+  },
+  {
+    "id": "791",
+    "text": "REVIEW 16",
+    "context": "dist/review-sample-16.html:small"
+  },
+  {
+    "id": "792",
+    "text": "Organizing residence history across different cities — support from abroad",
+    "context": "dist/review-sample-16.html:h1"
+  },
+  {
+    "id": "793",
+    "text": "Photo accompanying review 16",
+    "context": "dist/review-sample-16.html:alt"
+  },
+  {
+    "id": "794",
+    "text": "I needed a Chinese police certificate after living in more than one city in China. China Attest helped me organise my residence information and understand what documents to prepare. I was arranging everything from overseas, so their clear replies and updates were a real help. Thank you for making it easier.",
+    "context": "dist/review-sample-16.html:blockquote"
+  },
+  {
+    "id": "795",
+    "text": "Abigail",
+    "context": "dist/review-sample-16.html:strong"
+  },
+  {
+    "id": "796",
+    "text": "Review 17 | China Attest",
+    "context": "dist/review-sample-17.html:title"
+  },
+  {
+    "id": "797",
+    "text": "REVIEW 17",
+    "context": "dist/review-sample-17.html:small"
+  },
+  {
+    "id": "798",
+    "text": "Organizing residence history across different cities — attention to the details",
+    "context": "dist/review-sample-17.html:h1"
+  },
+  {
+    "id": "799",
+    "text": "Photo accompanying review 17",
+    "context": "dist/review-sample-17.html:alt"
+  },
+  {
+    "id": "800",
+    "text": "I had a great experience with China Attest getting my degree certificate authenticated. Everything went smoothly, and it was completed sooner than expected. The team was helpful, quick to respond, and kept me updated throughout. Thanks for making the process so easy!",
+    "context": "dist/review-sample-17.html:blockquote"
+  },
+  {
+    "id": "801",
+    "text": "Rachel",
+    "context": "dist/review-sample-17.html:strong"
+  },
+  {
+    "id": "802",
+    "text": "Review 18 | China Attest",
+    "context": "dist/review-sample-18.html:title"
+  },
+  {
+    "id": "803",
+    "text": "REVIEW 18",
+    "context": "dist/review-sample-18.html:small"
+  },
+  {
+    "id": "804",
+    "text": "Organizing residence history across different cities — a clearer next step",
+    "context": "dist/review-sample-18.html:h1"
+  },
+  {
+    "id": "805",
+    "text": "Photo accompanying review 18",
+    "context": "dist/review-sample-18.html:alt"
+  },
+  {
+    "id": "806",
+    "text": "China Attest made the CSCSE verification process straightforward. The team explained what I needed at each step and was always helpful when I had questions. I received the final document by email, which was really convenient. Thank you for making everything so easy!",
+    "context": "dist/review-sample-18.html:blockquote"
+  },
+  {
+    "id": "807",
+    "text": "Patricia",
+    "context": "dist/review-sample-18.html:strong"
+  },
+  {
+    "id": "808",
+    "text": "Review 19 | China Attest",
+    "context": "dist/review-sample-19.html:title"
+  },
+  {
+    "id": "809",
+    "text": "REVIEW 19",
+    "context": "dist/review-sample-19.html:small"
+  },
+  {
+    "id": "810",
+    "text": "Preparing documents for an immigration application — clear guidance",
+    "context": "dist/review-sample-19.html:h1"
+  },
+  {
+    "id": "811",
+    "text": "Photo accompanying review 19",
+    "context": "dist/review-sample-19.html:alt"
+  },
+  {
+    "id": "812",
+    "text": "We felt overwhelmed at the thought of getting our police certificates from China, but the team at China Attest put us at ease from the start. They were upfront about what to expect and took the time to work through our concerns. We really appreciated their clear communication and commitment to finding solutions. We’re very happy with the outcome—thank you for all your help!",
+    "context": "dist/review-sample-19.html:blockquote"
+  },
+  {
+    "id": "813",
+    "text": "Matthew",
+    "context": "dist/review-sample-19.html:strong"
+  },
+  {
+    "id": "814",
+    "text": "Review 20 | China Attest",
+    "context": "dist/review-sample-20.html:title"
+  },
+  {
+    "id": "815",
+    "text": "REVIEW 20",
+    "context": "dist/review-sample-20.html:small"
+  },
+  {
+    "id": "816",
+    "text": "Preparing documents for an immigration application — personal communication",
+    "context": "dist/review-sample-20.html:h1"
+  },
+  {
+    "id": "817",
+    "text": "Photo accompanying review 20",
+    "context": "dist/review-sample-20.html:alt"
+  },
+  {
+    "id": "818",
+    "text": "I’m really happy with the service I received from China Attest. The team was friendly, helpful, and supportive throughout the process. Thank you for all your help—I really appreciate it!",
+    "context": "dist/review-sample-20.html:blockquote"
+  },
+  {
+    "id": "819",
+    "text": "Avery",
+    "context": "dist/review-sample-20.html:strong"
+  },
+  {
+    "id": "820",
+    "text": "Review 21 | China Attest",
+    "context": "dist/review-sample-21.html:title"
+  },
+  {
+    "id": "821",
+    "text": "REVIEW 21",
+    "context": "dist/review-sample-21.html:small"
+  },
+  {
+    "id": "822",
+    "text": "Preparing documents for an immigration application — a practical checklist",
+    "context": "dist/review-sample-21.html:h1"
+  },
+  {
+    "id": "823",
+    "text": "Photo accompanying review 21",
+    "context": "dist/review-sample-21.html:alt"
+  },
+  {
+    "id": "824",
+    "text": "Zoe",
+    "context": "dist/review-sample-21.html:strong"
+  },
+  {
+    "id": "825",
+    "text": "Review 22 | China Attest",
+    "context": "dist/review-sample-22.html:title"
+  },
+  {
+    "id": "826",
+    "text": "REVIEW 22",
+    "context": "dist/review-sample-22.html:small"
+  },
+  {
+    "id": "827",
+    "text": "Preparing documents for an immigration application — support from abroad",
+    "context": "dist/review-sample-22.html:h1"
+  },
+  {
+    "id": "828",
+    "text": "Photo accompanying review 22",
+    "context": "dist/review-sample-22.html:alt"
+  },
+  {
+    "id": "829",
+    "text": "I used China Attest to arrange notarisation and related paperwork. I was a little hesitant at first, but the team was professional, transparent, and easy to work with. They explained each step, kept me updated, and completed everything on schedule. Being able to handle it remotely saved me an international trip, which was a huge relief. I’d happily recommend them.",
+    "context": "dist/review-sample-22.html:blockquote"
+  },
+  {
+    "id": "830",
+    "text": "Simon",
+    "context": "dist/review-sample-22.html:strong"
+  },
+  {
+    "id": "831",
+    "text": "Review 23 | China Attest",
+    "context": "dist/review-sample-23.html:title"
+  },
+  {
+    "id": "832",
+    "text": "REVIEW 23",
+    "context": "dist/review-sample-23.html:small"
+  },
+  {
+    "id": "833",
+    "text": "Preparing documents for an immigration application — attention to the details",
+    "context": "dist/review-sample-23.html:h1"
+  },
+  {
+    "id": "834",
+    "text": "Photo accompanying review 23",
+    "context": "dist/review-sample-23.html:alt"
+  },
+  {
+    "id": "835",
+    "text": "I found China Attest online while looking for help getting a Chinese police certificate for my visa application. From my first enquiry, the team put me at ease and explained what to expect. Everything went smoothly, and they kept me updated along the way. I was really pleased with how quickly my certificate was ready. Thanks to the team for making the process so easy.",
+    "context": "dist/review-sample-23.html:blockquote"
+  },
+  {
+    "id": "836",
+    "text": "Rebecca",
+    "context": "dist/review-sample-23.html:strong"
+  },
+  {
+    "id": "837",
+    "text": "Review 24 | China Attest",
+    "context": "dist/review-sample-24.html:title"
+  },
+  {
+    "id": "838",
+    "text": "REVIEW 24",
+    "context": "dist/review-sample-24.html:small"
+  },
+  {
+    "id": "839",
+    "text": "Preparing documents for an immigration application — a clearer next step",
+    "context": "dist/review-sample-24.html:h1"
+  },
+  {
+    "id": "840",
+    "text": "Photo accompanying review 24",
+    "context": "dist/review-sample-24.html:alt"
+  },
+  {
+    "id": "841",
+    "text": "Great communication and fast results, worked well for notarizing, translating and getting the apostille of my degree from China",
+    "context": "dist/review-sample-24.html:blockquote"
+  },
+  {
+    "id": "842",
+    "text": "Claire",
+    "context": "dist/review-sample-24.html:strong"
+  },
+  {
+    "id": "843",
+    "text": "Review 25 | China Attest",
+    "context": "dist/review-sample-25.html:title"
+  },
+  {
+    "id": "844",
+    "text": "REVIEW 25",
+    "context": "dist/review-sample-25.html:small"
+  },
+  {
+    "id": "845",
+    "text": "Finding a starting point after leaving China — clear guidance",
+    "context": "dist/review-sample-25.html:h1"
+  },
+  {
+    "id": "846",
+    "text": "Photo accompanying review 25",
+    "context": "dist/review-sample-25.html:alt"
+  },
+  {
+    "id": "847",
+    "text": "I used China Attest to get my Chinese police clearance certificate. The team was organised, professional, and efficient, making the whole process straightforward. I’m very happy with the service and would highly recommend them!",
+    "context": "dist/review-sample-25.html:blockquote"
+  },
+  {
+    "id": "848",
+    "text": "Adam",
+    "context": "dist/review-sample-25.html:strong"
+  },
+  {
+    "id": "849",
+    "text": "Review 26 | China Attest",
+    "context": "dist/review-sample-26.html:title"
+  },
+  {
+    "id": "850",
+    "text": "REVIEW 26",
+    "context": "dist/review-sample-26.html:small"
+  },
+  {
+    "id": "851",
+    "text": "Finding a starting point after leaving China — personal communication",
+    "context": "dist/review-sample-26.html:h1"
+  },
+  {
+    "id": "852",
+    "text": "Photo accompanying review 26",
+    "context": "dist/review-sample-26.html:alt"
+  },
+  {
+    "id": "853",
+    "text": "I contacted China Attest for help obtaining the CSSD verification reports needed for my WES evaluation. The team responded quickly and was professional and helpful throughout. Everything was completed in just a few days, which I really appreciated. Very happy with the service and would gladly recommend them!",
+    "context": "dist/review-sample-26.html:blockquote"
+  },
+  {
+    "id": "854",
+    "text": "Noah & Ella",
+    "context": "dist/review-sample-26.html:strong"
+  },
+  {
+    "id": "855",
+    "text": "Review 27 | China Attest",
+    "context": "dist/review-sample-27.html:title"
+  },
+  {
+    "id": "856",
+    "text": "REVIEW 27",
+    "context": "dist/review-sample-27.html:small"
+  },
+  {
+    "id": "857",
+    "text": "Finding a starting point after leaving China — a practical checklist",
+    "context": "dist/review-sample-27.html:h1"
+  },
+  {
+    "id": "858",
+    "text": "Photo accompanying review 27",
+    "context": "dist/review-sample-27.html:alt"
+  },
+  {
+    "id": "859",
+    "text": "We needed police certificates from China after moving abroad and weren’t sure where to begin. China Attest explained the paperwork and helped us understand the steps involved. Having someone we could contact with questions made a real difference. We appreciated the regular updates and the support throughout.",
+    "context": "dist/review-sample-27.html:blockquote"
+  },
+  {
+    "id": "860",
+    "text": "Henry & Lucy",
+    "context": "dist/review-sample-27.html:strong"
+  },
+  {
+    "id": "861",
+    "text": "Review 28 | China Attest",
+    "context": "dist/review-sample-28.html:title"
+  },
+  {
+    "id": "862",
+    "text": "REVIEW 28",
+    "context": "dist/review-sample-28.html:small"
+  },
+  {
+    "id": "863",
+    "text": "Finding a starting point after leaving China — support from abroad",
+    "context": "dist/review-sample-28.html:h1"
+  },
+  {
+    "id": "864",
+    "text": "Photo accompanying review 28",
+    "context": "dist/review-sample-28.html:alt"
+  },
+  {
+    "id": "865",
+    "text": "Getting a Chinese police certificate from overseas seemed daunting at first. China Attest gave me a clear list of what to provide and answered my questions promptly. I appreciated being able to discuss everything remotely. The team made the process feel much more manageable.",
+    "context": "dist/review-sample-28.html:blockquote"
+  },
+  {
+    "id": "866",
+    "text": "Eva",
+    "context": "dist/review-sample-28.html:strong"
+  },
+  {
+    "id": "867",
+    "text": "Review 29 | China Attest",
+    "context": "dist/review-sample-29.html:title"
+  },
+  {
+    "id": "868",
+    "text": "REVIEW 29",
+    "context": "dist/review-sample-29.html:small"
+  },
+  {
+    "id": "869",
+    "text": "Finding a starting point after leaving China — attention to the details",
+    "context": "dist/review-sample-29.html:h1"
+  },
+  {
+    "id": "870",
+    "text": "Photo accompanying review 29",
+    "context": "dist/review-sample-29.html:alt"
+  },
+  {
+    "id": "871",
+    "text": "I contacted China Attest for a police certificate needed for a visa application. The team took the time to check my information and explain the document requirements. Communication was clear from the beginning, and I always knew what the next step would be. Thank you for all your help!",
+    "context": "dist/review-sample-29.html:blockquote"
+  },
+  {
+    "id": "872",
+    "text": "Charlotte",
+    "context": "dist/review-sample-29.html:strong"
+  },
+  {
+    "id": "873",
+    "text": "Review 30 | China Attest",
+    "context": "dist/review-sample-30.html:title"
+  },
+  {
+    "id": "874",
+    "text": "REVIEW 30",
+    "context": "dist/review-sample-30.html:small"
+  },
+  {
+    "id": "875",
+    "text": "Finding a starting point after leaving China — a clearer next step",
+    "context": "dist/review-sample-30.html:h1"
+  },
+  {
+    "id": "876",
+    "text": "Photo accompanying review 30",
+    "context": "dist/review-sample-30.html:alt"
+  },
+  {
+    "id": "877",
+    "text": "We hadn’t lived in China for some time, so arranging our police clearance paperwork felt like a difficult task. China Attest helped us work through the requirements without feeling rushed. The team was approachable and kept us informed. We’re glad we had their support along the way.",
+    "context": "dist/review-sample-30.html:blockquote"
+  },
+  {
+    "id": "878",
+    "text": "Sam & Lily",
+    "context": "dist/review-sample-30.html:strong"
+  },
+  {
+    "id": "879",
+    "text": "Review 31 | China Attest",
+    "context": "dist/review-sample-31.html:title"
+  },
+  {
+    "id": "880",
+    "text": "REVIEW 31",
+    "context": "dist/review-sample-31.html:small"
+  },
+  {
+    "id": "881",
+    "text": "Understanding requirements for overseas document use — clear guidance",
+    "context": "dist/review-sample-31.html:h1"
+  },
+  {
+    "id": "882",
+    "text": "Photo accompanying review 31",
+    "context": "dist/review-sample-31.html:alt"
+  },
+  {
+    "id": "883",
+    "text": "I needed help arranging authentication for documents to be used overseas. China Attest explained the steps in plain English and made it clear what I needed to prepare. I appreciated the organised approach and prompt replies. The whole experience was much less stressful than I had expected.",
+    "context": "dist/review-sample-31.html:blockquote"
+  },
+  {
+    "id": "884",
+    "text": "Thomas",
+    "context": "dist/review-sample-31.html:strong"
+  },
+  {
+    "id": "885",
+    "text": "Review 32 | China Attest",
+    "context": "dist/review-sample-32.html:title"
+  },
+  {
+    "id": "886",
+    "text": "REVIEW 32",
+    "context": "dist/review-sample-32.html:small"
+  },
+  {
+    "id": "887",
+    "text": "Understanding requirements for overseas document use — personal communication",
+    "context": "dist/review-sample-32.html:h1"
+  },
+  {
+    "id": "888",
+    "text": "Photo accompanying review 32",
+    "context": "dist/review-sample-32.html:alt"
+  },
+  {
+    "id": "889",
+    "text": "China Attest helped me understand the authentication process for my documents. I had several questions at the start, and the team was patient and easy to talk to. They kept me updated and explained what was happening at each stage. I was very happy with their support.",
+    "context": "dist/review-sample-32.html:blockquote"
+  },
+  {
+    "id": "890",
+    "text": "Owen",
+    "context": "dist/review-sample-32.html:strong"
+  },
+  {
+    "id": "891",
+    "text": "Review 33 | China Attest",
+    "context": "dist/review-sample-33.html:title"
+  },
+  {
+    "id": "892",
+    "text": "REVIEW 33",
+    "context": "dist/review-sample-33.html:small"
+  },
+  {
+    "id": "893",
+    "text": "Understanding requirements for overseas document use — a practical checklist",
+    "context": "dist/review-sample-33.html:h1"
+  },
+  {
+    "id": "894",
+    "text": "Photo accompanying review 33",
+    "context": "dist/review-sample-33.html:alt"
+  },
+  {
+    "id": "895",
+    "text": "I wasn’t sure which documents needed notarisation before authentication, so I reached out to China Attest. Their explanation helped me put everything in order. Having a clear checklist and someone to ask when I was unsure saved a lot of back and forth. Thank you for making it easier.",
+    "context": "dist/review-sample-33.html:blockquote"
+  },
+  {
+    "id": "896",
+    "text": "Margaret",
+    "context": "dist/review-sample-33.html:strong"
+  },
+  {
+    "id": "897",
+    "text": "Review 34 | China Attest",
+    "context": "dist/review-sample-34.html:title"
+  },
+  {
+    "id": "898",
+    "text": "REVIEW 34",
+    "context": "dist/review-sample-34.html:small"
+  },
+  {
+    "id": "899",
+    "text": "Understanding requirements for overseas document use — support from abroad",
+    "context": "dist/review-sample-34.html:h1"
+  },
+  {
+    "id": "900",
+    "text": "Photo accompanying review 34",
+    "context": "dist/review-sample-34.html:alt"
+  },
+  {
+    "id": "901",
+    "text": "We were arranging paperwork from abroad and wanted help with document authentication in China. China Attest clearly explained what we could prepare remotely and what would be needed next. We appreciated the practical advice and regular communication. It was reassuring to have a helpful point of contact.",
+    "context": "dist/review-sample-34.html:blockquote"
+  },
+  {
+    "id": "902",
+    "text": "Leo & Anna",
+    "context": "dist/review-sample-34.html:strong"
+  },
+  {
+    "id": "903",
+    "text": "Review 35 | China Attest",
+    "context": "dist/review-sample-35.html:title"
+  },
+  {
+    "id": "904",
+    "text": "REVIEW 35",
+    "context": "dist/review-sample-35.html:small"
+  },
+  {
+    "id": "905",
+    "text": "Understanding requirements for overseas document use — attention to the details",
+    "context": "dist/review-sample-35.html:h1"
+  },
+  {
+    "id": "906",
+    "text": "Photo accompanying review 35",
+    "context": "dist/review-sample-35.html:alt"
+  },
+  {
+    "id": "907",
+    "text": "There were several documents to organise, and we were concerned about overlooking something. China Attest helped us work through the notarisation and authentication requirements carefully. The team answered our questions clearly and kept the paperwork organised. We really appreciated the attention given to the details.",
+    "context": "dist/review-sample-35.html:blockquote"
+  },
+  {
+    "id": "908",
+    "text": "Jordan & Friends",
+    "context": "dist/review-sample-35.html:strong"
+  },
+  {
+    "id": "909",
+    "text": "Review 36 | China Attest",
+    "context": "dist/review-sample-36.html:title"
+  },
+  {
+    "id": "910",
+    "text": "REVIEW 36",
+    "context": "dist/review-sample-36.html:small"
+  },
+  {
+    "id": "911",
+    "text": "Understanding requirements for overseas document use — a clearer next step",
+    "context": "dist/review-sample-36.html:h1"
+  },
+  {
+    "id": "912",
+    "text": "Photo accompanying review 36",
+    "context": "dist/review-sample-36.html:alt"
+  },
+  {
+    "id": "913",
+    "text": "We contacted China Attest because we needed a clearer idea of how to get our documents authenticated. The team talked us through the requirements and explained the next steps without making things unnecessarily complicated. Their helpful replies and updates took a lot of the stress out of the process.",
+    "context": "dist/review-sample-36.html:blockquote"
+  },
+  {
+    "id": "914",
+    "text": "David & Susan",
+    "context": "dist/review-sample-36.html:strong"
+  },
+  {
+    "id": "915",
+    "text": "Review 37 | China Attest",
+    "context": "dist/review-sample-37.html:title"
+  },
+  {
+    "id": "916",
+    "text": "REVIEW 37",
+    "context": "dist/review-sample-37.html:small"
+  },
+  {
+    "id": "917",
+    "text": "Preparing questions about apostille and legalization — clear guidance",
+    "context": "dist/review-sample-37.html:h1"
+  },
+  {
+    "id": "918",
+    "text": "Photo accompanying review 37",
+    "context": "dist/review-sample-37.html:alt"
+  },
+  {
+    "id": "919",
+    "text": "China Attest helped me arrange an apostille for a document from China. I didn’t know much about the process, but the team explained what was needed and answered my questions promptly. I appreciated knowing what to expect before moving ahead. A professional and helpful service.",
+    "context": "dist/review-sample-37.html:blockquote"
+  },
+  {
+    "id": "920",
+    "text": "Ryan",
+    "context": "dist/review-sample-37.html:strong"
+  },
+  {
+    "id": "921",
+    "text": "Review 38 | China Attest",
+    "context": "dist/review-sample-38.html:title"
+  },
+  {
+    "id": "922",
+    "text": "REVIEW 38",
+    "context": "dist/review-sample-38.html:small"
+  },
+  {
+    "id": "923",
+    "text": "Preparing questions about apostille and legalization — personal communication",
+    "context": "dist/review-sample-38.html:h1"
+  },
+  {
+    "id": "924",
+    "text": "Photo accompanying review 38",
+    "context": "dist/review-sample-38.html:alt"
+  },
+  {
+    "id": "925",
+    "text": "I had questions about notarisation and the apostille process, and China Attest was very helpful. The team took the time to understand what I needed the document for and explained the steps clearly. Communication was straightforward throughout. Thanks for making the paperwork easier to deal with.",
+    "context": "dist/review-sample-38.html:blockquote"
+  },
+  {
+    "id": "926",
+    "text": "Jack",
+    "context": "dist/review-sample-38.html:strong"
+  },
+  {
+    "id": "927",
+    "text": "Review 39 | China Attest",
+    "context": "dist/review-sample-39.html:title"
+  },
+  {
+    "id": "928",
+    "text": "REVIEW 39",
+    "context": "dist/review-sample-39.html:small"
+  },
+  {
+    "id": "929",
+    "text": "Preparing questions about apostille and legalization — a practical checklist",
+    "context": "dist/review-sample-39.html:h1"
+  },
+  {
+    "id": "930",
+    "text": "Photo accompanying review 39",
+    "context": "dist/review-sample-39.html:alt"
+  },
+  {
+    "id": "931",
+    "text": "I used China Attest for help with notarisation and an apostille. The checklist made it much easier to prepare my documents, and the team was quick to clarify anything I didn’t understand. I liked being kept informed rather than having to guess what was happening. Very pleased with the support.",
+    "context": "dist/review-sample-39.html:blockquote"
+  },
+  {
+    "id": "932",
+    "text": "Nora",
+    "context": "dist/review-sample-39.html:strong"
+  },
+  {
+    "id": "933",
+    "text": "Review 40 | China Attest",
+    "context": "dist/review-sample-40.html:title"
+  },
+  {
+    "id": "934",
+    "text": "REVIEW 40",
+    "context": "dist/review-sample-40.html:small"
+  },
+  {
+    "id": "935",
+    "text": "Preparing questions about apostille and legalization — support from abroad",
+    "context": "dist/review-sample-40.html:h1"
+  },
+  {
+    "id": "936",
+    "text": "Photo accompanying review 40",
+    "context": "dist/review-sample-40.html:alt"
+  },
+  {
+    "id": "937",
+    "text": "I was overseas when I needed help getting documents prepared for an apostille in China. China Attest explained the remote arrangements and guided me through what I needed to send. Their clear communication was especially reassuring when I couldn’t be there in person. Thank you for your help.",
+    "context": "dist/review-sample-40.html:blockquote"
+  },
+  {
+    "id": "938",
+    "text": "Alice",
+    "context": "dist/review-sample-40.html:strong"
+  },
+  {
+    "id": "939",
+    "text": "Review 41 | China Attest",
+    "context": "dist/review-sample-41.html:title"
+  },
+  {
+    "id": "940",
+    "text": "REVIEW 41",
+    "context": "dist/review-sample-41.html:small"
+  },
+  {
+    "id": "941",
+    "text": "Preparing questions about apostille and legalization — attention to the details",
+    "context": "dist/review-sample-41.html:h1"
+  },
+  {
+    "id": "942",
+    "text": "Photo accompanying review 41",
+    "context": "dist/review-sample-41.html:alt"
+  },
+  {
+    "id": "943",
+    "text": "We had a few questions about the documents needed for notarisation and an apostille. China Attest helped us sort out the details and explained what should be checked before proceeding. The team was responsive and patient with our questions. We appreciated their careful, practical approach.",
+    "context": "dist/review-sample-41.html:blockquote"
+  },
+  {
+    "id": "944",
+    "text": "Peter & Friends",
+    "context": "dist/review-sample-41.html:strong"
+  },
+  {
+    "id": "945",
+    "text": "Review 42 | China Attest",
+    "context": "dist/review-sample-42.html:title"
+  },
+  {
+    "id": "946",
+    "text": "REVIEW 42",
+    "context": "dist/review-sample-42.html:small"
+  },
+  {
+    "id": "947",
+    "text": "Preparing questions about apostille and legalization — a clearer next step",
+    "context": "dist/review-sample-42.html:h1"
+  },
+  {
+    "id": "948",
+    "text": "Photo accompanying review 42",
+    "context": "dist/review-sample-42.html:alt"
+  },
+  {
+    "id": "949",
+    "text": "I found the different document authentication steps confusing at first. China Attest explained the apostille process and helped me understand what I needed to do next. The team was friendly and kept me updated. Having that guidance made the whole task feel much less overwhelming.",
+    "context": "dist/review-sample-42.html:blockquote"
+  },
+  {
+    "id": "950",
+    "text": "Isabel",
+    "context": "dist/review-sample-42.html:strong"
+  },
+  {
+    "id": "951",
+    "text": "Review 43 | China Attest",
+    "context": "dist/review-sample-43.html:title"
+  },
+  {
+    "id": "952",
+    "text": "REVIEW 43",
+    "context": "dist/review-sample-43.html:small"
+  },
+  {
+    "id": "953",
+    "text": "Organizing document and translation requirements — clear guidance",
+    "context": "dist/review-sample-43.html:h1"
+  },
+  {
+    "id": "954",
+    "text": "Photo accompanying review 43",
+    "context": "dist/review-sample-43.html:alt"
+  },
+  {
+    "id": "955",
+    "text": "China Attest helped me organise notarisation and translation for my paperwork. They explained what information was needed and were happy to answer questions as I prepared the documents. I appreciated the clear instructions and helpful communication. It was a smooth experience from start to finish.",
+    "context": "dist/review-sample-43.html:blockquote"
+  },
+  {
+    "id": "956",
+    "text": "Laura",
+    "context": "dist/review-sample-43.html:strong"
+  },
+  {
+    "id": "957",
+    "text": "Review 44 | China Attest",
+    "context": "dist/review-sample-44.html:title"
+  },
+  {
+    "id": "958",
+    "text": "REVIEW 44",
+    "context": "dist/review-sample-44.html:small"
+  },
+  {
+    "id": "959",
+    "text": "Organizing document and translation requirements — personal communication",
+    "context": "dist/review-sample-44.html:h1"
+  },
+  {
+    "id": "960",
+    "text": "Photo accompanying review 44",
+    "context": "dist/review-sample-44.html:alt"
+  },
+  {
+    "id": "961",
+    "text": "I needed assistance with document translation and related authentication paperwork. China Attest was easy to communicate with and explained the process clearly. Whenever I had a question, the team helped me understand the next step. Thank you for being patient and making everything easier to follow.",
+    "context": "dist/review-sample-44.html:blockquote"
+  },
+  {
+    "id": "962",
+    "text": "Adrian",
+    "context": "dist/review-sample-44.html:strong"
+  },
+  {
+    "id": "963",
+    "text": "Review 45 | China Attest",
+    "context": "dist/review-sample-45.html:title"
+  },
+  {
+    "id": "964",
+    "text": "REVIEW 45",
+    "context": "dist/review-sample-45.html:small"
+  },
+  {
+    "id": "965",
+    "text": "Organizing document and translation requirements — a practical checklist",
+    "context": "dist/review-sample-45.html:h1"
+  },
+  {
+    "id": "966",
+    "text": "Photo accompanying review 45",
+    "context": "dist/review-sample-45.html:alt"
+  },
+  {
+    "id": "967",
+    "text": "I had several documents to prepare for translation and notarisation. China Attest gave me a useful checklist and helped me understand how the paperwork fitted together. The team was organised and responsive, which made preparation much easier. I really appreciated having clear guidance throughout.",
+    "context": "dist/review-sample-45.html:blockquote"
+  },
+  {
+    "id": "968",
+    "text": "Nathan",
+    "context": "dist/review-sample-45.html:strong"
+  },
+  {
+    "id": "969",
+    "text": "Review 46 | China Attest",
+    "context": "dist/review-sample-46.html:title"
+  },
+  {
+    "id": "970",
+    "text": "REVIEW 46",
+    "context": "dist/review-sample-46.html:small"
+  },
+  {
+    "id": "971",
+    "text": "Organizing document and translation requirements — support from abroad",
+    "context": "dist/review-sample-46.html:h1"
+  },
+  {
+    "id": "972",
+    "text": "Photo accompanying review 46",
+    "context": "dist/review-sample-46.html:alt"
+  },
+  {
+    "id": "973",
+    "text": "Arranging notarisation and translation while living outside China felt complicated, but China Attest made it easier to understand. They explained what I needed to provide and kept in touch as things progressed. Being able to ask questions remotely was very convenient. I’m grateful for the support.",
+    "context": "dist/review-sample-46.html:blockquote"
+  },
+  {
+    "id": "974",
+    "text": "Hannah",
+    "context": "dist/review-sample-46.html:strong"
+  },
+  {
+    "id": "975",
+    "text": "Review 47 | China Attest",
+    "context": "dist/review-sample-47.html:title"
+  },
+  {
+    "id": "976",
+    "text": "REVIEW 47",
+    "context": "dist/review-sample-47.html:small"
+  },
+  {
+    "id": "977",
+    "text": "Organizing document and translation requirements — attention to the details",
+    "context": "dist/review-sample-47.html:h1"
+  },
+  {
+    "id": "978",
+    "text": "Photo accompanying review 47",
+    "context": "dist/review-sample-47.html:alt"
+  },
+  {
+    "id": "979",
+    "text": "China Attest assisted me with translation and notarisation requirements for my documents. I appreciated the time they took to clarify the details before moving ahead. Their replies were helpful, and I felt comfortable asking questions. It was reassuring to have someone guide me through the paperwork.",
+    "context": "dist/review-sample-47.html:blockquote"
+  },
+  {
+    "id": "980",
+    "text": "Grace",
+    "context": "dist/review-sample-47.html:strong"
+  },
+  {
+    "id": "981",
+    "text": "Review 48 | China Attest",
+    "context": "dist/review-sample-48.html:title"
+  },
+  {
+    "id": "982",
+    "text": "REVIEW 48",
+    "context": "dist/review-sample-48.html:small"
+  },
+  {
+    "id": "983",
+    "text": "Organizing document and translation requirements — a clearer next step",
+    "context": "dist/review-sample-48.html:h1"
+  },
+  {
+    "id": "984",
+    "text": "Photo accompanying review 48",
+    "context": "dist/review-sample-48.html:alt"
+  },
+  {
+    "id": "985",
+    "text": "I contacted China Attest because I wasn’t sure how to prepare my documents for notarisation and translation. The team broke the process down into clear steps and helped me get organised. They were professional, approachable, and easy to reach. Thanks for taking the stress out of the preparation.",
+    "context": "dist/review-sample-48.html:blockquote"
+  },
+  {
+    "id": "986",
+    "text": "Ethan",
+    "context": "dist/review-sample-48.html:strong"
+  },
+  {
+    "id": "987",
+    "text": "Review 49 | China Attest",
+    "context": "dist/review-sample-49.html:title"
+  },
+  {
+    "id": "988",
+    "text": "REVIEW 49",
+    "context": "dist/review-sample-49.html:small"
+  },
+  {
+    "id": "989",
+    "text": "Preparing academic records for an overseas institution — clear guidance",
+    "context": "dist/review-sample-49.html:h1"
+  },
+  {
+    "id": "990",
+    "text": "Photo accompanying review 49",
+    "context": "dist/review-sample-49.html:alt"
+  },
+  {
+    "id": "991",
+    "text": "I needed academic verification documents for an overseas application and contacted China Attest for help. They explained which records I needed to prepare and answered my questions clearly. The team kept me informed throughout, which made planning much easier. I was very pleased with their assistance.",
+    "context": "dist/review-sample-49.html:blockquote"
+  },
+  {
+    "id": "992",
+    "text": "Amelia",
+    "context": "dist/review-sample-49.html:strong"
+  },
+  {
+    "id": "993",
+    "text": "Review 50 | China Attest",
+    "context": "dist/review-sample-50.html:title"
+  },
+  {
+    "id": "994",
+    "text": "REVIEW 50",
+    "context": "dist/review-sample-50.html:small"
+  },
+  {
+    "id": "995",
+    "text": "Preparing academic records for an overseas institution — personal communication",
+    "context": "dist/review-sample-50.html:h1"
+  },
+  {
+    "id": "996",
+    "text": "Photo accompanying review 50",
+    "context": "dist/review-sample-50.html:alt"
+  },
+  {
+    "id": "997",
+    "text": "China Attest helped me with the CSSD verification reports needed for my WES evaluation. The team was quick to respond and explained the document requirements clearly. I appreciated having someone to turn to when I wasn’t sure about the paperwork. Thank you for making the process easier to manage.",
+    "context": "dist/review-sample-50.html:blockquote"
+  },
+  {
+    "id": "998",
+    "text": "Ben",
+    "context": "dist/review-sample-50.html:strong"
+  },
+  {
+    "id": "999",
+    "text": "Review 51 | China Attest",
+    "context": "dist/review-sample-51.html:title"
+  },
+  {
+    "id": "1000",
+    "text": "REVIEW 51",
+    "context": "dist/review-sample-51.html:small"
+  },
+  {
+    "id": "1001",
+    "text": "Preparing academic records for an overseas institution — a practical checklist",
+    "context": "dist/review-sample-51.html:h1"
+  },
+  {
+    "id": "1002",
+    "text": "Photo accompanying review 51",
+    "context": "dist/review-sample-51.html:alt"
+  },
+  {
+    "id": "1003",
+    "text": "We needed help organising academic documents for use overseas. China Attest walked us through the verification requirements and made sure we understood what to prepare. The team was patient with our questions and kept the communication clear. We really appreciated their practical support.",
+    "context": "dist/review-sample-51.html:blockquote"
+  },
+  {
+    "id": "1004",
+    "text": "Lucas & Mia",
+    "context": "dist/review-sample-51.html:strong"
+  },
+  {
+    "id": "1005",
+    "text": "Review 52 | China Attest",
+    "context": "dist/review-sample-52.html:title"
+  },
+  {
+    "id": "1006",
+    "text": "REVIEW 52",
+    "context": "dist/review-sample-52.html:small"
+  },
+  {
+    "id": "1007",
+    "text": "Preparing academic records for an overseas institution — support from abroad",
+    "context": "dist/review-sample-52.html:h1"
+  },
+  {
+    "id": "1008",
+    "text": "Photo accompanying review 52",
+    "context": "dist/review-sample-52.html:alt"
+  },
+  {
+    "id": "1009",
+    "text": "We were arranging academic verification paperwork from abroad and weren’t sure how to approach it. China Attest explained the requirements and helped us organise the records we needed. Their prompt replies and regular updates were reassuring. It was helpful to have support without needing to be in China.",
+    "context": "dist/review-sample-52.html:blockquote"
+  },
+  {
+    "id": "1010",
+    "text": "Taylor & Friends",
+    "context": "dist/review-sample-52.html:strong"
+  },
+  {
+    "id": "1011",
+    "text": "Review 53 | China Attest",
+    "context": "dist/review-sample-53.html:title"
+  },
+  {
+    "id": "1012",
+    "text": "REVIEW 53",
+    "context": "dist/review-sample-53.html:small"
+  },
+  {
+    "id": "1013",
+    "text": "Preparing academic records for an overseas institution — attention to the details",
+    "context": "dist/review-sample-53.html:h1"
+  },
+  {
+    "id": "1014",
+    "text": "Photo accompanying review 53",
+    "context": "dist/review-sample-53.html:alt"
+  },
+  {
+    "id": "1015",
+    "text": "I used China Attest for assistance with my academic verification documents. There were details I wasn’t sure about, and the team took the time to explain them before we proceeded. I appreciated their careful approach and clear communication. The process felt much more straightforward with their help.",
+    "context": "dist/review-sample-53.html:blockquote"
+  },
+  {
+    "id": "1016",
+    "text": "Michael",
+    "context": "dist/review-sample-53.html:strong"
+  },
+  {
+    "id": "1017",
+    "text": "Review 54 | China Attest",
+    "context": "dist/review-sample-54.html:title"
+  },
+  {
+    "id": "1018",
+    "text": "REVIEW 54",
+    "context": "dist/review-sample-54.html:small"
+  },
+  {
+    "id": "1019",
+    "text": "Preparing academic records for an overseas institution — a clearer next step",
+    "context": "dist/review-sample-54.html:h1"
+  },
+  {
+    "id": "1020",
+    "text": "Photo accompanying review 54",
+    "context": "dist/review-sample-54.html:alt"
+  },
+  {
+    "id": "1021",
+    "text": "China Attest helped me understand the CSCSE verification process and what information I needed to provide. The instructions were clear, and the team was helpful whenever I had questions. Receiving the final document by email was convenient. Thank you for guiding me through the process.",
+    "context": "dist/review-sample-54.html:blockquote"
+  },
+  {
+    "id": "1022",
+    "text": "Emily",
+    "context": "dist/review-sample-54.html:strong"
+  },
+  {
+    "id": "1023",
+    "text": "Review 55 | China Attest",
+    "context": "dist/review-sample-55.html:title"
+  },
+  {
+    "id": "1024",
+    "text": "REVIEW 55",
+    "context": "dist/review-sample-55.html:small"
+  },
+  {
+    "id": "1025",
+    "text": "Clarifying academic document requirements for employment — clear guidance",
+    "context": "dist/review-sample-55.html:h1"
+  },
+  {
+    "id": "1026",
+    "text": "Photo accompanying review 55",
+    "context": "dist/review-sample-55.html:alt"
+  },
+  {
+    "id": "1027",
+    "text": "We contacted China Attest for help with degree authentication for employment paperwork. The team explained the requirements clearly and helped us understand the steps involved. We appreciated their friendly approach and timely updates. Having someone guide us through the documents made things much easier.",
+    "context": "dist/review-sample-55.html:blockquote"
+  },
+  {
+    "id": "1028",
+    "text": "Alex & Sarah",
+    "context": "dist/review-sample-55.html:strong"
+  },
+  {
+    "id": "1029",
+    "text": "Review 56 | China Attest",
+    "context": "dist/review-sample-56.html:title"
+  },
+  {
+    "id": "1030",
+    "text": "REVIEW 56",
+    "context": "dist/review-sample-56.html:small"
+  },
+  {
+    "id": "1031",
+    "text": "Clarifying academic document requirements for employment — personal communication",
+    "context": "dist/review-sample-56.html:h1"
+  },
+  {
+    "id": "1032",
+    "text": "Photo accompanying review 56",
+    "context": "dist/review-sample-56.html:alt"
+  },
+  {
+    "id": "1033",
+    "text": "I needed my degree certificate authenticated and had a number of questions before starting. China Attest was approachable and explained what I needed to prepare. I felt informed throughout the process and appreciated the prompt communication. Thanks to the team for all their help.",
+    "context": "dist/review-sample-56.html:blockquote"
+  },
+  {
+    "id": "1034",
+    "text": "Chloe",
+    "context": "dist/review-sample-56.html:strong"
+  },
+  {
+    "id": "1035",
+    "text": "Review 57 | China Attest",
+    "context": "dist/review-sample-57.html:title"
+  },
+  {
+    "id": "1036",
+    "text": "REVIEW 57",
+    "context": "dist/review-sample-57.html:small"
+  },
+  {
+    "id": "1037",
+    "text": "Clarifying academic document requirements for employment — a practical checklist",
+    "context": "dist/review-sample-57.html:h1"
+  },
+  {
+    "id": "1038",
+    "text": "Photo accompanying review 57",
+    "context": "dist/review-sample-57.html:alt"
+  },
+  {
+    "id": "1039",
+    "text": "We needed assistance preparing academic documents for an employment application. China Attest helped us organise the paperwork and understand the verification requirements. The team answered our questions patiently and kept us updated. We were happy with the support and the clear, straightforward communication.",
+    "context": "dist/review-sample-57.html:blockquote"
+  },
+  {
+    "id": "1040",
+    "text": "Robert & Helen",
+    "context": "dist/review-sample-57.html:strong"
+  },
+  {
+    "id": "1041",
+    "text": "Review 58 | China Attest",
+    "context": "dist/review-sample-58.html:title"
+  },
+  {
+    "id": "1042",
+    "text": "REVIEW 58",
+    "context": "dist/review-sample-58.html:small"
+  },
+  {
+    "id": "1043",
+    "text": "Clarifying academic document requirements for employment — support from abroad",
+    "context": "dist/review-sample-58.html:h1"
+  },
+  {
+    "id": "1044",
+    "text": "Photo accompanying review 58",
+    "context": "dist/review-sample-58.html:alt"
+  },
+  {
+    "id": "1045",
+    "text": "We were outside China when we needed help with degree authentication. China Attest explained the arrangements and what documents we would need to provide. It was reassuring to have a team we could contact remotely with questions. We appreciated their professional support throughout.",
+    "context": "dist/review-sample-58.html:blockquote"
+  },
+  {
+    "id": "1046",
+    "text": "James & Olivia",
+    "context": "dist/review-sample-58.html:strong"
+  },
+  {
+    "id": "1047",
+    "text": "Review 59 | China Attest",
+    "context": "dist/review-sample-59.html:title"
+  },
+  {
+    "id": "1048",
+    "text": "REVIEW 59",
+    "context": "dist/review-sample-59.html:small"
+  },
+  {
+    "id": "1049",
+    "text": "Clarifying academic document requirements for employment — attention to the details",
+    "context": "dist/review-sample-59.html:h1"
+  },
+  {
+    "id": "1050",
+    "text": "Photo accompanying review 59",
+    "context": "dist/review-sample-59.html:alt"
+  },
+  {
+    "id": "1051",
+    "text": "I contacted China Attest for help with verification paperwork connected to my degree. They explained the requirements clearly and helped me work through the details. The team was responsive, helpful, and kept me informed as things progressed. I’m glad I had their guidance through the process.",
+    "context": "dist/review-sample-59.html:blockquote"
+  },
+  {
+    "id": "1052",
+    "text": "Sophie",
+    "context": "dist/review-sample-59.html:strong"
+  },
+  {
+    "id": "1053",
+    "text": "Review 60 | China Attest",
+    "context": "dist/review-sample-60.html:title"
+  },
+  {
+    "id": "1054",
+    "text": "REVIEW 60",
+    "context": "dist/review-sample-60.html:small"
+  },
+  {
+    "id": "1055",
+    "text": "Clarifying academic document requirements for employment — a clearer next step",
+    "context": "dist/review-sample-60.html:h1"
+  },
+  {
+    "id": "1056",
+    "text": "Photo accompanying review 60",
+    "context": "dist/review-sample-60.html:alt"
+  },
+  {
+    "id": "1057",
+    "text": "Reviews | China Attest",
+    "context": "dist/testimonials-page-10.html:title"
+  },
+  {
+    "id": "1059",
+    "text": "Client reviews.",
+    "context": "dist/testimonials-page-2.html:h1"
+  },
+  {
+    "id": "1060",
+    "text": "View all reviews",
+    "context": "dist/testimonials-page-2.html:a"
+  },
+  {
+    "id": "1061",
+    "text": "Reviews 9–16 of 46 · Page 2 of 6",
+    "context": "dist/testimonials-page-2.html:p"
+  },
+  {
+    "id": "1062",
+    "text": "Review pages",
+    "context": "dist/testimonials-page-2.html:aria-label"
+  },
+  {
+    "id": "1063",
+    "text": "Previous page",
+    "context": "dist/testimonials-page-2.html:aria-label"
+  },
+  {
+    "id": "1064",
+    "text": "Next page",
+    "context": "dist/testimonials-page-2.html:aria-label"
+  },
+  {
+    "id": "1065",
+    "text": "Reviews 17–24 of 46 · Page 3 of 6",
+    "context": "dist/testimonials-page-3.html:p"
+  },
+  {
+    "id": "1066",
+    "text": "Reviews 25–32 of 46 · Page 4 of 6",
+    "context": "dist/testimonials-page-4.html:p"
+  },
+  {
+    "id": "1067",
+    "text": "Reviews 33–40 of 46 · Page 5 of 6",
+    "context": "dist/testimonials-page-5.html:p"
+  },
+  {
+    "id": "1068",
+    "text": "Reviews 41–46 of 46 · Page 6 of 6",
+    "context": "dist/testimonials-page-6.html:p"
+  },
+  {
+    "id": "1069",
+    "text": "Reviews 1–8 of 46 · Page 1 of 6",
+    "context": "dist/testimonials.html:p"
+  },
+  {
+    "id": "1070",
+    "text": "Shenzhen: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-shenzhen.html:title"
+  },
+  {
+    "id": "1071",
+    "text": "Shenzhen: Police Certificate Inquiry Planning",
+    "context": "guide-police-shenzhen.html:h1"
+  },
+  {
+    "id": "1072",
+    "text": "Your connection to Shenzhen",
+    "context": "guide-police-shenzhen.html:h2"
+  },
+  {
+    "id": "1073",
+    "text": "Shenzhen",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "1074",
+    "text": "Guangzhou: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-guangzhou.html:title"
+  },
+  {
+    "id": "1075",
+    "text": "Guangzhou: Police Certificate Inquiry Planning",
+    "context": "guide-police-guangzhou.html:h1"
+  },
+  {
+    "id": "1076",
+    "text": "Your connection to Guangzhou",
+    "context": "guide-police-guangzhou.html:h2"
+  },
+  {
+    "id": "1077",
+    "text": "Guangzhou",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "1078",
+    "text": "Shanghai: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-shanghai.html:title"
+  },
+  {
+    "id": "1079",
+    "text": "Shanghai: Police Certificate Inquiry Planning",
+    "context": "guide-police-shanghai.html:h1"
+  },
+  {
+    "id": "1080",
+    "text": "Your connection to Shanghai",
+    "context": "guide-police-shanghai.html:h2"
+  },
+  {
+    "id": "1081",
+    "text": "Shanghai",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "1082",
+    "text": "Beijing: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-beijing.html:title"
+  },
+  {
+    "id": "1083",
+    "text": "Beijing: Police Certificate Inquiry Planning",
+    "context": "guide-police-beijing.html:h1"
+  },
+  {
+    "id": "1084",
+    "text": "Your connection to Beijing",
+    "context": "guide-police-beijing.html:h2"
+  },
+  {
+    "id": "1085",
+    "text": "Beijing",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "1086",
+    "text": "Huizhou: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-huizhou.html:title"
+  },
+  {
+    "id": "1087",
+    "text": "Huizhou: Police Certificate Inquiry Planning",
+    "context": "guide-police-huizhou.html:h1"
+  },
+  {
+    "id": "1088",
+    "text": "Your connection to Huizhou",
+    "context": "guide-police-huizhou.html:h2"
+  },
+  {
+    "id": "1089",
+    "text": "Huizhou",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "1090",
+    "text": "Changsha: Police Certificate Inquiry Planning | China Attest",
+    "context": "guide-police-changsha.html:title"
+  },
+  {
+    "id": "1091",
+    "text": "Changsha: Police Certificate Inquiry Planning",
+    "context": "guide-police-changsha.html:h1"
+  },
+  {
+    "id": "1092",
+    "text": "Your connection to Changsha",
+    "context": "guide-police-changsha.html:h2"
+  },
+  {
+    "id": "1093",
+    "text": "Changsha",
+    "context": "how-to-police-certificate.html:a"
+  },
+  {
+    "id": "1094",
+    "text": "China Police Clearance Certificates",
+    "context": "police-clearance naming update"
+  },
+  {
+    "id": "1095",
+    "text": "& Document Authentication",
+    "context": "police-clearance naming update"
+  },
+  {
+    "id": "1096",
+    "text": "China Police Clearance Certificate for Foreigners",
+    "context": "police-clearance naming update"
+  },
+  {
+    "id": "337",
+    "text": "China Police Clearance Certificate.",
+    "context": "china-police-certificate-for-foreigners/index.html:li"
+  }
+]
