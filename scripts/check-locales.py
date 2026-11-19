@@ -57,3 +57,19 @@ if errors:
  for x in errors[:80]:print('ERROR',x)
  raise SystemExit(f'{len(errors)} failures')
 print('PASS: language routes, local links/anchors, localized reviews, form endpoint/fields/options, headings and JSON-LD.')
+
+# Task 02: keep hreflang and Canonical validation in the standard check command.
+import subprocess,sys
+subprocess.run([sys.executable,str(ROOT/"scripts/check-hreflang.py")],check=True)
+
+# Task 03: verify published sitemap and robots after locale/hreflang checks.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-discovery.py")],check=True)
+
+# Task 04: validate static, localized visible breadcrumb navigation.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-breadcrumbs.py")],check=True)
+
+# Task 05: validate BreadcrumbList and preserve all pre-existing schema blocks.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-breadcrumb-schema.py")],check=True)
+
+# Task 06: validate the single company/site identity and real multilingual services.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-entities.py")],check=True)

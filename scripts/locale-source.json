@@ -5458,5 +5458,700 @@
     "id": "337",
     "text": "China Police Clearance Certificate.",
     "context": "china-police-certificate-for-foreigners/index.html:li"
+  },
+  {
+    "id": "1097",
+    "text": "Services",
+    "context": "breadcrumb:navigation"
+  },
+  {
+    "id": "1098",
+    "text": "Reviews",
+    "context": "breadcrumb:navigation"
+  },
+  {
+    "id": "1099",
+    "text": "Page 2",
+    "context": "breadcrumb:navigation"
+  },
+  {
+    "id": "1100",
+    "text": "Page 3",
+    "context": "breadcrumb:navigation"
+  },
+  {
+    "id": "1101",
+    "text": "Page 4",
+    "context": "breadcrumb:navigation"
+  },
+  {
+    "id": "1102",
+    "text": "Page 5",
+    "context": "breadcrumb:navigation"
+  },
+  {
+    "id": "1103",
+    "text": "Page 6",
+    "context": "breadcrumb:navigation"
+  },
+  {
+    "id": "1104",
+    "text": "Assistance for foreign nationals with China police clearance certificates, including supporting document preparation, application coordination and document delivery.",
+    "context": "police-clearance.html:Service:description"
+  },
+  {
+    "id": "1105",
+    "text": "Support with preparing China-issued documents for apostille or consular authentication for overseas use, based on the destination and the receiving organization’s requirements.",
+    "context": "authentication.html:Service:description"
+  },
+  {
+    "id": "1106",
+    "text": "Guidance on CSSD/CHSI verification, CSCSE recognition and academic document authentication requirements, based on where a qualification was issued and how it will be used.",
+    "context": "degree-verification.html:Service:description"
+  },
+  {
+    "id": "1107",
+    "text": "China Attest | China Document Services for Foreigners",
+    "context": "index.html:title"
+  },
+  {
+    "id": "1108",
+    "text": "China Police Clearance Certificate Help | China Attest",
+    "context": "police-clearance.html:title"
+  },
+  {
+    "id": "1109",
+    "text": "China Apostille & Document Authentication | China Attest",
+    "context": "authentication.html:title"
+  },
+  {
+    "id": "1110",
+    "text": "China Degree Verification & Academic Documents | China Attest",
+    "context": "degree-verification.html:title"
+  },
+  {
+    "id": "1111",
+    "text": "About China Attest | Document Support for Foreigners",
+    "context": "about.html:title"
+  },
+  {
+    "id": "1112",
+    "text": "Contact China Attest | China Document Service Enquiries",
+    "context": "contact.html:title"
+  },
+  {
+    "id": "1113",
+    "text": "China Attest helps foreign nationals navigate China document requirements. Explore police clearance, apostille, authentication and degree verification support.",
+    "context": "index.html:meta:description"
+  },
+  {
+    "id": "1114",
+    "text": "Need a China police clearance certificate? China Attest helps foreign nationals prepare supporting documents, coordinate applications and arrange delivery.",
+    "context": "police-clearance.html:meta:description"
+  },
+  {
+    "id": "1115",
+    "text": "Get guidance on China apostille and consular authentication for overseas use. China Attest helps you clarify document, destination and preparation requirements.",
+    "context": "authentication.html:meta:description"
+  },
+  {
+    "id": "1116",
+    "text": "China Attest guides you through China degree verification, CSSD/CHSI reports, CSCSE recognition and academic document authentication requirements.",
+    "context": "degree-verification.html:meta:description"
+  },
+  {
+    "id": "1117",
+    "text": "Meet China Attest, a Shenzhen-based document support brand helping international clients understand requirements and coordinate Chinese document applications.",
+    "context": "about.html:meta:description"
+  },
+  {
+    "id": "1118",
+    "text": "Contact China Attest by WhatsApp, email, phone or enquiry form to discuss China police clearance, apostille, authentication and degree verification needs.",
+    "context": "contact.html:meta:description"
+  },
+  {
+    "id": "1119",
+    "text": "China Document Services",
+    "context": "core:H1:home_primary"
+  },
+  {
+    "id": "1120",
+    "text": "for Foreign Nationals",
+    "context": "core:H1:home_accent"
+  },
+  {
+    "id": "1121",
+    "text": "China Apostille & Authentication Services",
+    "context": "core:H1:apostille"
+  },
+  {
+    "id": "1122",
+    "text": "China Degree Verification & Academic Document Support",
+    "context": "core:H1:degree"
+  },
+  {
+    "id": "1123",
+    "text": "Contact China Attest:",
+    "context": "core:H1:contact_primary"
+  },
+  {
+    "id": "1124",
+    "text": "China Document Support",
+    "context": "core:H1:contact_accent"
+  },
+  {
+    "id": "1125",
+    "text": "China Police Certificate Format Guide | China Attest",
+    "context": "police-certificate-format.html:title"
+  },
+  {
+    "id": "1126",
+    "text": "China Police Certificate City Guides | China Attest",
+    "context": "how-to-police-certificate.html:title"
+  },
+  {
+    "id": "1127",
+    "text": "China Apostille Preparation & Guide Links | China Attest",
+    "context": "how-to-apostille.html:title"
+  },
+  {
+    "id": "1128",
+    "text": "Client Reviews 1–8 | Page 1 | China Attest",
+    "context": "testimonials.html:title"
+  },
+  {
+    "id": "1129",
+    "text": "Client Reviews 9–16 | Page 2 | China Attest",
+    "context": "testimonials-page-2.html:title"
+  },
+  {
+    "id": "1130",
+    "text": "Client Reviews 17–24 | Page 3 | China Attest",
+    "context": "testimonials-page-3.html:title"
+  },
+  {
+    "id": "1131",
+    "text": "Client Reviews 25–32 | Page 4 | China Attest",
+    "context": "testimonials-page-4.html:title"
+  },
+  {
+    "id": "1132",
+    "text": "Client Reviews 33–40 | Page 5 | China Attest",
+    "context": "testimonials-page-5.html:title"
+  },
+  {
+    "id": "1133",
+    "text": "Client Reviews 41–46 | Page 6 | China Attest",
+    "context": "testimonials-page-6.html:title"
+  },
+  {
+    "id": "1134",
+    "text": "China Police Certificate Review — Abigail | China Attest",
+    "context": "review-sample-16.html:title"
+  },
+  {
+    "id": "1135",
+    "text": "China Police Certificate Review — Rebecca | China Attest",
+    "context": "review-sample-23.html:title"
+  },
+  {
+    "id": "1136",
+    "text": "China Police Certificate Review — Henry & Lucy | China Attest",
+    "context": "review-sample-27.html:title"
+  },
+  {
+    "id": "1137",
+    "text": "China Police Certificate Review — Eva | China Attest",
+    "context": "review-sample-28.html:title"
+  },
+  {
+    "id": "1138",
+    "text": "China Police Certificate Review — Sam & Lily | China Attest",
+    "context": "review-sample-30.html:title"
+  },
+  {
+    "id": "1139",
+    "text": "Document Authentication Review — Thomas | China Attest",
+    "context": "review-sample-31.html:title"
+  },
+  {
+    "id": "1140",
+    "text": "Document Authentication Review — Owen | China Attest",
+    "context": "review-sample-32.html:title"
+  },
+  {
+    "id": "1141",
+    "text": "Document Authentication Review — Margaret | China Attest",
+    "context": "review-sample-33.html:title"
+  },
+  {
+    "id": "1142",
+    "text": "Document Authentication Review — Leo & Anna | China Attest",
+    "context": "review-sample-34.html:title"
+  },
+  {
+    "id": "1143",
+    "text": "Document Authentication Review — Jordan & Friends | China Attest",
+    "context": "review-sample-35.html:title"
+  },
+  {
+    "id": "1144",
+    "text": "Document Authentication Review — David & Susan | China Attest",
+    "context": "review-sample-36.html:title"
+  },
+  {
+    "id": "1145",
+    "text": "China Apostille Review — Ryan | China Attest",
+    "context": "review-sample-37.html:title"
+  },
+  {
+    "id": "1146",
+    "text": "China Apostille Review — Jack | China Attest",
+    "context": "review-sample-38.html:title"
+  },
+  {
+    "id": "1147",
+    "text": "China Apostille Review — Nora | China Attest",
+    "context": "review-sample-39.html:title"
+  },
+  {
+    "id": "1148",
+    "text": "China Apostille Review — Alice | China Attest",
+    "context": "review-sample-40.html:title"
+  },
+  {
+    "id": "1149",
+    "text": "China Apostille Review — Peter & Friends | China Attest",
+    "context": "review-sample-41.html:title"
+  },
+  {
+    "id": "1150",
+    "text": "China Apostille Review — Isabel | China Attest",
+    "context": "review-sample-42.html:title"
+  },
+  {
+    "id": "1151",
+    "text": "Notarisation & Translation Review — Laura | China Attest",
+    "context": "review-sample-43.html:title"
+  },
+  {
+    "id": "1152",
+    "text": "Notarisation & Translation Review — Adrian | China Attest",
+    "context": "review-sample-44.html:title"
+  },
+  {
+    "id": "1153",
+    "text": "Notarisation & Translation Review — Nathan | China Attest",
+    "context": "review-sample-45.html:title"
+  },
+  {
+    "id": "1154",
+    "text": "Notarisation & Translation Review — Hannah | China Attest",
+    "context": "review-sample-46.html:title"
+  },
+  {
+    "id": "1155",
+    "text": "Notarisation & Translation Review — Grace | China Attest",
+    "context": "review-sample-47.html:title"
+  },
+  {
+    "id": "1156",
+    "text": "Notarisation & Translation Review — Ethan | China Attest",
+    "context": "review-sample-48.html:title"
+  },
+  {
+    "id": "1157",
+    "text": "Academic Verification Review — Amelia | China Attest",
+    "context": "review-sample-49.html:title"
+  },
+  {
+    "id": "1158",
+    "text": "Academic Verification Review — Ben | China Attest",
+    "context": "review-sample-50.html:title"
+  },
+  {
+    "id": "1159",
+    "text": "Academic Verification Review — Lucas & Mia | China Attest",
+    "context": "review-sample-51.html:title"
+  },
+  {
+    "id": "1160",
+    "text": "Academic Verification Review — Taylor & Friends | China Attest",
+    "context": "review-sample-52.html:title"
+  },
+  {
+    "id": "1161",
+    "text": "Academic Verification Review — Michael | China Attest",
+    "context": "review-sample-53.html:title"
+  },
+  {
+    "id": "1162",
+    "text": "Academic Verification Review — Emily | China Attest",
+    "context": "review-sample-54.html:title"
+  },
+  {
+    "id": "1163",
+    "text": "Degree Authentication Review — Alex & Sarah | China Attest",
+    "context": "review-sample-55.html:title"
+  },
+  {
+    "id": "1164",
+    "text": "Degree Authentication Review — Chloe | China Attest",
+    "context": "review-sample-56.html:title"
+  },
+  {
+    "id": "1165",
+    "text": "Degree Authentication Review — Robert & Helen | China Attest",
+    "context": "review-sample-57.html:title"
+  },
+  {
+    "id": "1166",
+    "text": "Degree Authentication Review — James & Olivia | China Attest",
+    "context": "review-sample-58.html:title"
+  },
+  {
+    "id": "1167",
+    "text": "Degree Authentication Review — Sophie | China Attest",
+    "context": "review-sample-59.html:title"
+  },
+  {
+    "id": "1168",
+    "text": "Browse China Attest guides on police clearance, apostilles, degree verification and document authentication, with links to preparation and service information.",
+    "context": "blog.html:meta:description"
+  },
+  {
+    "id": "1169",
+    "text": "Check the elements of a China police certificate package and the receiving institution’s format requirements. This page does not publish an official sample.",
+    "context": "police-certificate-format.html:meta:description"
+  },
+  {
+    "id": "1170",
+    "text": "Choose a China city to find police certificate enquiry planning notes. Prepare your residence details and questions for a location-specific case review.",
+    "context": "how-to-police-certificate.html:meta:description"
+  },
+  {
+    "id": "1171",
+    "text": "Start preparing a China apostille enquiry and follow the link to the detailed documents and process guide, or explore China Attest’s authentication service.",
+    "context": "how-to-apostille.html:meta:description"
+  },
+  {
+    "id": "1172",
+    "text": "Read reviews 1–8 from China Attest’s archive, covering police certificate enquiries, academic documents and communication about document preparation.",
+    "context": "testimonials.html:meta:description"
+  },
+  {
+    "id": "1173",
+    "text": "Read reviews 9–16 on China police certificates, degree apostilles and CSSD reports, including customer accounts of preparation, enquiries and communication.",
+    "context": "testimonials-page-2.html:meta:description"
+  },
+  {
+    "id": "1174",
+    "text": "Read reviews 17–24 about document authentication, notarisation and apostille enquiries, including experiences of preparing paperwork from abroad.",
+    "context": "testimonials-page-3.html:meta:description"
+  },
+  {
+    "id": "1175",
+    "text": "Read reviews 25–32 on apostille preparation, notarisation and translation, with customer feedback about checklists, remote arrangements and clear explanations.",
+    "context": "testimonials-page-4.html:meta:description"
+  },
+  {
+    "id": "1176",
+    "text": "Read reviews 33–40 about translation and academic verification documents, including CSSD/WES and CSCSE enquiries and communication while preparing records.",
+    "context": "testimonials-page-5.html:meta:description"
+  },
+  {
+    "id": "1177",
+    "text": "Read reviews 41–46 about degree authentication for employment and a police certificate enquiry involving residence in several Chinese cities.",
+    "context": "testimonials-page-6.html:meta:description"
+  },
+  {
+    "id": "1178",
+    "text": "Abigail’s review: “I needed a Chinese police certificate after living in more than one city in China.”",
+    "context": "review-sample-16.html:meta:description"
+  },
+  {
+    "id": "1179",
+    "text": "Rebecca’s review: “I found China Attest online while looking for help getting a Chinese police certificate for my visa application.”",
+    "context": "review-sample-23.html:meta:description"
+  },
+  {
+    "id": "1180",
+    "text": "Henry & Lucy’s review: “We needed police certificates from China after moving abroad and weren’t sure where to begin.”",
+    "context": "review-sample-27.html:meta:description"
+  },
+  {
+    "id": "1181",
+    "text": "Eva’s review: “Getting a Chinese police certificate from overseas seemed daunting at first.”",
+    "context": "review-sample-28.html:meta:description"
+  },
+  {
+    "id": "1182",
+    "text": "Sam & Lily’s review: “We hadn’t lived in China for some time, so arranging our police clearance paperwork felt like a difficult task.”",
+    "context": "review-sample-30.html:meta:description"
+  },
+  {
+    "id": "1183",
+    "text": "Thomas’s review: “I needed help arranging authentication for documents to be used overseas.”",
+    "context": "review-sample-31.html:meta:description"
+  },
+  {
+    "id": "1184",
+    "text": "Owen’s review: “China Attest helped me understand the authentication process for my documents.”",
+    "context": "review-sample-32.html:meta:description"
+  },
+  {
+    "id": "1185",
+    "text": "Margaret’s review: “I wasn’t sure which documents needed notarisation before authentication, so I reached out to China Attest.”",
+    "context": "review-sample-33.html:meta:description"
+  },
+  {
+    "id": "1186",
+    "text": "Leo & Anna’s review: “We were arranging paperwork from abroad and wanted help with document authentication in China.”",
+    "context": "review-sample-34.html:meta:description"
+  },
+  {
+    "id": "1187",
+    "text": "Jordan & Friends’s review: “There were several documents to organise, and we were concerned about overlooking something.”",
+    "context": "review-sample-35.html:meta:description"
+  },
+  {
+    "id": "1188",
+    "text": "David & Susan’s review: “We contacted China Attest because we needed a clearer idea of how to get our documents authenticated.”",
+    "context": "review-sample-36.html:meta:description"
+  },
+  {
+    "id": "1189",
+    "text": "Ryan’s review: “China Attest helped me arrange an apostille for a document from China.”",
+    "context": "review-sample-37.html:meta:description"
+  },
+  {
+    "id": "1190",
+    "text": "Jack’s review: “I had questions about notarisation and the apostille process, and China Attest was very helpful.”",
+    "context": "review-sample-38.html:meta:description"
+  },
+  {
+    "id": "1191",
+    "text": "Nora’s review: “I used China Attest for help with notarisation and an apostille.”",
+    "context": "review-sample-39.html:meta:description"
+  },
+  {
+    "id": "1192",
+    "text": "Alice’s review: “I was overseas when I needed help getting documents prepared for an apostille in China.”",
+    "context": "review-sample-40.html:meta:description"
+  },
+  {
+    "id": "1193",
+    "text": "Peter & Friends’s review: “We had a few questions about the documents needed for notarisation and an apostille.”",
+    "context": "review-sample-41.html:meta:description"
+  },
+  {
+    "id": "1194",
+    "text": "Isabel’s review: “I found the different document authentication steps confusing at first.”",
+    "context": "review-sample-42.html:meta:description"
+  },
+  {
+    "id": "1195",
+    "text": "Laura’s review: “China Attest helped me organise notarisation and translation for my paperwork.”",
+    "context": "review-sample-43.html:meta:description"
+  },
+  {
+    "id": "1196",
+    "text": "Adrian’s review: “I needed assistance with document translation and related authentication paperwork.”",
+    "context": "review-sample-44.html:meta:description"
+  },
+  {
+    "id": "1197",
+    "text": "Nathan’s review: “I had several documents to prepare for translation and notarisation.”",
+    "context": "review-sample-45.html:meta:description"
+  },
+  {
+    "id": "1198",
+    "text": "Hannah’s review: “Arranging notarisation and translation while living outside China felt complicated, but China Attest made it easier to understand.”",
+    "context": "review-sample-46.html:meta:description"
+  },
+  {
+    "id": "1199",
+    "text": "Grace’s review: “China Attest assisted me with translation and notarisation requirements for my documents.”",
+    "context": "review-sample-47.html:meta:description"
+  },
+  {
+    "id": "1200",
+    "text": "Ethan’s review: “I contacted China Attest because I wasn’t sure how to prepare my documents for notarisation and translation.”",
+    "context": "review-sample-48.html:meta:description"
+  },
+  {
+    "id": "1201",
+    "text": "Amelia’s review: “I needed academic verification documents for an overseas application and contacted China Attest for help.”",
+    "context": "review-sample-49.html:meta:description"
+  },
+  {
+    "id": "1202",
+    "text": "Ben’s review: “China Attest helped me with the CSSD verification reports needed for my WES evaluation.”",
+    "context": "review-sample-50.html:meta:description"
+  },
+  {
+    "id": "1203",
+    "text": "Lucas & Mia’s review: “We needed help organising academic documents for use overseas.”",
+    "context": "review-sample-51.html:meta:description"
+  },
+  {
+    "id": "1204",
+    "text": "Taylor & Friends’s review: “We were arranging academic verification paperwork from abroad and weren’t sure how to approach it.”",
+    "context": "review-sample-52.html:meta:description"
+  },
+  {
+    "id": "1205",
+    "text": "Michael’s review: “I used China Attest for assistance with my academic verification documents.”",
+    "context": "review-sample-53.html:meta:description"
+  },
+  {
+    "id": "1206",
+    "text": "Emily’s review: “China Attest helped me understand the CSCSE verification process and what information I needed to provide.”",
+    "context": "review-sample-54.html:meta:description"
+  },
+  {
+    "id": "1207",
+    "text": "Alex & Sarah’s review: “We contacted China Attest for help with degree authentication for employment paperwork.”",
+    "context": "review-sample-55.html:meta:description"
+  },
+  {
+    "id": "1208",
+    "text": "Chloe’s review: “I needed my degree certificate authenticated and had a number of questions before starting.”",
+    "context": "review-sample-56.html:meta:description"
+  },
+  {
+    "id": "1209",
+    "text": "Robert & Helen’s review: “We needed assistance preparing academic documents for an employment application.”",
+    "context": "review-sample-57.html:meta:description"
+  },
+  {
+    "id": "1210",
+    "text": "James & Olivia’s review: “We were outside China when we needed help with degree authentication.”",
+    "context": "review-sample-58.html:meta:description"
+  },
+  {
+    "id": "1211",
+    "text": "Sophie’s review: “I contacted China Attest for help with verification paperwork connected to my degree.”",
+    "context": "review-sample-59.html:meta:description"
+  },
+  {
+    "id": "1212",
+    "text": "Police Certificate & Authentication — Chris & Julia",
+    "context": "review-sample-15.html:h1"
+  },
+  {
+    "id": "1213",
+    "text": "Police Certificate & Authentication Review — Chris & Julia | China Attest",
+    "context": "review-sample-15.html:title"
+  },
+  {
+    "id": "1214",
+    "text": "Degree Certificate Authentication — Rachel",
+    "context": "review-sample-17.html:h1"
+  },
+  {
+    "id": "1215",
+    "text": "Degree Authentication Review — Rachel | China Attest",
+    "context": "review-sample-17.html:title"
+  },
+  {
+    "id": "1216",
+    "text": "CSCSE Verification Support — Patricia",
+    "context": "review-sample-18.html:h1"
+  },
+  {
+    "id": "1217",
+    "text": "CSCSE Verification Review — Patricia | China Attest",
+    "context": "review-sample-18.html:title"
+  },
+  {
+    "id": "1218",
+    "text": "China Police Certificate Support — Matthew",
+    "context": "review-sample-19.html:h1"
+  },
+  {
+    "id": "1219",
+    "text": "China Police Certificate Review — Matthew | China Attest",
+    "context": "review-sample-19.html:title"
+  },
+  {
+    "id": "1220",
+    "text": "Customer Service Feedback — Avery",
+    "context": "review-sample-20.html:h1"
+  },
+  {
+    "id": "1221",
+    "text": "Customer Service Review — Avery | China Attest",
+    "context": "review-sample-20.html:title"
+  },
+  {
+    "id": "1222",
+    "text": "China Police Certificate Support — Zoe",
+    "context": "review-sample-21.html:h1"
+  },
+  {
+    "id": "1223",
+    "text": "China Police Certificate Review — Zoe | China Attest",
+    "context": "review-sample-21.html:title"
+  },
+  {
+    "id": "1224",
+    "text": "Remote Notarisation Support — Simon",
+    "context": "review-sample-22.html:h1"
+  },
+  {
+    "id": "1225",
+    "text": "Remote Notarisation Review — Simon | China Attest",
+    "context": "review-sample-22.html:title"
+  },
+  {
+    "id": "1226",
+    "text": "Degree Apostille, Notarisation & Translation — Claire",
+    "context": "review-sample-24.html:h1"
+  },
+  {
+    "id": "1227",
+    "text": "Degree Apostille Review — Claire | China Attest",
+    "context": "review-sample-24.html:title"
+  },
+  {
+    "id": "1228",
+    "text": "China Police Certificate Support — Adam",
+    "context": "review-sample-25.html:h1"
+  },
+  {
+    "id": "1229",
+    "text": "China Police Certificate Review — Adam | China Attest",
+    "context": "review-sample-25.html:title"
+  },
+  {
+    "id": "1230",
+    "text": "CSSD Reports for WES — Noah & Ella",
+    "context": "review-sample-26.html:h1"
+  },
+  {
+    "id": "1231",
+    "text": "CSSD Reports for WES Review — Noah & Ella | China Attest",
+    "context": "review-sample-26.html:title"
+  },
+  {
+    "id": "1232",
+    "text": "Police Certificate for a Visa — Charlotte",
+    "context": "review-sample-29.html:h1"
+  },
+  {
+    "id": "1233",
+    "text": "Police Certificate for a Visa Review — Charlotte | China Attest",
+    "context": "review-sample-29.html:title"
+  },
+  {
+    "id": "1234",
+    "text": "Police Certificate Support from Abroad — Daniel & Emma",
+    "context": "review-sample-60.html:h1"
+  },
+  {
+    "id": "1235",
+    "text": "Police Certificate from Abroad Review — Daniel & Emma | China Attest",
+    "context": "review-sample-60.html:title"
   }
 ]

@@ -7,12 +7,56 @@ from pathlib import Path
 from lxml import html, etree
 from urllib.parse import urlsplit, urlunsplit, urljoin
 import json,re,copy,posixpath
+from build_discovery import build_discovery_files
+from breadcrumb_schema import add_breadcrumb_schema
+from entity_schema import add_entity_schema
 ROOT=Path(__file__).resolve().parents[1]; DIST=ROOT/'dist'
 LANGS={'en':'English','es':'Spanish','fr':'French','de':'German','pt':'Portuguese','ru':'Russian','ar':'Arabic'}
 CAT=json.loads((ROOT/'scripts/locale-source.json').read_text())
 IDS={x['text']:x['id'] for x in CAT}
 UI=['Open navigation','Close navigation','WeChat number copied: 15118019493','Add this number in WeChat: 15118019493','Copied:','Email us at','Sending…','Thank you! Your enquiry has been submitted to China Attest. We will reply to the email address you provided.','Too many submissions. Please wait a few minutes before trying again, or email chinaattest.team@gmail.com.','We could not confirm your submission. Your details are still here. Please try again, or email chinaattest.team@gmail.com.','article','articles','Page','of']
 MISSING=set()
+PRODUCTION_ORIGIN='https://chinaattest.com'
+
+def canonical_url(p,lang):
+ relative=p.relative_to(DIST).as_posix()
+ if relative=='index.html':relative=''
+ elif relative.endswith('/index.html'):relative=relative[:-10]
+ return PRODUCTION_ORIGIN+'/'+('' if lang=='en' else lang+'/')+relative
+
+def set_canonical(t,p,lang):
+ # Redirect stubs are deliberately excluded by main() and remain byte-for-byte intact.
+ for e in list(t.xpath('//link[@rel="canonical"]')):e.getparent().remove(e)
+ etree.SubElement(t.find('head'),'link',{'rel':'canonical','href':canonical_url(p,lang)})
+
+HREFLANG_GROUPS={}
+
+def prepare_hreflang_groups(pages):
+ # Existing editions share the English source path. Require real non-redirect files
+ # before advertising any group; never infer a homepage or a different topic.
+ HREFLANG_GROUPS.clear()
+ for p in pages:
+  relative=p.relative_to(DIST).as_posix()
+  group={}
+  for code in LANGS:
+   existing=p if code=='en' else DIST/code/relative
+   if not existing.is_file():raise ValueError('Missing hreflang counterpart: '+str(existing))
+   document=html.fromstring(existing.read_bytes())
+   if document.xpath('//meta[translate(@http-equiv,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz")="refresh"]'):
+    raise ValueError('Hreflang counterpart is a redirect: '+str(existing))
+   if document.get('lang')!=code:raise ValueError('Wrong counterpart language: '+str(existing))
+   group[code]=canonical_url(p,code)
+  HREFLANG_GROUPS[relative]=group
+
+def set_hreflang(t,p):
+ head=t.find('head')
+ for e in list(t.xpath('//link[@hreflang]')):e.getparent().remove(e)
+ group=HREFLANG_GROUPS[p.relative_to(DIST).as_posix()]
+ for code,href in group.items():
+  etree.SubElement(head,'link',{'rel':'alternate','hreflang':code,'href':href})
+ if 'en' in group:
+  etree.SubElement(head,'link',{'rel':'alternate','hreflang':'x-default','href':group['en']})
+
 def review_page(p):return p.name.startswith(('review-','testimonials'))
 def protected(e,p):
  # Language labels always stay in English; reviews follow the page language.
@@ -52,6 +96,8 @@ def switcher(p,lang):
  return el
 
 def decorate(t,p,lang):
+ set_canonical(t,p,lang)
+ set_hreflang(t,p)
  head=t.find('head')
  for e in t.xpath('//*[contains(concat(" ",normalize-space(@class)," ")," language-switcher ")] | //link[@data-languages] | //script[@data-languages]'):
   e.getparent().remove(e)
@@ -108,8 +154,8 @@ def make(t,p,lang,d):
    before=''.join(e.itertext())
    if before and not before[-1].isspace() and before[-1] not in "’'/-":e.tail=' '+e.tail
  if lang=='ar':prepare_arabic(t,p)
- # Do not canonicalize a translation to its English page or an unconfirmed domain.
- for e in list(t.xpath('//link[@rel="canonical"] | //meta[@property="og:url"]')):e.getparent().remove(e)
+ # Canonicals are rebuilt for each locale by decorate(); retain the existing og:url policy.
+ for e in list(t.xpath('//meta[@property="og:url"]')):e.getparent().remove(e)
  for e in t.xpath('//*[@class and contains(concat(" ",normalize-space(@class)," ")," blog-entry ")]'):
   e.set('data-search',(' '.join(e.itertext())+' '+e.get('data-search','')).lower())
  decorate(t,p,lang)
@@ -166,6 +212,9 @@ def portable_urls(t,p):
 
 def main():
  pages=[p for p in sorted(DIST.rglob('*.html')) if p.relative_to(DIST).parts[0] not in LANGS or p.relative_to(DIST).parts[0]=='en']
+ # Keep all Meta Refresh stubs and their translated editions unchanged.
+ pages=[p for p in pages if not html.fromstring(p.read_bytes()).xpath('//meta[translate(@http-equiv,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz")="refresh"]')]
+ prepare_hreflang_groups(pages)
  data={}
  for lang in LANGS:
   if lang=='en':continue
@@ -178,7 +227,7 @@ def main():
  for p in pages:
   original=html.fromstring(p.read_bytes())
   # Remove old generated additions before source translation on a rebuild.
-  for e in original.xpath('//*[contains(concat(" ",normalize-space(@class)," ")," language-switcher ")] | //link[@data-languages] | //script[@data-languages]'):e.getparent().remove(e)
+  for e in original.xpath('//*[contains(concat(" ",normalize-space(@class)," ")," language-switcher ")] | //link[@data-languages] | //script[@data-languages] | //script[@data-breadcrumb-schema] | //script[@data-entity-schema]'):e.getparent().remove(e)
   # Previously the review sections were excluded from translation.
   review_roots=original.xpath('//*[@id="testimonials"] | //*[contains(concat(" ",normalize-space(@class)," ")," service-feedback ")]')
   if review_page(p):review_roots+=original.xpath('//main')
@@ -190,10 +239,15 @@ def main():
    t=make(copy.deepcopy(original),p,lang,d)
    dest=DIST/lang/p.relative_to(DIST);dest.parent.mkdir(parents=True,exist_ok=True)
    portable_urls(t,dest)
+   add_breadcrumb_schema(t,dest)
+   add_entity_schema(t,dest)
    dest.write_bytes(html.tostring(t,encoding='utf-8',doctype='<!DOCTYPE html>'))
   decorate(original,p,'en')
   portable_urls(original,p)
+  add_breadcrumb_schema(original,p)
+  add_entity_schema(original,p)
   p.write_bytes(html.tostring(original,encoding='utf-8',doctype='<!DOCTYPE html>'))
  if MISSING:raise ValueError('Add new source strings and translations: '+repr(sorted(MISSING)))
+ build_discovery_files()
  print(f'Built {len(pages)} English pages and {len(pages)*len(data)} translated pages; {len(IDS)} translation strings per language.')
 if __name__=='__main__':main()

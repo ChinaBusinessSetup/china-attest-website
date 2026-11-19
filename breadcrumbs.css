@@ -1,0 +1,38 @@
+/* Visible static breadcrumbs only. Scope resets prevent the site's generic mobile
+   nav menu rules from hiding or positioning this in-page navigation. */
+main nav.breadcrumb-nav {
+  display:block; position:static; inset:auto; width:100%; min-width:0;
+  margin:0 0 20px; padding:0; border:0; background:transparent;
+  box-shadow:none; z-index:auto; color:var(--teal); font:12px/1.7 Arial,sans-serif;
+  text-align:left; direction:ltr;
+}
+main nav.breadcrumb-nav ol.breadcrumbs {
+  display:flex; flex-wrap:wrap; align-items:baseline; gap:4px 0;
+  list-style:none; margin:0; padding:0; min-width:0; max-width:100%;
+}
+main nav.breadcrumb-nav .breadcrumbs > li {
+  display:flex; align-items:baseline; min-width:0; max-width:100%;
+  margin:0; padding:0; font:inherit; color:inherit;
+}
+main nav.breadcrumb-nav .breadcrumbs a,
+main nav.breadcrumb-nav .breadcrumb-label {
+  display:inline; min-width:0; max-width:100%; overflow-wrap:anywhere;
+  white-space:normal; hyphens:auto; font:inherit;
+}
+main nav.breadcrumb-nav .breadcrumbs a {color:var(--teal);padding:0;}
+main nav.breadcrumb-nav .breadcrumbs a:hover {text-decoration:underline;}
+main nav.breadcrumb-nav .breadcrumb-separator {
+  flex:none; padding:0 9px; color:var(--muted);
+}
+main nav.breadcrumb-nav .breadcrumbs > li[aria-current="page"] {color:var(--muted);}
+.article-hero main nav.breadcrumb-nav,
+main .article-hero nav.breadcrumb-nav {margin-bottom:32px;}
+main .contact-hero nav.breadcrumb-nav,
+main .contact-hero nav.breadcrumb-nav .breadcrumbs > li[aria-current="page"] {color:#d7e5ec;}
+main .contact-hero nav.breadcrumb-nav .breadcrumbs a {color:#6dd2d3;}
+main .contact-hero nav.breadcrumb-nav .breadcrumb-separator {color:#d7e5ec;}
+@media(max-width:760px) {
+  main nav.breadcrumb-nav {font-size:12px; margin-bottom:18px;}
+  main .article-hero nav.breadcrumb-nav {margin-bottom:25px;}
+  main nav.breadcrumb-nav .breadcrumb-separator {padding:0 7px;}
+}
