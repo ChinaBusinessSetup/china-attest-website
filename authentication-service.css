@@ -1,0 +1,19 @@
+/* Scoped to the three document authentication service sections. */
+.auth-methods,.auth-fees,.auth-preparation{padding-top:48px;padding-bottom:48px}
+.auth-methods>h2{max-width:1000px;text-wrap:balance}.auth-intro{font-size:15px;line-height:1.8;margin-top:16px}
+.auth-methods .authentication-routes{grid-template-columns:repeat(2,minmax(0,1fr));gap:25px;margin:26px 0 22px;align-items:stretch}
+.auth-methods .authentication-routes article{padding:26px;min-width:0}
+.auth-methods .path-number{font-size:28px;margin-bottom:13px}
+.auth-methods h3{font-size:25px;margin:0;line-height:1.35}
+.auth-methods .authentication-routes p{font-size:14px;line-height:1.85;margin:15px 0 0}
+.auth-methods .auth-notice{font-size:14px!important;line-height:1.8;padding:18px 21px;border-left:3px solid var(--teal)}
+.auth-fees{gap:40px;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr)}
+.auth-fees p{font-size:15px;line-height:1.85;margin:0 0 22px}
+.auth-fees .button{white-space:normal;text-align:center;max-width:100%}
+.auth-details{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px;margin-top:28px}
+.auth-details article{display:grid;grid-template-rows:auto minmax(49px,auto) 1fr;align-content:start;min-width:0}
+.auth-details b{font-size:14px;margin-bottom:17px}.auth-details h3{font-size:18px;line-height:1.35;margin:0}.auth-details p{font-size:14px;line-height:1.85;margin:10px 0 0}
+.auth-methods h2,.auth-fees h2,.auth-preparation h2{overflow-wrap:break-word}
+@media(max-width:1000px){.auth-details{grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}.auth-fees{gap:28px}.auth-methods h2,.auth-preparation h2{font-size:34px}}
+@media(max-width:700px){.auth-methods,.auth-fees,.auth-preparation{padding-top:34px;padding-bottom:34px}.auth-methods .authentication-routes,.auth-fees{grid-template-columns:minmax(0,1fr);gap:20px}.auth-methods .authentication-routes article{padding:23px}.auth-methods h2,.auth-fees h2,.auth-preparation h2{font-size:29px}.auth-methods h3{font-size:24px}.auth-details{gap:24px 20px}.auth-details h3{font-size:17px}.auth-methods .auth-notice{padding:16px 18px}}
+@media(max-width:450px){.auth-details{grid-template-columns:minmax(0,1fr)}.auth-details article{grid-template-rows:auto auto auto}.auth-details b{margin-bottom:12px}.auth-details p{margin-top:8px}}
