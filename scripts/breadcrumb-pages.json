@@ -97,7 +97,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Beijing"
+    "current": "Beijing",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Beijing"
+    }
   },
   "guide-police-changsha.html": {
     "type": "city",
@@ -111,7 +125,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Changsha"
+    "current": "Changsha",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Changsha"
+    }
   },
   "guide-police-chengdu.html": {
     "type": "city",
@@ -125,7 +153,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Chengdu"
+    "current": "Chengdu",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Chengdu"
+    }
   },
   "guide-police-chongqing.html": {
     "type": "city",
@@ -139,7 +181,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Chongqing"
+    "current": "Chongqing",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Chongqing"
+    }
   },
   "guide-police-dalian.html": {
     "type": "city",
@@ -153,7 +209,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Dalian"
+    "current": "Dalian",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Dalian"
+    }
   },
   "guide-police-guangzhou.html": {
     "type": "city",
@@ -167,7 +237,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Guangzhou"
+    "current": "Guangzhou",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Guangzhou"
+    }
   },
   "guide-police-hangzhou.html": {
     "type": "city",
@@ -181,7 +265,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Hangzhou"
+    "current": "Hangzhou",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Hangzhou"
+    }
   },
   "guide-police-huizhou.html": {
     "type": "city",
@@ -195,7 +293,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Huizhou"
+    "current": "Huizhou",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Huizhou"
+    }
   },
   "guide-police-other-cities.html": {
     "type": "city",
@@ -223,7 +335,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Sanya"
+    "current": "Sanya",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Sanya"
+    }
   },
   "guide-police-shanghai.html": {
     "type": "city",
@@ -237,7 +363,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Shanghai"
+    "current": "Shanghai",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Shanghai"
+    }
   },
   "guide-police-shenyang.html": {
     "type": "city",
@@ -251,7 +391,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Shenyang"
+    "current": "Shenyang",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Shenyang"
+    }
   },
   "guide-police-shenzhen.html": {
     "type": "city",
@@ -265,7 +419,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Shenzhen"
+    "current": "Shenzhen",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Shenzhen"
+    }
   },
   "guide-police-suzhou.html": {
     "type": "city",
@@ -279,7 +447,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Suzhou"
+    "current": "Suzhou",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Suzhou"
+    }
   },
   "guide-police-tianjin.html": {
     "type": "city",
@@ -293,7 +475,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Tianjin"
+    "current": "Tianjin",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Tianjin"
+    }
   },
   "guide-police-wuhan.html": {
     "type": "city",
@@ -307,7 +503,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Wuhan"
+    "current": "Wuhan",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Wuhan"
+    }
   },
   "guide-police-xiamen.html": {
     "type": "city",
@@ -321,7 +531,21 @@
         "target": "police-clearance.html"
       }
     ],
-    "current": "Xiamen"
+    "current": "Xiamen",
+    "english_override": {
+      "type": "city_guide_article",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "City Guides",
+          "target": "how-to-police-certificate.html"
+        }
+      ],
+      "current": "Xiamen"
+    }
   },
   "how-to-apostille.html": {
     "type": "guide",
@@ -387,7 +611,21 @@
         "target": "index.html"
       }
     ],
-    "current": "What a China Police Clearance Certificate Looks Like"
+    "current": "What a China Police Clearance Certificate Looks Like",
+    "english_override": {
+      "type": "guide",
+      "ancestors": [
+        {
+          "label": "Home",
+          "target": "index.html"
+        },
+        {
+          "label": "Guides",
+          "target": "blog.html"
+        }
+      ],
+      "current": "China Police Certificate Samples"
+    }
   },
   "police-clearance.html": {
     "type": "service",

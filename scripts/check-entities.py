@@ -31,7 +31,10 @@ for p in DIST.rglob('*.html'):
    check(isinstance(data,dict) and data.get('@context')=='https://schema.org',rel+': entity graph context')
   for node in walk(data):
    typ=node.get('@type')
-   if typ=='Organization':orgs.append((rel,node));check(node.get('@id')==ORG,rel+': Organization not using the global ID')
+   if typ=='Organization':
+    if rel=='police-certificate-format.html' and node.get('@id')=='https://chinaattest.com/police-certificate-format.html#editorial-team':
+     check(node.get('name')=='China Attest Editorial Team' and node.get('parentOrganization')=={'@id':ORG},'Samples editorial team identity')
+    else:orgs.append((rel,node));check(node.get('@id')==ORG,rel+': Organization not using the global ID')
    elif typ=='WebSite':sites.append((rel,node))
    elif typ=='Service':
     services.append((rel,node));languages[code]+=1
@@ -63,11 +66,12 @@ if sites:
  check(sites[0][1]=={'@type':'WebSite','@id':SITE,'name':'China Attest','url':ORIGIN+'/','publisher':{'@id':ORG},'inLanguage':list(LANGS)},'WebSite must use the shared publisher, verified languages and no invented SearchAction')
 check(len(services)==21 and languages==Counter({code:3 for code in LANGS}),'Expected 3 Service pages per language / 21 total')
 for code in LANGS:check(len(descriptions[code])==3,code+': each actual service must have its own distinct description')
-check(blocks==631,'Expected 631 JSON-LD blocks (existing 609 + 22 entity graphs)')
+from build_guides import generated_paths
+check(blocks==648+len(generated_paths()),'Expected 647 JSON-LD blocks (existing 646 + English Huizhou Article)')
 if errors:
  for error in errors:print('ERROR',error)
  raise SystemExit(f'{len(errors)} entity schema failures')
 print('PASS: one global Organization identity, 1 English-home Organization definition + 28 existing linked occurrences; verified logo/contact only.')
 print('PASS: 1 WebSite, shared Organization publisher, 7 verified languages, no SearchAction.')
 print('PASS: 21 Service entities; '+', '.join(code+' '+str(languages[code])+'/3' for code in LANGS)+'; localized names and distinct descriptions.')
-print('PASS: all 631 JSON-LD blocks parsed; service URLs match actual Canonicals; no invented prices, ratings, address, dates or credentials.')
+print(f'PASS: all {blocks} JSON-LD blocks parsed; service URLs match actual Canonicals; no invented prices, ratings, address, dates or credentials.')

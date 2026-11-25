@@ -6,14 +6,17 @@ Requires lxml (build-time only). No translation API or runtime dependency.
 from pathlib import Path
 from lxml import html, etree
 from urllib.parse import urlsplit, urlunsplit, urljoin
-import json,re,copy,posixpath
+import json,re,copy,posixpath,hashlib
 from build_discovery import build_discovery_files
 from breadcrumb_schema import add_breadcrumb_schema
 from entity_schema import add_entity_schema
+from review_policy import is_review_page, apply_review_policy, patch_review_redirects, validate_review_inventory
 ROOT=Path(__file__).resolve().parents[1]; DIST=ROOT/'dist'
 LANGS={'en':'English','es':'Spanish','fr':'French','de':'German','pt':'Portuguese','ru':'Russian','ar':'Arabic'}
 CAT=json.loads((ROOT/'scripts/locale-source.json').read_text())
-IDS={x['text']:x['id'] for x in CAT}
+IDS={x['text']:x['id'] for x in CAT if not x.get('retired')}
+RETIRED={x['id'] for x in CAT if x.get('retired')}
+ENGLISH_ONLY=json.loads((ROOT/'scripts/english-only-pages.json').read_text())
 UI=['Open navigation','Close navigation','WeChat number copied: 15118019493','Add this number in WeChat: 15118019493','Copied:','Email us at','Sending…','Thank you! Your enquiry has been submitted to China Attest. We will reply to the email address you provided.','Too many submissions. Please wait a few minutes before trying again, or email chinaattest.team@gmail.com.','We could not confirm your submission. Your details are still here. Please try again, or email chinaattest.team@gmail.com.','article','articles','Page','of']
 MISSING=set()
 PRODUCTION_ORIGIN='https://chinaattest.com'
@@ -37,6 +40,7 @@ def prepare_hreflang_groups(pages):
  HREFLANG_GROUPS.clear()
  for p in pages:
   relative=p.relative_to(DIST).as_posix()
+  if is_review_page(relative):continue
   group={}
   for code in LANGS:
    existing=p if code=='en' else DIST/code/relative
@@ -51,6 +55,7 @@ def prepare_hreflang_groups(pages):
 def set_hreflang(t,p):
  head=t.find('head')
  for e in list(t.xpath('//link[@hreflang]')):e.getparent().remove(e)
+ if is_review_page(p.relative_to(DIST).as_posix()):return
  group=HREFLANG_GROUPS[p.relative_to(DIST).as_posix()]
  for code,href in group.items():
   etree.SubElement(head,'link',{'rel':'alternate','hreflang':code,'href':href})
@@ -98,6 +103,7 @@ def switcher(p,lang):
 def decorate(t,p,lang):
  set_canonical(t,p,lang)
  set_hreflang(t,p)
+ apply_review_policy(t,p)
  head=t.find('head')
  for e in t.xpath('//*[contains(concat(" ",normalize-space(@class)," ")," language-switcher ")] | //link[@data-languages] | //script[@data-languages]'):
   e.getparent().remove(e)
@@ -211,6 +217,9 @@ def portable_urls(t,p):
   if e.tag=='meta' and e.get('http-equiv','').lower()=='refresh':e.set('content',re.sub(r'(?i)(url=)(.*)',lambda m:m[1]+relative(m[2]),e.get('content','')))
 
 def main():
+ validate_review_inventory()
+ for relative,digest in ENGLISH_ONLY['frozen_locale_sha256'].items():
+  assert hashlib.sha256((DIST/relative).read_bytes()).hexdigest()==digest,'Frozen translation changed: '+relative
  pages=[p for p in sorted(DIST.rglob('*.html')) if p.relative_to(DIST).parts[0] not in LANGS or p.relative_to(DIST).parts[0]=='en']
  # Keep all Meta Refresh stubs and their translated editions unchanged.
  pages=[p for p in pages if not html.fromstring(p.read_bytes()).xpath('//meta[translate(@http-equiv,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz")="refresh"]')]
@@ -219,11 +228,12 @@ def main():
  for lang in LANGS:
   if lang=='en':continue
   d=json.loads((DIST/'i18n'/f'{lang}.json').read_text())
-  assert set(d)==set(IDS.values()),(lang,'missing or unknown IDs')
-  assert all(isinstance(x,str) and x.strip() for x in d.values()),lang
+  assert set(d)=={x['id'] for x in CAT},(lang,'missing or unknown IDs')
+  assert all(isinstance(v,str) and (v=='' if k in RETIRED else bool(v.strip())) for k,v in d.items()),lang
   data[lang]=d
   ui={s:d[IDS[s]] for s in UI}
   (DIST/'i18n'/f'{lang}-ui.js').write_text('window.siteTranslations='+json.dumps(ui,ensure_ascii=False)+';\n')
+ translated_count=0
  for p in pages:
   original=html.fromstring(p.read_bytes())
   # Remove old generated additions before source translation on a rebuild.
@@ -236,18 +246,40 @@ def main():
   # Explicit option values must be captured BEFORE translating labels.
   for opt in original.xpath('//option[not(@value)]'):opt.set('value',opt.text or '')
   for lang,d in data.items():
+   if p.relative_to(DIST).as_posix() in ENGLISH_ONLY['pages']:continue
    t=make(copy.deepcopy(original),p,lang,d)
    dest=DIST/lang/p.relative_to(DIST);dest.parent.mkdir(parents=True,exist_ok=True)
    portable_urls(t,dest)
    add_breadcrumb_schema(t,dest)
    add_entity_schema(t,dest)
    dest.write_bytes(html.tostring(t,encoding='utf-8',doctype='<!DOCTYPE html>'))
+   translated_count+=1
   decorate(original,p,'en')
   portable_urls(original,p)
   add_breadcrumb_schema(original,p)
   add_entity_schema(original,p)
   p.write_bytes(html.tostring(original,encoding='utf-8',doctype='<!DOCTYPE html>'))
  if MISSING:raise ValueError('Add new source strings and translations: '+repr(sorted(MISSING)))
+ patch_review_redirects()
  build_discovery_files()
- print(f'Built {len(pages)} English pages and {len(pages)*len(data)} translated pages; {len(IDS)} translation strings per language.')
-if __name__=='__main__':main()
+ print(f'Built {len(pages)} English pages and {translated_count} translated pages ({len(ENGLISH_ONLY["frozen_locale_sha256"])} English-only counterparts preserved); {len(CAT)} catalogue IDs ({len(IDS)} active) per language.')
+if __name__=='__main__':
+ from build_guides import prepare,build
+ (ROOT/'dist/guide-police-hangzhou.html').write_bytes((ROOT/'scripts/hangzhou-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-wuhan.html').write_bytes((ROOT/'scripts/wuhan-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-chongqing.html').write_bytes((ROOT/'scripts/chongqing-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-dalian.html').write_bytes((ROOT/'scripts/dalian-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-suzhou.html').write_bytes((ROOT/'scripts/suzhou-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-sanya.html').write_bytes((ROOT/'scripts/sanya-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-xiamen.html').write_bytes((ROOT/'scripts/xiamen-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-chengdu.html').write_bytes((ROOT/'scripts/chengdu-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-tianjin.html').write_bytes((ROOT/'scripts/tianjin-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-shenyang.html').write_bytes((ROOT/'scripts/shenyang-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-changsha.html').write_bytes((ROOT/'scripts/changsha-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-huizhou.html').write_bytes((ROOT/'scripts/huizhou-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-beijing.html').write_bytes((ROOT/'scripts/beijing-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-shanghai.html').write_bytes((ROOT/'scripts/shanghai-guide-source.html').read_bytes())
+ (ROOT/'dist/guide-police-guangzhou.html').write_bytes((ROOT/'scripts/guangzhou-guide-source.html').read_bytes())
+ prepare()
+ main()
+ build()

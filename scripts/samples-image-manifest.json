@@ -1,0 +1,52 @@
+[
+  {
+    "group": "police",
+    "page": 1,
+    "pages": 1,
+    "file": "assets/certificate-samples/police-certificate-complete.png",
+    "width": 720,
+    "height": 1047,
+    "alt": "Sample China Certificate of No Criminal Record issued by the Public Security Bureau.",
+    "sha256": "322d72c310e3425d82852750becfc5065d7a78347e4b737f5a918183fe5965df"
+  },
+  {
+    "group": "australia-uk-nz",
+    "page": 1,
+    "pages": 1,
+    "file": "assets/certificate-samples/australia-uk-nz-complete.png",
+    "width": 1280,
+    "height": 615,
+    "alt": "Sample Chinese notarial certificate of no criminal record for Australia, UK and New Zealand.",
+    "sha256": "1fe0b1089d6bf1c6f9a0d30e40604ecc49182b7428da9b1d277aca969f9ae4b6"
+  },
+  {
+    "group": "canada",
+    "page": 1,
+    "pages": 1,
+    "file": "assets/certificate-samples/canada-complete.png",
+    "width": 1280,
+    "height": 361,
+    "alt": "Sample Chinese notarial certificate of no criminal record for Canadian immigration.",
+    "sha256": "bdba6b0d3a10fb031d184abdc9c21b915158ad769233950705e92c4cf6600c2d"
+  },
+  {
+    "group": "us",
+    "page": 1,
+    "pages": 1,
+    "file": "assets/certificate-samples/us-complete.png",
+    "width": 1280,
+    "height": 384,
+    "alt": "Sample Chinese notarial certificate of no criminal record for U.S. immigration.",
+    "sha256": "f828110ecdecb2de3f4fadc9aff397087beb6fbaf8e4605556ac005b13e1ae22"
+  },
+  {
+    "group": "apostille-france",
+    "page": 1,
+    "pages": 1,
+    "file": "assets/certificate-samples/apostille-france-complete.png",
+    "width": 1280,
+    "height": 438,
+    "alt": "Sample apostilled Chinese notarial certificate of no criminal record for overseas use.",
+    "sha256": "98f78284be13357024c3961277d1978702f694118fc3798e6ed3f51f5452c5e7"
+  }
+]

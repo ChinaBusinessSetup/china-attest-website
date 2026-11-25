@@ -21,7 +21,8 @@ check(set(spec)==set(base['normal_english_pages'])-{'index.html'},'Every normal 
 for code in LANGS:
  home=DIST/('' if code=='en' else code)/'index.html';t=html.parse(str(home))
  check(not t.xpath('//nav[contains(concat(" ",normalize-space(@class)," ")," breadcrumb-nav ")] | //ol[@class="breadcrumbs"]'),str(home)+': homepage must not show breadcrumbs')
- for page,info in spec.items():
+ for page,base_info in spec.items():
+  info=base_info.get("english_override",base_info) if code=="en" else base_info
   rel=('' if code=='en' else code+'/')+page;p=DIST/rel;t=html.parse(str(p));before=len(errors)
   navs=t.xpath('//main//nav[contains(concat(" ",normalize-space(@class)," ")," breadcrumb-nav ")]')
   check(len(navs)==1,rel+': expected exactly one static breadcrumb nav')
@@ -60,6 +61,7 @@ for code in LANGS:
   check(not t.xpath('//main//*[contains(concat(" ",normalize-space(@class)," ")," article-back ")]'),rel+': old breadcrumb/back link not unified')
   if info['type']=='service':check(info['ancestors'][1]=={'label':'Services','target':'index.html#services'},rel+': invalid service hierarchy')
   if info['type']=='city':check(page.startswith('guide-police-') and info['ancestors'][1]=={'label':'Police Clearance','target':'police-clearance.html'},rel+': invalid city hierarchy')
+  if info['type']=='city_guide_article':check(code=='en' and page in ['guide-police-shanghai.html','guide-police-shenzhen.html','guide-police-guangzhou.html','guide-police-beijing.html','guide-police-chengdu.html','guide-police-shenyang.html','guide-police-chongqing.html','guide-police-sanya.html','guide-police-xiamen.html','guide-police-tianjin.html','guide-police-hangzhou.html','guide-police-suzhou.html','guide-police-wuhan.html','guide-police-dalian.html','guide-police-changsha.html','guide-police-huizhou.html'] and info['ancestors'][1]=={'label':'City Guides','target':'how-to-police-certificate.html'},rel+': invalid English city article hierarchy')
   if info['type']=='guide':check(info['ancestors'][1]=={'label':'Guides','target':'blog.html'},rel+': invalid guide hierarchy')
   if info['type']=='review_index':check(len(items)==2 and info['current']=='Reviews',rel+': review archive hierarchy')
   if info['type'] in ('review_detail','review_pagination'):check(info['ancestors'][1]=={'label':'Reviews','target':'testimonials.html'},rel+': review parent must be real archive')

@@ -95,11 +95,14 @@ for rel,t in docs.items():
  if code=='ar':check(t.getroot().get('dir')=='ltr',rel+': Arabic LTR changed')
  if len(errors)==before:counts[code]+=1
 check(set(SCHEMA_BASE)<=set(docs),'A page containing original schema was removed')
-check(counts==Counter({code:85 for code in LANGS}),'Expected 85 valid BreadcrumbLists per language: '+str(dict(counts)))
-check(parsed==631 and original_blocks==14,'Expected 595 BreadcrumbList + 14 original + 22 entity JSON-LD blocks')
+from build_guides import generated_paths
+expected_counts=Counter({code:85 for code in LANGS});expected_counts['en']+=len(generated_paths())
+check(counts==expected_counts,'Expected 85 valid BreadcrumbLists per language: '+str(dict(counts)))
+from build_guides import generated_paths
+check(parsed==648+len(generated_paths()) and original_blocks==31,'Expected 595 BreadcrumbList + 30 article + 22 entity JSON-LD blocks')
 if errors:
  for error in errors:print('ERROR',error)
  raise SystemExit(f'{len(errors)} BreadcrumbList failures')
-print('PASS: BreadcrumbList 595/595; '+', '.join(code+' '+str(counts[code])+'/85' for code in LANGS))
+print('PASS: BreadcrumbList '+str(sum(counts.values()))+' pages, including English generated Guides archives; '+str(dict(counts)))
 print(f'PASS: {parsed} JSON-LD blocks parsed; {original_blocks} original blocks preserved with unified Organization identities; Article {schema_types["Article"]}, BlogPosting {schema_types["BlogPosting"]}, Organization {schema_types["Organization"]}.')
 print('PASS: HTML names, positions, item URLs and fragments match; no duplicates/missing lists, homepage or redirect lists, incorrect domains or wrong-language items.')

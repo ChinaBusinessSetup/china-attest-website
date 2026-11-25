@@ -7,6 +7,7 @@ from urllib.parse import urlsplit,unquote
 from lxml import html
 import xml.etree.ElementTree as ET
 import re
+from review_policy import is_review_page
 ROOT=Path(__file__).resolve().parents[1]
 DIST=ROOT/'dist'
 ORIGIN='https://chinaattest.com'
@@ -50,6 +51,7 @@ def eligible_urls():
  for url in source_urls():
   p=target_file(url);t=html.parse(str(p));reasons=[]
   if t.xpath(REFRESH):reasons.append('Meta Refresh redirect')
+  if is_review_page(p.relative_to(DIST).as_posix()):reasons.append("Review noindex policy")
   reasons+=noindex_reasons(t)
   if reasons:excluded.append((url,reasons));continue
   if t.xpath('//head/link[@rel="canonical"]/@href')!=[url]:

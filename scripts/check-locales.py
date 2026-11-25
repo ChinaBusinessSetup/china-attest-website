@@ -6,7 +6,9 @@ from urllib.parse import urlsplit,unquote
 import json,re
 ROOT=Path(__file__).resolve().parents[1];DIST=ROOT/'dist';LANGS=['es','fr','de','pt','ru','ar']
 source=json.loads((ROOT/'scripts/locale-source.json').read_text()); keys={x['id'] for x in source}
-pages=[p for p in DIST.rglob('*.html') if p.relative_to(DIST).parts[0] not in LANGS]
+from build_guides import generated_paths
+GUIDES=set(generated_paths())
+pages=[p for p in DIST.rglob('*.html') if p.relative_to(DIST).as_posix() not in GUIDES and p.relative_to(DIST).parts[0] not in LANGS]
 errors=[]; checked=0
 for lang in LANGS:
  d=json.loads((DIST/'i18n'/f'{lang}.json').read_text())
@@ -73,3 +75,58 @@ subprocess.run([sys.executable,str(ROOT/"scripts/check-breadcrumb-schema.py")],c
 
 # Task 06: validate the single company/site identity and real multilingual services.
 subprocess.run([sys.executable,str(ROOT/"scripts/check-entities.py")],check=True)
+
+# Current owner-approved review noindex and prompt-removal policy.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-review-indexing.py")],check=True)
+
+# English-only Shanghai article, both existing entry points and frozen locales.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-shanghai.py")],check=True)
+
+# English-only Shenzhen guide and both navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-shenzhen.py")],check=True)
+
+# English-only Guangzhou article and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-guangzhou.py")],check=True)
+
+# English-only Beijing guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-beijing.py")],check=True)
+
+# English-only Chengdu guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-chengdu.py")],check=True)
+
+# English-only Shenyang guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-shenyang.py")],check=True)
+
+# English-only Chongqing guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-chongqing.py")],check=True)
+
+# English-only Sanya guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-sanya.py")],check=True)
+
+# English-only Xiamen guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-xiamen.py")],check=True)
+
+# English-only Tianjin guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-tianjin.py")],check=True)
+
+# English-only Hangzhou guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-hangzhou.py")],check=True)
+
+# English-only Suzhou guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-suzhou.py")],check=True)
+
+# English-only Wuhan guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-wuhan.py")],check=True)
+
+# English-only Dalian guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-dalian.py")],check=True)
+
+# English-only Changsha guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-changsha.py")],check=True)
+
+# English-only Huizhou guide and both existing navigation entry points.
+subprocess.run([sys.executable,str(ROOT/"scripts/check-huizhou.py")],check=True)
+
+subprocess.run([sys.executable,str(ROOT/"scripts/check-guides-pagination.py")],check=True)
+
+subprocess.run([sys.executable,str(ROOT/"scripts/check-certificate-samples.py")],check=True)

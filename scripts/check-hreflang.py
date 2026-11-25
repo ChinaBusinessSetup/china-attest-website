@@ -8,6 +8,7 @@ from urllib.parse import urlsplit, unquote, urljoin
 from collections import Counter
 from lxml import html
 import hashlib,json
+from review_policy import is_review_page
 ROOT=Path(__file__).resolve().parents[1]
 DIST=ROOT/'dist'
 ORIGIN='https://chinaattest.com'
@@ -25,7 +26,8 @@ def expected_url(source,code):
  return ORIGIN+'/'+path
 normal={path_for(source,code) for source in BASE['normal_english_pages'] for code in LANGS}
 redirects=BASE['redirect_sha256']
-actual={p.relative_to(DIST).as_posix() for p in DIST.rglob('*.html')}
+from build_guides import generated_paths
+actual={p.relative_to(DIST).as_posix() for p in DIST.rglob('*.html')}-set(generated_paths())
 check(actual==normal|set(redirects),'HTML inventory differs from Task 01: missing='+str(sorted((normal|set(redirects))-actual))+' extra='+str(sorted(actual-(normal|set(redirects)))))
 docs={rel:html.parse(str(DIST/rel)) for rel in actual}
 for rel,digest in redirects.items():
@@ -46,6 +48,10 @@ for source in BASE['normal_english_pages']:
   check(doc.getroot().get('lang')==code,rel+': document language')
   if code=='ar':check(doc.getroot().get('dir')=='ltr',rel+': Arabic LTR changed')
   check(doc.xpath('//head/link[@rel="canonical"]/@href')==[self_url],rel+': canonical is not its original self URL')
+  if is_review_page(source):
+   check(not doc.xpath('//link[@hreflang]'),rel+': noindex review must not join head hreflang')
+   check(doc.xpath('//head/meta[@name="robots"]/@content')==['noindex,follow'],rel+': review noindex missing')
+   continue
   links=doc.xpath('//head/link[@rel="alternate"][@hreflang]')
   check(len(links)==8,rel+': expected 7 language alternates plus x-default')
   check(len(doc.xpath('//link[@hreflang]'))==8,rel+': duplicate/misplaced hreflang links')
@@ -86,6 +92,6 @@ check(len(normal)==602 and len(redirects)==175,'Unexpected Task 01 baseline coun
 if errors:
  for error in errors:print('ERROR',error)
  raise SystemExit(f'{len(errors)} hreflang failures')
-print('PASS: hreflang 602/602 normal pages; '+', '.join(code+' '+str(counts[code])+'/86' for code in LANGS))
-print('PASS: 86 complete topic groups; 4816 head alternate tags; self-references, reciprocal links, x-default, production URLs and Canonical.')
+print('PASS: Canonical 602/602; indexable hreflang 217/217; '+', '.join(code+' '+str(counts[code])+'/31' for code in LANGS))
+print('PASS: 31 complete indexable topic groups; 1736 head alternate tags; self-references, reciprocal links, x-default, production URLs and Canonical.')
 print('PASS: 175 redirect files unchanged, no redirect hreflang; HTML path inventory and Arabic LTR preserved.')

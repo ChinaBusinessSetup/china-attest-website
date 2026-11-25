@@ -3806,8 +3806,9 @@
   },
   {
     "id": "765",
-    "text": "This is a review detail template, not actual client reviews.",
-    "context": "dist/review-academic.html:p"
+    "text": "",
+    "context": "dist/review-academic.html:p",
+    "retired": true
   },
   {
     "id": "766",
@@ -3821,8 +3822,9 @@
   },
   {
     "id": "768",
-    "text": "AWAITING APPROVED CLIENT FEEDBACK",
-    "context": "dist/review-academic.html:span"
+    "text": "",
+    "context": "dist/review-academic.html:span",
+    "retired": true
   },
   {
     "id": "769",
